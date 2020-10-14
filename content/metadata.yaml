@@ -1,26 +1,43 @@
 ---
-title: "Manuscript Title"
+title: "sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots "
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: fmsabatini
+    name: Francesco Maria Sabatini
+    initials: FMS
+    orcid: 0000-0002-7202-7697
+    twitter: sPlot_iDiv
+    email: francesco.sabatini@botanik.uni-halle.de
     affiliations:
-      - Department of Something, University of Whatever
+      - German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany
+      - Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - 
+    correspondence: true
+  - github: lenjon
+    name: Jonathan Lenoir
+    initials: JN
+    orcid: 0000-0003-0638-9582
+    twitter: EkoLogIt
+    email: jonathan.lenoir@u-picardie.fr
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France
+    funders:
+      - 
+  - github: 
+    name: Helge Bruelheide
+    initials: HB
+    orcid: 0000-0003-3135-0356
+    twitter: HelgeBruelheide
+    email: helge.bruelheide@botanik.uni-halle.de
+    affiliations:
+      - Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany
+    funders:
+      - 
+
+
