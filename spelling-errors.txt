@@ -44,12 +44,15 @@ Kirchtor
 Langendoen
 lenjon
 macroclimatic
+midlatitudes
+overrepresentation
 overrepresented
 PCA
 Peet
 Picardie
+plotbiomes
 resampled
-Resampling
+resampling
 Saale
 Sabatini
 SOILGRIDS
