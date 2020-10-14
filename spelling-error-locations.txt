@@ -24,9 +24,6 @@ content/03.Methods.md:5:datasets
 content/03.Methods.md:6:datasets
 content/03.Methods.md:6:datasets
 content/03.Methods.md:6:datasets
-content/03.Methods.md:6:Faber
-content/03.Methods.md:6:Langendoen
-content/03.Methods.md:6:Peet
 content/03.Methods.md:6:Peet
 content/03.Methods.md:6:TAVA
 content/03.Methods.md:6:VegBank

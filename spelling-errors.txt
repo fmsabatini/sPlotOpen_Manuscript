@@ -73,7 +73,7 @@ CWV
 Dajić
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -106,7 +106,6 @@ ESY
 Eszter
 Evapotranspiration
 Ewald
-Faber
 Fabio
 Fahmida
 Fanelli
@@ -206,7 +205,6 @@ Küzmič
 KZ
 Lájer
 Landucci
-Langendoen
 Lebedeva
 lenjon
 Levesley
@@ -267,7 +265,7 @@ Rašomavičius
 Relevé
 Renata
 resampled
-Resampling
+resampling
 Revermann
 Risto
 RO
