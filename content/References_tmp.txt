@@ -1,4 +1,5 @@
 Bar-On et al. 2018 @doi:10.1073/pnas.1711842115
+Baselga 2012 @doi:10.1111/j.1466-8238.2011.00756.x
 Boakes et al., 2010 @doi:10.1371/journal.pbio.1000385
 Bonebrake et al. 2018 @doi:10.1111/brv.12344
 Bruelheide et al. 2018 @doi:10.1038/s41559-018-0699-8
@@ -7,32 +8,48 @@ Bruelheide et al. 2019 @doi:10.1111/jvs.12710
 Cardinale et al. 2011 @doi:10.3732/ajb.1000364 
 Chytrý et al., 2016 @doi:10.1111/avsc.12191
 
-Franklin, Serra‐Diaz, Syphard, & Regan, 2017 @doi:10.1111/geb.12501
-Enquist et al. 2016 @doi:10.7287/peerj.preprints.2615v2
+Dengler et al., 2011 @doi:10.1111/j.1654-1103.2011.01265.x
 
-IPBES 2018 @ISBN:978-3-947851-13-3
+Enquist et al., 2015 @doi:10.1016/bs.aecr.2015.02.001
+Enquist et al. 2016 @doi:10.7287/peerj.preprints.2615v2
+Fazayeli, Banerjee, Kattge, Schrodt, & Reich, 2017 @doi: 10.1109/ICMLA.2014.56
+Franklin, Serra‐Diaz, Syphard, & Regan, 2017 @doi:10.1111/geb.12501
+Hengl et al. 2017 @doi:10.1371/journal.pone.0169748 
+
+IPBES 2018 @isbn:978-3-947851-13-3
 
 Jaenson & Lindgren 2011 @doi:10.1016/j.ttbdis.2010.10.006
 Jandt et al. 2011 @doi:10.1111/j.1654-1103.2011.01318.x 
 Jones et al. 2008 @doi:10.1038/nature06536
 
+Karger et al. 2017 @doi:10.1038/sdata.2017.122
 Kattge et al. 2020 @doi:10.1111/gcb.14904
 König et al. 2019 @doi:10.1371/journal.pbio.3000183 
 
+Lengyel et al. (2011) @doi:10.1111/j.1654-1103.2010.01225.x
 Lenoir et al. 2008 @doi:10.1126/science.1156831
 Lenoir et al. 2020 @doi:10.1038/s41559-020-1198-2 
+Lenoir & Svenning 2015 @doi:10.1111/ecog.00967
+
 Pecl et al. 2017 @doi:10.1126/science.aai9214
 Perring et al., 2018 @doi:10.1111/gcb.14030 
-Phillips et al. 2019 @do:10.1890/07-2153.1
+Peet, Lee, Boyle, et al., 2012;                                     --->> MANUAL
+Peet, Lee, Jennings, & Faber‐Langendoen, 2012                       --->> MANUAL
+Phillips et al. 2009 @do:10.1890/07-2153.1
 
+Reich, 2014 @doi:10.1111/1365-2745.12211
+Schrodt et al., 2015 @doi:10.1111/geb.12335
 Siraj et al. 2014 @doi:10.1126/science.1244325
 Staude et al. 2020 @doi:10.1038/s41559-020-1176-8 
 Steinbauer et al., 2018 @doi:10.1038/s41586-018-0005-6 
 
+Trabucco et al. 2010                                                --->> MANUAL
+
 van der Sande et al. 2020 @doi:10.1111/geb.13027
 
 Weigand et al, 2019 @doi:10.1111/jbi.13782
-Weigelt et al. 2019 @doi.org/10.1111/jbi.13623
+Weigelt et al. 2019 @doi:10.1111/jbi.13623
+Westoby, 1998; @doi:10.1023/A:1004327224729
 Wiser, 2016 @doi:10.1111/jvs.12419
 
 
