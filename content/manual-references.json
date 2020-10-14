@@ -18,5 +18,67 @@
       "family": "Himmelstein"
     }
   ]
+},
+{
+  "id": "Peet2012",
+  "type": "chapter",
+  "title": "VegBank – a permanent, open‐access archive for vegetation‐plot data",
+  "container-title": "Vegetation databases for the 21st century",
+  "publisher": "Biodiversity & Ecology",
+  "page": "233-241",
+  "volume": "4",
+  "URL": "https://doi.org/10.7809/b-e",
+  "author": [
+    {
+      "family": "Peet",
+      "given": "Richard K."
+    },
+    {
+      "family": "Lee",
+      "given": "M. T."
+    },
+    {
+      "family": "Jennings",
+      "given": "M. D."
+    },
+    {
+      "family": "Faber‐Langendoen",
+      "given": "D."
+    }
+  ],
+  "editor": [
+    {
+      "family": "Dengler",
+      "given": "Jürgen"
+    },
+    {
+      "family": "Oldeland",
+      "given": "J"
+    },
+    {
+      "family": "Jansen",
+      "given": "F"
+    },
+    {
+      "family": "Chytrý",
+      "given": "M"
+    },
+    {
+      "family": "Ewald",
+      "given": "J"
+    },
+    {
+      "family": "Finckh",
+      "given": "Manfred"
+    },
+    {
+      "family": "Schaminée ",
+      "given": "J. H. J."
+    }
+  ]
 }
 ]
+
+
+
+
