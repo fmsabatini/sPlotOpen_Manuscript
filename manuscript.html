@@ -58,9 +58,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -81,9 +81,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/4c265084dc1fac855a7c0e0128c01c799653fbb9">fmsabatini/sPlotOpen_Manuscript@4c26508</a>
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/a4967ab0564e47df43c7758c46b57142f497a05d">fmsabatini/sPlotOpen_Manuscript@a4967ab</a>
 on October 15, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -241,6 +241,20 @@ For an extensive explanation on this classification scheme, we refer the reader 
 Even if the proportion of forest vs. non forest vegetation plots is relatively well-balanced, the geographical distribution of vegetation plots belonging to different vegetation types is likely not balanced in the geographical space, as it depends on the idiosyncrasies of the individual datasets composing the sPlot database.
 For instance, the data from New Zealand only include plots collected in non-forest ecosystems, while data from Chile only refer to forests.
 We invite potential users to carefully read the description of each individual dataset before using this open-access dataset.</p>
+<h2 class="page_break_before" id="database-organization">Database Organization</h2>
+<p>The open-access dataset is organized into three matrices.</p>
+<p>The <em>‘header’</em> matrix contains plot level information for the 91,031 vegetation plots provided in this open access dataset, including metadata (e.g., plot ID, ownership, sampling date, geographical location, positional accuracy), sampling design information (e.g., the total surface area used during the vegetation survey), and a plot-level description of vegetation structure (e.g., vegetation type, percentage cover of each vegetation layer).
+A brief description of all the xx variables contained in the header matrix is provided in <a href="#tbl:Table2">t2</a>.</p>
+<p>The <em>‘DT’</em> matrix contains data on the species composition of each plot. It is structured in a long format and contains 1,607,826 records, from 39,922 taxa, mostly resolved at the species level.
+For each record we report both the taxon name as originally contributed by the data custodian (column <em>‘Matched_concept’</em>), and the taxon name after taxonomic standardization (column <em>‘Species_name_harmonized’</em>).
+For each entry, we report the species covervalues. These follow different standards across the datasets constituting the sPlot database.
+We therefore provide both the original covervalue (column <em>‘Cover’</em>) and a <em>‘Relative_cover’</em> field, i.e., the coverof each taxon in each vegetation layer divided by the total coverof all taxa in that vegetation layer.
+Finally, for each entry, we provide a <em>‘Taxon_group’</em> field, reporting whether the corresponding taxa is a vascular plant, moss, lichen or alga.</p>
+<p>Finally the <em>‘CWM’</em> matrix contains the community weighted means and variances calculated for each of the 18 functional traits mentioned above. It also contains three additional columns. The column <em>‘Species_richness’</em> returns the number of species recorded in each plot. The columns <em>‘Trait_coverage_cover’</em> and <em>‘Trait_coverage_pa’</em> return respectively the proportion of total cover and species in a plot for which functional trait information was available.</p>
+<p>Functional trait information was available for 20,932 species.
+The average proportion of species in each plot for which we have functional trait information is 0.88 (median = 1).
+For 47,177 plots the coverage is complete, while only in one plot we have no functional trait information for any of the occurring species.
+When considering relative cover, the average species coverage increases to 0.89. As many as 68,234 and 74,388 plots have functional trait information for more than 80% of the species or relative cover, respectively.</p>
 <h2 class="page_break_before" id="technical-validation">Technical Validation</h2>
 <p>The sPlot database has a nested structure, and is composed of several individual datasets, each validated and maintained by its respective dataset custodian.
 Each individual dataset also has individual vegetation plots, each provided by its owner (the person who performed the actual vegetation survey) or by someone who digitized the original data from the scientific or grey literature.
@@ -257,6 +271,16 @@ Additional detail on the taxonomic resolution is reported in [<span class="citat
 <p> 
 ## Usage Notes</p>
 <h2 id="code-availability">Code Availability</h2>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>We are grateful to thousands of vegetation scientists who sampled vegetation plots in the field or digitized them into regional, national or international databases.
+We also appreciate the support of the German Research Foundation for funding sPlot as one of the iDiv (DFG FZT 118) research platforms, and the organization of three workshops through the sDiv calls.
+We acknowledge this support with naming the database “sPlot”, where the “s” refers to the sDiv synthesis workshops.
+The study was supported by the TRY initiative on plant traits ( http://www.try-db.org).
+For all further acknowledgements see Appendix S10 in [<span class="citation" data-cites="1H3M9kGrz"><a href="#ref-1H3M9kGrz" role="doc-biblioref">23</a></span>].</p>
+<h2 id="author-contributions">Author contributions</h2>
+<p>[<em>Each author’s contribution to the work should be described briefly, on a separate line, in the Author Contributions section.</em>]</p>
+<h2 id="competing-interests">Competing interests</h2>
+<p>[<em>A competing interests statement is required for all papers accepted by and published in Scientific Data. If there is no conflict of interest, a statement declaring this must still be included in the manuscript.</em>]</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" class="references hanging-indent" role="doc-bibliography">

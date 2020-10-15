@@ -1,5 +1,6 @@
 Abd
 Aćić
+Acknowledgements
 AEKOS
 Agrillo
 Alfaro
@@ -82,11 +83,13 @@ Dengler
 des
 Desalegn
 Desislava
+DFG
 Dimopoulos
 DK
 Dolezal
 Domas
 DSV
+DT
 Dukát
 Dynamique
 Eckert
@@ -123,6 +126,7 @@ Francesco
 Fu
 für
 FVDT
+FZT
 Garbolino
 García
 Gasper
@@ -268,7 +272,7 @@ Rašomavičius
 Relevé
 Renata
 resampled
-resampling
+Resampling
 Revermann
 Risto
 RO
@@ -285,6 +289,7 @@ Sanctis
 Sapienza
 Schaminée
 Schmiedel
+sDiv
 Sergey
 Shan
 Shrubland

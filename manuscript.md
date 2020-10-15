@@ -6,7 +6,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-10-15'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta name=\"citation_title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta property=\"og:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta property=\"twitter:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta name=\"dc.date\" content=\"2020-10-15\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-15\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7202-7697\" />\n<meta name=\"twitter:creator\" content=\"@sPlot_iDiv\" />\n<meta name=\"citation_author\" content=\"Jonathan Lenoir\" />\n<meta name=\"citation_author_institution\" content=\"Unit\xE9 de Recherche \u201CEcologie et Dynamique des Syst\xE8mes Anthropis\xE9s\u201D (EDYSAN), UMR 7058 CNRS, Universit\xE9 de Picardie Jules Verne, 80037 Amiens Cedex 1, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0638-9582\" />\n<meta name=\"twitter:creator\" content=\"@EkoLogIt\" />\n<meta name=\"citation_author\" content=\"Helge Bruelheide\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3135-0356\" />\n<meta name=\"twitter:creator\" content=\"@HelgeBruelheide\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta name=\"citation_title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta property=\"og:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta property=\"twitter:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots \" />\n<meta name=\"dc.date\" content=\"2020-10-15\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-15\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7202-7697\" />\n<meta name=\"twitter:creator\" content=\"@sPlot_iDiv\" />\n<meta name=\"citation_author\" content=\"Jonathan Lenoir\" />\n<meta name=\"citation_author_institution\" content=\"Unit\xE9 de Recherche \u201CEcologie et Dynamique des Syst\xE8mes Anthropis\xE9s\u201D (EDYSAN), UMR 7058 CNRS, Universit\xE9 de Picardie Jules Verne, 80037 Amiens Cedex 1, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0638-9582\" />\n<meta name=\"twitter:creator\" content=\"@EkoLogIt\" />\n<meta name=\"citation_author\" content=\"Helge Bruelheide\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3135-0356\" />\n<meta name=\"twitter:creator\" content=\"@HelgeBruelheide\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -26,9 +26,9 @@ title: 'sPlot open - An environmentally-balanced, open-access, global dataset of
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/sPlotOpen_Manuscript/v/4c265084dc1fac855a7c0e0128c01c799653fbb9/))
+([permalink](https://fmsabatini.github.io/sPlotOpen_Manuscript/v/a4967ab0564e47df43c7758c46b57142f497a05d/))
 was automatically generated
-from [fmsabatini/sPlotOpen_Manuscript@4c26508](https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/4c265084dc1fac855a7c0e0128c01c799653fbb9)
+from [fmsabatini/sPlotOpen_Manuscript@a4967ab](https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/a4967ab0564e47df43c7758c46b57142f497a05d)
 on October 15, 2020.
 </em></small>
 
@@ -216,6 +216,27 @@ For instance, the data from New Zealand only include plots collected in non-fore
 We invite potential users to carefully read the description of each individual dataset before using this open-access dataset.
 
 
+## Database Organization {.page_break_before}
+
+The open-access dataset is organized into three matrices.  
+
+The *‘header’* matrix contains plot level information for the 91,031 vegetation plots provided in this open access dataset, including metadata (e.g., plot ID, ownership, sampling date, geographical location, positional accuracy), sampling design information (e.g., the total surface area used during the vegetation survey), and a plot-level description of vegetation structure (e.g., vegetation type, percentage cover of each vegetation layer). 
+A brief description of all the xx variables contained in the header matrix is provided in @tbl:Table2.  
+
+The *‘DT’* matrix contains data on the species composition of each plot. It is structured in a long format and contains 1,607,826 records, from 39,922 taxa, mostly resolved at the species level. 
+For each record we report both the taxon name as originally contributed by the data custodian (column *‘Matched_concept’*), and the taxon name after taxonomic standardization (column *‘Species_name_harmonized’*). 
+For each entry, we report the species cover\abundance values. These follow different standards across the datasets constituting the sPlot database. 
+We therefore provide both the original cover\abundance value (column *‘Cover’*) and a *‘Relative_cover’* field, i.e., the cover\abundance of each taxon in each vegetation layer divided by the total cover\abundance of all taxa in that vegetation layer. 
+Finally, for each entry, we provide a *‘Taxon_group’* field, reporting whether the corresponding taxa is a vascular plant, moss, lichen or alga.  
+
+Finally the *‘CWM’* matrix contains the community weighted means and variances calculated for each of the 18 functional traits mentioned above. It also contains three additional columns. The column *‘Species_richness’* returns the number of species recorded in each plot. The columns *‘Trait_coverage_cover’* and *‘Trait_coverage_pa’* return respectively the proportion of total cover and species in a plot for which functional trait information was available.  
+
+Functional trait information was available for 20,932 species. 
+The average proportion of species in each plot for which we have functional trait information is 0.88 (median = 1). 
+For 47,177 plots the coverage is complete, while only in one plot we have no functional trait information for any of the occurring species. 
+When considering relative cover, the average species coverage increases to 0.89. As many as 68,234 and 74,388 plots have functional trait information for more than 80% of the species or relative cover, respectively.
+
+
 ## Technical Validation {.page_break_before}
 
 The sPlot database has a nested structure, and is composed of several individual datasets, each validated and maintained by its respective dataset custodian. 
@@ -236,6 +257,20 @@ Additional detail on the taxonomic resolution is reported in \[@doi:10.1111/jvs.
 ## Usage Notes
 
 ## Code Availability
+
+
+## Acknowledgements
+We are grateful to thousands of vegetation scientists who sampled vegetation plots in the field or digitized them into regional, national or international databases. 
+We also appreciate the support of the German Research Foundation for funding sPlot as one of the iDiv (DFG FZT 118) research platforms, and the organization of three workshops through the sDiv calls. 
+We acknowledge this support with naming the database “sPlot”, where the “s” refers to the sDiv synthesis workshops. 
+The study was supported by the TRY initiative on plant traits ( http://www.try-db.org). 
+For all further acknowledgements see Appendix S10 in \[@doi:10.1111/jvs.12710\].  
+
+## Author contributions
+\[*Each author’s contribution to the work should be described briefly, on a separate line, in the Author Contributions section.*\]
+ 
+## Competing interests
+\[*A competing interests statement is required for all papers accepted by and published in Scientific Data. If there is no conflict of interest, a statement declaring this must still be included in the manuscript.*\]
 
 
 ## References {.page_break_before}
