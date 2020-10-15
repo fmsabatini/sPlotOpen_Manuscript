@@ -24,10 +24,17 @@ authors:
     email: jonathan.lenoir@u-picardie.fr
     affiliations:
       - Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France
-  - name: Svetlana Aćić
+  - github: 
+    name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
     affiliations: 
-      - Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia
+      -	Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia
+  - github: 
+    name: Emiliano Agrillo
+    orcid: 0000-0003-2346-8346
+    email: emiliano.agrillo@gmail.com
+    affiliations: 
+      -	"Sapienza" University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy  
   - github: 
     name: Helge Bruelheide
     initials: HB
