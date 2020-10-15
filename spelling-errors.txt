@@ -165,6 +165,7 @@ INBOVEG
 Indreica
 Institut
 Ioannis
+iPlant
 ISPRA
 Itziar
 Jaccard’s
@@ -232,6 +233,7 @@ Natura
 NBGVD
 NL
 Nobis
+nomenclatural
 Noroozi
 Nowak
 Okavango
@@ -259,6 +261,7 @@ Pierangela
 PIPPN
 plotbiomes
 Prokhorov
+Purschke
 Rafajová
 Rasmus
 Rašomavičius
@@ -299,6 +302,7 @@ SOPHY
 Sopotlieva
 sortings
 sPlot
+sPlot’s
 Spribille
 SSAForests
 Stančić
@@ -318,17 +322,19 @@ TAVA
 TeneKwetche
 Tien
 TJ
+TNRS
 Tomáš
 Trabucco
 truthing
 Tsiripidis
 TundraPlot
+Turboveg
 Turtureanu
 TW
 UA
 ukasz
 UMR
-Understory
+understory
 Unité
 Universität
 Université
