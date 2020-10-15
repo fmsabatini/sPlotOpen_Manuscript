@@ -1,8 +1,9 @@
 Abd
 Aćić
-Acknowledgements
+acknowledgements
 AEKOS
 Agrillo
+Agrobotany
 Alfaro
 Amiens
 Ammophiletea
@@ -235,6 +236,7 @@ Münster
 Munzinger
 Natura
 NBGVD
+Nemanjina
 NL
 Nobis
 nomenclatural
@@ -339,7 +341,7 @@ TW
 UA
 ukasz
 UMR
-understory
+Understory
 Unité
 Universität
 Université
@@ -378,6 +380,7 @@ Wittenberg
 Wohlgemuth
 Yamalov
 Željko
+Zemun
 Zhao
 Zhiyao
 Zizka
