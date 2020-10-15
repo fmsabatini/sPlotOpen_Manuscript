@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -35,7 +35,6 @@ Arfin
 Arhimedova
 Arkadiusz
 Armin
-asd
 Attorre
 Aubin
 Batorskaya
@@ -123,7 +122,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -262,6 +261,7 @@ Institut
 Instituto
 Invasiones
 Ioannis
+ipbes
 iPlant
 IRD
 ISPRA
@@ -396,6 +396,7 @@ PCA
 Pécs
 Pedashenko
 Peet
+PeetLeeBoyle
 Pérez
 Permoserstr
 Perugia
@@ -517,7 +518,6 @@ TNRS
 Togliatti
 Toljatty
 Tomáš
-Trabucco
 Transilvania
 trg
 truthing
