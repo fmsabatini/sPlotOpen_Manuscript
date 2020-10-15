@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-acknowledgements
+Acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -426,7 +426,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -487,7 +487,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-Str
+str
 subpolar
 Subtrop
 Suchdol
@@ -528,7 +528,7 @@ UFZ
 ukasz
 Ulan
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
