@@ -426,7 +426,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -487,7 +487,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-Str
+str
 subpolar
 Subtrop
 Suchdol
@@ -528,7 +528,7 @@ UFZ
 ukasz
 Ulan
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
