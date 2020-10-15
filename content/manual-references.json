@@ -27,7 +27,14 @@
   "publisher": "Biodiversity & Ecology",
   "page": "233-241",
   "volume": "4",
-  "URL": "https://doi.org/10.7809/b-e",
+  "URL": "https://doi.org/10.7809/b-e.00080",
+  "issued": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
   "author": [
     {
       "family": "Peet",
@@ -53,19 +60,19 @@
     },
     {
       "family": "Oldeland",
-      "given": "J"
+      "given": "J."
     },
     {
       "family": "Jansen",
-      "given": "F"
+      "given": "F."
     },
     {
       "family": "Chytrý",
-      "given": "M"
+      "given": "M."
     },
     {
       "family": "Ewald",
-      "given": "J"
+      "given": "J."
     },
     {
       "family": "Finckh",
@@ -76,6 +83,219 @@
       "given": "J. H. J."
     }
   ]
+}, 
+
+{
+  "id": "PeetLeeBoyle2012",
+  "type": "chapter",
+  "title": "Vegetation-plot database of the Carolina Vegetation Survey",
+  "container-title": "Vegetation databases for the 21st century",
+  "publisher": "Biodiversity & Ecology",
+  "page": "243-253",
+  "volume": "4",
+  "URL": "https://doi.org/0.7809/b-e.00081",
+  "issued": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Peet",
+      "given": "Richard K."
+    },
+    {
+      "family": "Lee",
+      "given": "Michael T."
+    },
+    {
+      "family": "Boyle",
+      "given": "M. Forbes"
+    },
+    {
+      "family": "Wentworth",
+      "given": "Thomas R."
+    },
+    {
+      "family": "Schafale",
+      "given": "Michael P."
+    },
+    {
+      "family": "Weakley",
+      "given": "Alan S."
+    }
+  ],
+  "editor": [
+    {
+      "family": "Dengler",
+      "given": "Jürgen"
+    },
+    {
+      "family": "Oldeland",
+      "given": "J."
+    },
+    {
+      "family": "Jansen",
+      "given": "F."
+    },
+    {
+      "family": "Chytrý",
+      "given": "M."
+    },
+    {
+      "family": "Ewald",
+      "given": "J."
+    },
+    {
+      "family": "Finckh",
+      "given": "Manfred"
+    },
+    {
+      "family": "Schaminée ",
+      "given": "J. H. J."
+    }
+  ]
+}, 
+{
+  "id": "ipbes2019",
+  "type": "book",
+  "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+  "publisher": "IPBES secretariat",
+  "publisher-place": "Bonn, Germany",
+  "number-of-pages": "56",
+  "ISBN": "978-3-947851-13-3",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "IPBES"
+    }
+  ],
+  "editor": [
+    {
+      "family": "Díaz",
+      "given": "S."
+    },
+    {
+      "family": "Settele",
+      "given": "J."
+    },
+    {
+      "family": "Brondízio",
+      "given": "E. S."
+    },
+    {
+      "family": "Ngo",
+      "given": "H. T. "
+    },
+    {
+      "family": "Guèze",
+      "given": "M."
+    },
+    {
+      "family": "Agard",
+      "given": "J."
+    },
+    {
+      "family": "Arneth",
+      "given": "A."
+    },
+    {
+      "family": "Balvanera",
+      "given": "P."
+    },
+    {
+      "family": "Brauman",
+      "given": "K. A."
+    },
+    {
+      "family": "Butchart",
+      "given": "S. H. M."
+    },
+    {
+      "family": "Chan",
+      "given": "K. M. A."
+    },
+    {
+      "family": "Garibaldi",
+      "given": "L. A. "
+    },
+    {
+      "family": "Ichii",
+      "given": "K."
+    },
+    {
+      "family": "Liu",
+      "given": "J."
+    },
+    {
+      "family": "Subramanian",
+      "given": "S. M."
+    },
+    {
+      "family": "Midgley",
+      "given": "G. F. "
+    },
+    {
+      "family": "Miloslavich",
+      "given": "P."
+    },
+    {
+      "family": "Molnár",
+      "given": "Z."
+    },
+    {
+      "family": "Obura",
+      "given": "D."
+    },
+    {
+      "family": "Pfaff",
+      "given": "A."
+    },
+    {
+      "family": "Polasky",
+      "given": "S."
+    },
+    {
+      "family": "Purvis",
+      "given": "A."
+    },
+    {
+      "family": "Razzaque",
+      "given": "J."
+    },
+    {
+      "family": "Reyers",
+      "given": "B."
+    },
+    {
+      "family": "Roy Chowdhury",
+      "given": "R."
+    },
+    {
+      "family": "Shin",
+      "given": "Y. J."
+    },
+    {
+      "family": "Visseren-Hamakers",
+      "given": "I. J."
+    }, 
+    {
+      "family": "Willis",
+      "given": "K. J."
+    }, 
+    {
+      "family": "Zayas ",
+      "given": "C. N."
+    }    
+  ]  
 }
 ]
 
