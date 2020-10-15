@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-acknowledgements
+Acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -430,7 +430,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -532,7 +532,7 @@ UFZ
 ukasz
 Ulan
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -551,7 +551,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
