@@ -187,6 +187,7 @@ Fondecyt
 ForestPlots
 Fotiadis
 Francesc
+Francesco
 Fu
 für
 FVDT
@@ -425,7 +426,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -441,6 +442,7 @@ Ruffray
 Ruprecht
 Rūsiņa
 Saale
+Sabatini
 SALVIAS
 Samimi
 Sanctis
@@ -545,7 +547,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
