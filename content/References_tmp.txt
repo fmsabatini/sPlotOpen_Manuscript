@@ -45,7 +45,7 @@ Siraj et al. 2014 @doi:10.1126/science.1244325
 Staude et al. 2020 @doi:10.1038/s41559-020-1176-8 
 Steinbauer et al., 2018 @doi:10.1038/s41586-018-0005-6 
 
-Trabucco et al. 2010                                                --->> MANUAL
+Trabucco et al. 2010  @https://doi.org/10.6084/m9.figshare.7707605.v3
 
 van der Sande et al. 2020 @doi:10.1111/geb.13027
 
