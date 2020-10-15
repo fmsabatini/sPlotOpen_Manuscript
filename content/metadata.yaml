@@ -24,6 +24,7 @@ authors:
     email: jonathan.lenoir@u-picardie.fr
     affiliations:
       - Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France
+
   - github: 
     name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
@@ -33,7 +34,7 @@ authors:
     name: Alicia Acosta
     email: acosta@uniroma3.it
     affiliations: 
-      - University of Rome 3, NA, V.le Marconi 446, 00146, Rome, Italy
+      - University of Rome 3, V.le Marconi 446, 00146, Rome, Italy
   - github: 
     name: Emiliano Agrillo
     orcid: 0000-0003-2346-8346
@@ -95,7 +96,7 @@ authors:
     name: Philippe Birnbaum
     email: philippe.birnbaum@cirad.fr
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Idoia Biurrun
     orcid: 0000-0002-1454-0433
@@ -181,7 +182,7 @@ authors:
     name: Fred J.A. Daniëls
     email: daniels@uni-muenster.de
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Els De Bie
     email: els.debie@inbo.be
@@ -191,7 +192,7 @@ authors:
     name: Louis De Grandpré
     email: louis.degrandpre@rncan-nrcan.gc.ca
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Jürgen Dengler
     orcid: 0000-0003-3221-660X
@@ -199,7 +200,7 @@ authors:
     affiliations: 
       - Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Grüentalstr. 14, 8820, Wädenswil, Switzerland
       - University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, NA, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
     name: Valério De Patta Pillar
     email: vpillar@ufrgs.br
@@ -209,7 +210,7 @@ authors:
     name: Patrice De Ruffray
     email: patrice.de-ruffray@wanadoo.fr
     affiliations: 
-      - IBMP, NA, 12, rue du Général-Zimmer, 67084, Strasburg, France
+      - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France
   - github: 
     name: Michele De Sanctis
     orcid: 0000-0002-7280-6199
@@ -236,13 +237,13 @@ authors:
     name: Sarah Elmendorf
     email: selmendorf@neoninc.org
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Mohamed Abd El-Rouf Mousa El-Sheikh
     email: el_sheikh_eg@yahoo.co.uk
     affiliations: 
       - College of Science, King Saud University, Botany and Microbiology Department, P.O. Box 2455, 11451, Riyadh, Saudi Arabia
-      - Damanhour University, Botany Department, Faculty of Science, NA, NA, Damanhour, Egypt
+      - Damanhour University, Botany Department, Faculty of Science, Damanhour, Egypt
   - github: 
     name: Brian Enquist
     email: benquist@email.arizona.edu
@@ -252,7 +253,7 @@ authors:
     name: Jörg Ewald
     email: joerg.ewald@hswt.de
     affiliations: 
-      - Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, NA, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany
+      - Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany
   - github: 
     name: Giuliano Fanelli
     email: giuliano.fanelli@gmail.com
@@ -321,7 +322,7 @@ authors:
     name: Sebastian Herzog
     email: skherzog@armonia-bo.org
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Norbert Hölzel
     orcid: 0000-0002-6367-3400
@@ -367,7 +368,7 @@ authors:
     name: Anke Jentsch
     email: anke.jentsch@uni-bayreuth.de
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Borja Jiménez-Alfaro
     orcid: 0000-0001-6601-9597
@@ -444,7 +445,7 @@ authors:
     email: kuehl@eva.mpg.de
     affiliations: 
       - Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, NA, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
     name: Filip Küzmič
     email: filip.kuzmic@zrc-sazu.si
@@ -465,7 +466,7 @@ authors:
     name: Michael T. Lee
     email: michael_lee@natureserve.org
     affiliations: 
-      - NatureServe, NA, 601A Foster St., NC 27701, Durham, United States
+      - NatureServe, 601A Foster St., NC 27701, Durham, United States
   - github: 
     name: Aurora Levesley
     email: a.levesley@leeds.ac.uk
@@ -507,7 +508,7 @@ authors:
     name: Alicia Marticorena
     email: amartic@udec.cl
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Wanja Mathar
     email: wanja.mathar@uni-muenster.de
@@ -567,7 +568,7 @@ authors:
     orcid: 0000-0002-6743-0625
     email: hristo_pedashenko@yahoo.com
     affiliations: 
-      - NA, NA, Sarphatistraat 139G, 1018GD, Amsterdam, Netherlands
+      - NA, Sarphatistraat 139G, 1018GD, Amsterdam, Netherlands
   - github: 
     name: Robert K. Peet
     email: peet@unc.edu
@@ -615,7 +616,7 @@ authors:
     name: John S. Rodwell
     email: johnrodwell@tiscali.co.uk
     affiliations: 
-      - 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
+      - NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
   - github: 
     name: Eszter Ruprecht
     email: eszter.ruprecht@ubbcluj.ro
@@ -674,7 +675,7 @@ authors:
     email: tenekwetche_sop@eva.mpg.de
     affiliations: 
       - Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, NA, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
     name: Desislava Sopotlieva
     email: desislava.sopotlieva@iber.bas.bg
@@ -699,7 +700,7 @@ authors:
     name: Fahmida Sultana
     email: fahmida_nilukhan@yahoo.com
     affiliations: 
-      - Shahjalal University of Science & Technology, Forestry & Environmental Science, NA, 3114, Sylhet, Bangladesh
+      - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh
   - github: 
     name: Jens-Christian Svenning
     orcid: 0000-0002-3415-0862
@@ -720,7 +721,7 @@ authors:
     name: Ioannis Tsiripidis
     email: tsiripid@bio.auth.gr
     affiliations: 
-      - Aristotle University of Thessaloniki, School of Biology, NA, 54124, Thessaloniki, Greece
+      - Aristotle University of Thessaloniki, School of Biology, 54124, Thessaloniki, Greece
   - github: 
     name: Pavel Dan Turtureanu
     email: turtureanudan@gmail.com
@@ -775,7 +776,7 @@ authors:
     affiliations: 
       - University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland
       - Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, NA, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
     name: Henrik von Wehrden
     email: henrik.von_wehrden@leuphana.de
@@ -806,7 +807,7 @@ authors:
     email: karsten.wesche@senckenberg.de
     affiliations: 
       - Senckenberg Museum of Natural History Görlitz, Botany Department, PO Box 300 154, 02806, Görlitz, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, NA, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
       - Technische Universität Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany
   - github: 
     name: Timothy Whitfeld
@@ -817,13 +818,13 @@ authors:
     name: Wolfgang Willner
     email: wolfgang.willner@vinca.at
     affiliations: 
-      - Vienna Institute for Nature Conservation & Analyses, NA, Giessergasse 6/7, 1090, Vienna, Austria
+      - Vienna Institute for Nature Conservation & Analyses, Giessergasse 6/7, 1090, Vienna, Austria
   - github: 
     name: Susan Wiser
     orcid: 0000-0002-8938-8181
     email: wisers@landcareresearch.co.nz
     affiliations: 
-      - Manaaki Whenua -- Landcare Research, NA, PO Box 69040, 7640, Lincoln, New Zealand
+      - Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
   - github: 
     name: Thomas Wohlgemuth
     email: thomas.wohlgemuth@wsl.ch
@@ -838,7 +839,7 @@ authors:
     name: Fengjun Zhao
     email: shaylapku@gmail.com
     affiliations: 
-      - NA, NA, NA, NA, NA, NA
+      - NA, 
   - github: 
     name: Georg Zizka
     email: georg.zizka@senckenberg.de
