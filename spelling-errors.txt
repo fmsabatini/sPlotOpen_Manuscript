@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -130,7 +130,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -463,7 +463,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
