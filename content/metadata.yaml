@@ -1,5 +1,5 @@
 ---
-title: "sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots "
+title: "sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots"
 keywords:
   - markdown
   - publishing
@@ -137,7 +137,7 @@ authors:
     orcid: 0000-0002-7280-6199
     email: michele.desanctis@uniroma1.it
     affiliations: 
-      - "Sapienza" University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy
+      - Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy
   - github: 
     name: Panayotis Dimopoulos
     email: pdimopoulos@upatras.gr
@@ -381,7 +381,7 @@ authors:
     name: John S. Rodwell
     email: johnrodwell@tiscali.co.uk
     affiliations: 
-      - NA, NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
+      - 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
   - github: 
     name: Eszter Ruprecht
     email: eszter.ruprecht@ubbcluj.ro
