@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -157,7 +157,6 @@ EDYSAN
 EG
 EHU
 Ejrnæs
-EkoLogIt
 El
 Elmendorf
 Els
@@ -184,12 +183,10 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-fmsabatini
 Fondecyt
 ForestPlots
 Fotiadis
 Francesc
-Francesco
 Fu
 für
 FVDT
@@ -231,7 +228,6 @@ Hatim
 Havenlaan
 Heisenbergstr
 Helge
-HelgeBruelheide
 HelNatVeg
 Hennekens
 Herbarium
@@ -325,7 +321,6 @@ Landcare
 Landucci
 Laserna
 Lebedeva
-lenjon
 Leuphana
 Levesley
 Liebig
@@ -446,7 +441,6 @@ Ruffray
 Ruprecht
 Rūsiņa
 Saale
-Sabatini
 SALVIAS
 Samimi
 Sanctis
@@ -491,7 +485,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-str
+Str
 subpolar
 Subtrop
 Suchdol
@@ -532,7 +526,7 @@ UFZ
 ukasz
 Ulan
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
