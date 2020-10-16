@@ -466,7 +466,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -532,7 +532,7 @@ Stadt
 Stančić
 Sterea
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -580,7 +580,7 @@ UFZ
 ukasz
 Ulan
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -601,7 +601,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
