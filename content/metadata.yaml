@@ -24,7 +24,14 @@ authors:
     email: jonathan.lenoir@u-picardie.fr
     affiliations:
       - Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France
-
+  - github: TarekHattab
+    name: Tarek Hattab
+    initials: TH
+    orcid: 0000-0002-1420-5758
+    twitter:
+    email: Tarek.Hattab@ifremer.fr
+    affiliations:
+      - MARBEC, Univ Montpellier, CNRS, IFREMER and IRD, Sète, France
   - github: 
     name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
