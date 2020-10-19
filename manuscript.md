@@ -3,107 +3,73 @@ author-meta:
 - Francesco Maria Sabatini
 - Jonathan Lenoir
 - Tarek Hattab
+- Elise Arnst
+- "Milan Chytr\xFD"
+- "J\xFCrgen Dengler"
+- "Val\xE9rio De Patta Pillar"
+- Patrice De Ruffray
+- Stephan M. Hennekens
+- Ute Jandt
+- Florian Jansen
+- "Borja Jim\xE9nez-Alfaro"
+- Jens Kattge
+- Aurora Levesley
+- Oliver Purschke
+- Brody Sandel
+- Fahmida Sultana
+- Marten Winter
 - "Svetlana A\u0107i\u0107"
-- Alicia Acosta
 - Emiliano Agrillo
 - Miguel Alvarez
-- Pierangela Angelini
 - Iva Apostolova
 - Mohammed A.S. Arfin Khan
-- Fabio Attorre
 - Isabelle Aubin
-- Christian Berg
 - Yves Bergeron
 - Erwin Bergmeier
-- Philippe Birnbaum
 - Idoia Biurrun
 - Anne D. Bjorkman
-- Viktoria Bondareva
-- "Zolt\xE1n Botta-Duk\xE1t"
-- Brad Boyle
-- Amy Breen
 - Laura Casella
 - Luis Cayuela
 - "Tom\xE1\u0161 \u010Cern\xFD"
 - Victor Chepinoga
-- "Milan Chytr\xFD"
 - "J\xE1nos Csiky"
-- Michael Curran
 - "Renata \u0106u\u0161terevska"
-- "Zora Daji\u0107 Stevanovi\u0107"
-- "Fred J.A. Dani\xEBls"
 - Els De Bie
-- "Louis De Grandpr\xE9"
-- "J\xFCrgen Dengler"
-- "Val\xE9rio De Patta Pillar"
-- Patrice De Ruffray
 - Michele De Sanctis
 - Panayotis Dimopoulos
-- Jiri Dolezal
-- "Rasmus Ejrn\xE6s"
-- Sarah Elmendorf
 - Mohamed Abd El-Rouf Mousa El-Sheikh
 - Brian Enquist
-- "J\xF6rg Ewald"
-- Giuliano Fanelli
 - Manfred Finckh
-- Xavier Font
-- Georgios Fotiadis
 - Emmanuel Garbolino
-- "Itziar Garc\xEDa-Mijangos"
-- "Andr\xE9 Luis de Gasper"
 - Melisa Giorgis
 - Valentin Golub
 - Alvaro G. Gutierrez
 - Mohamed Z. Hatim
-- Stephan M. Hennekens
-- Sebastian Herzog
 - "Norbert H\xF6lzel"
 - "J\xFCrgen Homeier"
-- Chang-Fu Hsieh
 - Adrian Indreica
-- Ute Jandt
-- Florian Jansen
+- Kim Sarah Jacobsen
 - John Janssen
 - Birgit Jedrzejek
-- Anke Jentsch
-- "Borja Jim\xE9nez-Alfaro"
-- "Martin Jirou\u0161ek"
 - "Norbert J\xFCrgens"
 - "Zygmunt K\u0105cki"
 - "Ali Kavgac\u0131"
-- Elizabeth Kearsley
 - Michael Kessler
-- "Ilona Knollov\xE1"
-- Vitaliy Kolomiychuk
 - Andrey Korolyuk
-- Maria Kozhevnikova
-- "\u0141ukasz Kozub"
-- "Daniel Krstono\u0161i\u0107"
 - "Hjalmar K\xFChl"
-- "Filip K\xFCzmi\u010D"
 - Flavia Landucci
-- Mariya Lebedeva
-- Michael T. Lee
-- Aurora Levesley
 - Ching-Feng Li
 - Hongyan Liu
 - Tatiana Lysenko
-- "Armin Macanovi\u0107"
-- Parastoo Mahdavi
 - "Corrado Marcen\xF2"
-- Alicia Marticorena
-- Wanja Mathar
 - Jesper Erenskjold Moeslund
 - "Jonas V. M\xFCller"
 - "J\xE9r\xF4me Munzinger"
-- Marcin Nobis
 - Jalil Noroozi
 - Arkadiusz Nowak
 - Viktor Onyshchenko
 - Gerhard E. Overbeck
 - "An\xEDbal Pauchard"
-- Hristo Pedashenko
 - Robert K. Peet
 - "Aaron P\xE9rez-Haase"
 - "Tom\xE1\u0161 Peterka"
@@ -118,50 +84,34 @@ author-meta:
 - Cyrus Samimi
 - "Joop H.J. Schamin\xE9e"
 - Marco Schmidt
-- Ute Schmiedel
-- "Jozef \u0160ib\xEDk"
 - "Urban \u0160ilc"
 - "\u017Deljko \u0160kvorc"
 - Anita Smyth
-- TeneKwetche Sop
-- Desislava Sopotlieva
-- Ben Sparrow
-- Toby Spribille
 - "Zvjezdana Stan\u010Di\u0107"
-- Fahmida Sultana
-- Jens-Christian Svenning
-- Grzegorz Swacha
 - Zhiyao Tang
 - Ioannis Tsiripidis
-- Pavel Dan Turtureanu
-- Domas Uogintas
 - "Milan Valachovi\u010D"
 - "Kim Andr\xE9 Vanselow"
 - Kiril Vassilev
 - "Eduardo V\xE9lez-Martin"
 - Roberto Venanzoni
-- Hans Verbeeck
 - Alexander Christian Vibrans
 - Risto Virtanen
 - Henrik von Wehrden
 - Viktoria Wagner
 - Donald A. Walker
 - Desalegn Wana
-- George D. Weiblen
 - Karsten Wesche
 - Timothy Whitfeld
 - Wolfgang Willner
 - Susan Wiser
 - Thomas Wohlgemuth
 - Sergey Yamalov
-- Fengjun Zhao
-- Georg Zizka
-- Andrei Zverev
 - Helge Bruelheide
 bibliography:
 - content/manual-references.json
-date-meta: '2020-10-16'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta name=\"citation_title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta property=\"og:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta property=\"twitter:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta name=\"dc.date\" content=\"2020-10-16\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-16\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7202-7697\" />\n<meta name=\"twitter:creator\" content=\"@sPlot_iDiv\" />\n<meta name=\"citation_author\" content=\"Jonathan Lenoir\" />\n<meta name=\"citation_author_institution\" content=\"Unit\xE9 de Recherche \u201CEcologie et Dynamique des Syst\xE8mes Anthropis\xE9s\u201D (EDYSAN), UMR 7058 CNRS, Universit\xE9 de Picardie Jules Verne, 80037 Amiens Cedex 1, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0638-9582\" />\n<meta name=\"twitter:creator\" content=\"@EkoLogIt\" />\n<meta name=\"citation_author\" content=\"Tarek Hattab\" />\n<meta name=\"citation_author_institution\" content=\"MARBEC, Univ Montpellier, CNRS, IFREMER and IRD, S\xE8te, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1420-5758\" />\n<meta name=\"twitter:creator\" content=\"@None\" />\n<meta name=\"citation_author\" content=\"Svetlana A\u0107i\u0107\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia\" />\n<meta name=\"citation_author\" content=\"Alicia Acosta\" />\n<meta name=\"citation_author_institution\" content=\"University of Rome 3, V.le Marconi 446, 00146, Rome, Italy\" />\n<meta name=\"citation_author\" content=\"Emiliano Agrillo\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2346-8346\" />\n<meta name=\"citation_author\" content=\"Miguel Alvarez\" />\n<meta name=\"citation_author_institution\" content=\"University of Bonn, Plant Nutrition, INRES, Karlrobert-Kreiten-Str., 53115, Bonn, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-1500-1834\" />\n<meta name=\"citation_author\" content=\"Pierangela Angelini\" />\n<meta name=\"citation_author_institution\" content=\"ISPRA - Italian National Institute for Environmental Protection and Research, Biodiversity Conservation Department, Via Vitaliano Brancati, 60, 00144, Roma, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5321-9757\" />\n<meta name=\"citation_author\" content=\"Iva Apostolova\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria\" />\n<meta name=\"citation_author\" content=\"Mohammed A.S. Arfin Khan\" />\n<meta name=\"citation_author_institution\" content=\"Shahjalal University of Science &amp; Technology, Forestry &amp; Environmental Science, Akhalia, 3114, Sylhet, Bangladesh\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6275-7023\" />\n<meta name=\"citation_author\" content=\"Fabio Attorre\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7744-2195\" />\n<meta name=\"citation_author\" content=\"Isabelle Aubin\" />\n<meta name=\"citation_author_institution\" content=\"Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada\" />\n<meta name=\"citation_author\" content=\"Christian Berg\" />\n<meta name=\"citation_author_institution\" content=\"University of Graz, Botanical Garden, Holteigasse 6, 8010, Graz, Austria\" />\n<meta name=\"citation_author\" content=\"Yves Bergeron\" />\n<meta name=\"citation_author_institution\" content=\"Universit\xE9 du Qu\xE9bec en Abitibi-T\xE9miscamingue, Forest Research Institute, 445 boul. de l&#39;Universit\xE9, J9X5E4, Rouyn-Noranda, Canada\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3707-3687\" />\n<meta name=\"citation_author\" content=\"Erwin Bergmeier\" />\n<meta name=\"citation_author_institution\" content=\"University of G\xF6ttingen, Vegetation Ecology and Phytodiversity, Untere Karsp\xFCle 2, 37073, G\xF6ttingen, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6118-4611\" />\n<meta name=\"citation_author\" content=\"Philippe Birnbaum\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Idoia Biurrun\" />\n<meta name=\"citation_author_institution\" content=\"University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1454-0433\" />\n<meta name=\"citation_author\" content=\"Anne D. Bjorkman\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Section for Ecoinformatics &amp; Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark\" />\n<meta name=\"citation_author\" content=\"Viktoria Bondareva\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia\" />\n<meta name=\"citation_author\" content=\"Zolt\xE1n Botta-Duk\xE1t\" />\n<meta name=\"citation_author_institution\" content=\"MTA Centre for Ecological Research, Institute of Ecology and Botany, Alkotmany 2-4, 2163, V\xE1cr\xE1t\xF3t, Hungary\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9544-3474\" />\n<meta name=\"citation_author\" content=\"Brad Boyle\" />\n<meta name=\"citation_author_institution\" content=\"University of Arizona, Ecology and Evolutionary Biology, 1041 E. Lowell St., AZ 85721, Tucson, United States\" />\n<meta name=\"citation_author\" content=\"Amy Breen\" />\n<meta name=\"citation_author_institution\" content=\"University of Alaska, International Arctic Research Center, P.O. Box 757340, 99775, Fairbanks, United States\" />\n<meta name=\"citation_author\" content=\"Laura Casella\" />\n<meta name=\"citation_author_institution\" content=\"ISPRA - Italian National Institute for Environmental Protection and Research, Biodiversity Conservation Department, Via Vitaliano Brancati, 60, 00144, Roma, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2550-3010\" />\n<meta name=\"citation_author\" content=\"Luis Cayuela\" />\n<meta name=\"citation_author_institution\" content=\"Universidad Rey Juan Carlos, Department of Biology, Geology, Physics and Inorganic Chemistry, c/ Tulip\xE1n s/n, 28933, M\xF3stoles, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3562-2662\" />\n<meta name=\"citation_author\" content=\"Tom\xE1\u0161 \u010Cern\xFD\" />\n<meta name=\"citation_author_institution\" content=\"Czech University of Life Sciences Prague, Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Kam\xFDck\xE1 1176, 165 21, Praha 6 - Suchdol, Czech Republic\" />\n<meta name=\"citation_author\" content=\"Victor Chepinoga\" />\n<meta name=\"citation_author_institution\" content=\"V.B. Sochava Insitute of Geography SB RAS, Laboratory of Physical Geography and Biogeography, Ulan-Batorskaya, 1, 664033, Irkutsk, Russian Federation\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3809-7453\" />\n<meta name=\"citation_author\" content=\"Milan Chytr\xFD\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8122-3075\" />\n<meta name=\"citation_author\" content=\"J\xE1nos Csiky\" />\n<meta name=\"citation_author_institution\" content=\"University of P\xE9cs, Department of Ecology, Ifj\xFAs\xE1g u. 6., 7624, P\xE9cs, Hungary\" />\n<meta name=\"citation_author\" content=\"Michael Curran\" />\n<meta name=\"citation_author_institution\" content=\"Swiss Federal Institute of Technology (ETH) Z\xFCrich, Institute of Environmental Engineering, John-von-Neumann-Weg 9, 8093, Z\xFCrich, Switzerland\" />\n<meta name=\"citation_author\" content=\"Renata \u0106u\u0161terevska\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Natural Sciences and Mathematics, Institute of Biology, Arhimedova 3, 1000, Skopje, Republic of Macedonia\" />\n<meta name=\"citation_author\" content=\"Zora Daji\u0107 Stevanovi\u0107\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia\" />\n<meta name=\"citation_author\" content=\"Fred J.A. Dani\xEBls\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Els De Bie\" />\n<meta name=\"citation_author_institution\" content=\"Research Institute for Nature and Forest\_(INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium\" />\n<meta name=\"citation_author\" content=\"Louis De Grandpr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"J\xFCrgen Dengler\" />\n<meta name=\"citation_author_institution\" content=\"Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Gr\xFCentalstr. 14, 8820, W\xE4denswil, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universit\xE4tsstr. 30, 95447, Bayreuth, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3221-660X\" />\n<meta name=\"citation_author\" content=\"Val\xE9rio De Patta Pillar\" />\n<meta name=\"citation_author_institution\" content=\"Federal University of Rio Grande do Sul, Ecology, Av. Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author\" content=\"Patrice De Ruffray\" />\n<meta name=\"citation_author_institution\" content=\"IBMP, 12, rue du G\xE9n\xE9ral-Zimmer, 67084, Strasburg, France\" />\n<meta name=\"citation_author\" content=\"Michele De Sanctis\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7280-6199\" />\n<meta name=\"citation_author\" content=\"Panayotis Dimopoulos\" />\n<meta name=\"citation_author_institution\" content=\"University of Patras, Institute of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece\" />\n<meta name=\"citation_author\" content=\"Jiri Dolezal\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Botany, Czech Academy of Sciences, Department of Functional Ecology, Zamek 1, 25243, Pruhonice, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5829-4051\" />\n<meta name=\"citation_author\" content=\"Rasmus Ejrn\xE6s\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark\" />\n<meta name=\"citation_author\" content=\"Sarah Elmendorf\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Mohamed Abd El-Rouf Mousa El-Sheikh\" />\n<meta name=\"citation_author_institution\" content=\"College of Science, King Saud University, Botany and Microbiology Department, P.O. Box 2455, 11451, Riyadh, Saudi Arabia\" />\n<meta name=\"citation_author_institution\" content=\"Damanhour University, Botany Department, Faculty of Science, Damanhour, Egypt\" />\n<meta name=\"citation_author\" content=\"Brian Enquist\" />\n<meta name=\"citation_author_institution\" content=\"University of Arizona, Ecology and Evolutionary Biology, 1041 E. Lowell St., AZ 85721, Tucson, United States\" />\n<meta name=\"citation_author\" content=\"J\xF6rg Ewald\" />\n<meta name=\"citation_author_institution\" content=\"Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany\" />\n<meta name=\"citation_author\" content=\"Giuliano Fanelli\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author\" content=\"Manfred Finckh\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author\" content=\"Xavier Font\" />\n<meta name=\"citation_author_institution\" content=\"University of Barcelona, Plant Biodiversity Resource Centre, Baldiri Reixac, 2, 08028, Barcelona, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7253-8905\" />\n<meta name=\"citation_author\" content=\"Georgios Fotiadis\" />\n<meta name=\"citation_author_institution\" content=\"TEI of Sterea Ellada, Department of Forestry &amp; Natural Environment Management, Dimokratias 3, 36100, Karpenissi, Greece\" />\n<meta name=\"citation_author\" content=\"Emmanuel Garbolino\" />\n<meta name=\"citation_author_institution\" content=\"MINES ParisTech, Crisis and Risk research Centre (CRC), 1 rue Claude Daunesse, BP 207, 06904, Sophia Antipolis, France\" />\n<meta name=\"citation_author\" content=\"Itziar Garc\xEDa-Mijangos\" />\n<meta name=\"citation_author_institution\" content=\"University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain\" />\n<meta name=\"citation_author\" content=\"Andr\xE9 Luis de Gasper\" />\n<meta name=\"citation_author_institution\" content=\"Regional University of Blumenau, Departament of Natural Science, Antonio da Veiga, 140, \u200B89030-903, Blumenau, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1940-9581\" />\n<meta name=\"citation_author\" content=\"Melisa Giorgis\" />\n<meta name=\"citation_author_institution\" content=\"Instituto Multidisciplinario de Biolog\xEDa Vegetal (IMBIV-CONICET), ECOLOG\xCDA VEGETAL Y FITOGEOGRAF\xCDA, Av. V\xE9lez S\xE1rsfield 1611, 5000, C\xF3rdoba, Argentina\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6126-6660\" />\n<meta name=\"citation_author\" content=\"Valentin Golub\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia\" />\n<meta name=\"citation_author\" content=\"Alvaro G. Gutierrez\" />\n<meta name=\"citation_author_institution\" content=\"Universidad de Chile, Departamento de Ciencias Ambientales y Recursos Naturales Renovables, Facultad de Ciencias Agronomicas, Santa Rosa 11315, La Pintana, 8820808, Santiago, Chile\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8928-3198\" />\n<meta name=\"citation_author\" content=\"Mohamed Z. Hatim\" />\n<meta name=\"citation_author_institution\" content=\"Tanta University, Botany, Faculty of Science, El Geish St., 31527, Tanta, Egypt\" />\n<meta name=\"citation_author\" content=\"Stephan M. Hennekens\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Sebastian Herzog\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Norbert H\xF6lzel\" />\n<meta name=\"citation_author_institution\" content=\"University of Muenster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, M\xFCnster, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6367-3400\" />\n<meta name=\"citation_author\" content=\"J\xFCrgen Homeier\" />\n<meta name=\"citation_author_institution\" content=\"University of G\xF6ttingen, Plant Ecology and Ecosystems Research, Untere Karsp\xFCle 2, 37073, G\xF6ttingen, Germany\" />\n<meta name=\"citation_author\" content=\"Chang-Fu Hsieh\" />\n<meta name=\"citation_author_institution\" content=\"National Taiwan University, Institute of Ecology and Evolutionary Biology, No. 1, Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan\" />\n<meta name=\"citation_author\" content=\"Adrian Indreica\" />\n<meta name=\"citation_author_institution\" content=\"Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania\" />\n<meta name=\"citation_author\" content=\"Ute Jandt\" />\n<meta name=\"citation_author_institution\" content=\"Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany\" />\n<meta name=\"citation_author\" content=\"Florian Jansen\" />\n<meta name=\"citation_author_institution\" content=\"University of Rostock, Faculty of Agricultural and Environmental Sciences, Justus-von-Liebig-Weg 6, 18059, Rostock, Germany\" />\n<meta name=\"citation_author\" content=\"John Janssen\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Birgit Jedrzejek\" />\n<meta name=\"citation_author_institution\" content=\"University of M\xFCnster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, M\xFCnster, Germany\" />\n<meta name=\"citation_author\" content=\"Anke Jentsch\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Borja Jim\xE9nez-Alfaro\" />\n<meta name=\"citation_author_institution\" content=\"University of Oviedo, Research Unit of Biodiversity (CSIC/UO/PA), C. Gonzalo Guti\xE9rrez Quir\xF3s s/n, 33600, Mieres, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6601-9597\" />\n<meta name=\"citation_author\" content=\"Martin Jirou\u0161ek\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4293-478X\" />\n<meta name=\"citation_author\" content=\"Norbert J\xFCrgens\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3211-0549\" />\n<meta name=\"citation_author\" content=\"Zygmunt K\u0105cki\" />\n<meta name=\"citation_author_institution\" content=\"University of Wroc\u0142aw, Botanical Garden, Sienkiewicza 23, 50-335, Wroc\u0142aw, Poland\" />\n<meta name=\"citation_author\" content=\"Ali Kavgac\u0131\" />\n<meta name=\"citation_author_institution\" content=\"Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4549-3668\" />\n<meta name=\"citation_author\" content=\"Elizabeth Kearsley\" />\n<meta name=\"citation_author_institution\" content=\"Ghent University, Department of Environment, Coupure Links 653, 9000, Gent, Belgium\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0046-3606\" />\n<meta name=\"citation_author\" content=\"Michael Kessler\" />\n<meta name=\"citation_author_institution\" content=\"University of Zurich, Department of Systematic and Evolutionary Botany, Zollikerstrasse 107, 8008, Zurich, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4612-9937\" />\n<meta name=\"citation_author\" content=\"Ilona Knollov\xE1\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author\" content=\"Vitaliy Kolomiychuk\" />\n<meta name=\"citation_author_institution\" content=\"Taras Shevchenko National University of Kyiv, O.V. Fomin Botanical Garden, Symona Petliury 1, 01032, Kyiv, Ukraine\" />\n<meta name=\"citation_author\" content=\"Andrey Korolyuk\" />\n<meta name=\"citation_author_institution\" content=\"Central Siberian Botanical Garden, Siberian Branch, Russian Academy of Sciences, Geosystem Laboratory, Zolotodolinskaya str. 101, 630090, Novosibirsk, Russian Federation\" />\n<meta name=\"citation_author\" content=\"Maria Kozhevnikova\" />\n<meta name=\"citation_author_institution\" content=\"Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia\" />\n<meta name=\"citation_author\" content=\"\u0141ukasz Kozub\" />\n<meta name=\"citation_author_institution\" content=\"University of Warsaw, Department of Plant Ecology and Environmental Conservation, Faculty of Biology, Biological and Chemical Research Centre, ul. \u017Bwirki i Wigury 101, 02-089, Warsaw, Poland\" />\n<meta name=\"citation_author\" content=\"Daniel Krstono\u0161i\u0107\" />\n<meta name=\"citation_author_institution\" content=\"University of Zagreb, Faculty of Forestry, Sveto\u0161imunska 25, 10000, Zagreb, Croatia\" />\n<meta name=\"citation_author\" content=\"Hjalmar K\xFChl\" />\n<meta name=\"citation_author_institution\" content=\"Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author\" content=\"Filip K\xFCzmi\u010D\" />\n<meta name=\"citation_author_institution\" content=\"ZRC SAZU, Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia\" />\n<meta name=\"citation_author\" content=\"Flavia Landucci\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6848-0384\" />\n<meta name=\"citation_author\" content=\"Mariya Lebedeva\" />\n<meta name=\"citation_author_institution\" content=\"Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia\" />\n<meta name=\"citation_author\" content=\"Michael T. Lee\" />\n<meta name=\"citation_author_institution\" content=\"NatureServe, 601A Foster St., NC 27701, Durham, United States\" />\n<meta name=\"citation_author\" content=\"Aurora Levesley\" />\n<meta name=\"citation_author_institution\" content=\"University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom\" />\n<meta name=\"citation_author\" content=\"Ching-Feng Li\" />\n<meta name=\"citation_author_institution\" content=\"National Taiwan University, School of Forestry and Resource Conservation, No. 101, Section 2, Kuang-Fu Road, 30013, Hsinchu, Taiwan\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0744-490X\" />\n<meta name=\"citation_author\" content=\"Hongyan Liu\" />\n<meta name=\"citation_author_institution\" content=\"Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China\" />\n<meta name=\"citation_author\" content=\"Tatiana Lysenko\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Ecology of the Volga River Basin RAS, Dept. of the Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russia\" />\n<meta name=\"citation_author\" content=\"Armin Macanovi\u0107\" />\n<meta name=\"citation_author_institution\" content=\"University of Sarajevo, Center for Ecology and Natural Resources - Academician Sulejman Red\u017Ei\u0107, Department of Biology, Zmaja od Bosne 33-35, 71000, Sarajevo, Bosnia and Herzegovina\" />\n<meta name=\"citation_author\" content=\"Parastoo Mahdavi\" />\n<meta name=\"citation_author_institution\" content=\"C.v.O. Universit\xE4t Oldenburg, Research group Vegetation Science &amp; Nature Conservation, Dept. of Ecology and Environmental Science, Ammerl\xE4nder Heerstra\xDFe 114-118, 26129, Oldenburg, Germany\" />\n<meta name=\"citation_author\" content=\"Corrado Marcen\xF2\" />\n<meta name=\"citation_author_institution\" content=\"University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4361-5200\" />\n<meta name=\"citation_author\" content=\"Alicia Marticorena\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Wanja Mathar\" />\n<meta name=\"citation_author_institution\" content=\"University of Muenster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, M\xFCnster, Germany\" />\n<meta name=\"citation_author\" content=\"Jesper Erenskjold Moeslund\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8591-7149\" />\n<meta name=\"citation_author\" content=\"Jonas V. M\xFCller\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew, Conservation Science, Wakehurst Place, RH17 6TN, Ardingly, West Sussex, United Kingdom\" />\n<meta name=\"citation_author\" content=\"J\xE9r\xF4me Munzinger\" />\n<meta name=\"citation_author_institution\" content=\"IRD, CIRAD, CNRS, INRA, Universit\xE9 Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5300-2702\" />\n<meta name=\"citation_author\" content=\"Marcin Nobis\" />\n<meta name=\"citation_author_institution\" content=\"Jagiellonian University, Institute of Botany, Kopernika St. 27, 31-501, Krak\xF3w, Poland\" />\n<meta name=\"citation_author\" content=\"Jalil Noroozi\" />\n<meta name=\"citation_author_institution\" content=\"University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria\" />\n<meta name=\"citation_author\" content=\"Arkadiusz Nowak\" />\n<meta name=\"citation_author_institution\" content=\"Polish Academy of Sciences, Botanical Garden - Center for Biological Diversity Conservation, Prawdziwka 2, 02-976, Warszawa, Poland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8638-0208\" />\n<meta name=\"citation_author\" content=\"Viktor Onyshchenko\" />\n<meta name=\"citation_author_institution\" content=\"National Academy of Sciences of Ukraine, M.G. Kholodny Institute of Botany, Tereshchenkivska 2, 01601, Kyiv, Ukraine\" />\n<meta name=\"citation_author\" content=\"Gerhard E. Overbeck\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Federal do Rio Grande do Sul, Department of Botany, Av. Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8716-5136\" />\n<meta name=\"citation_author\" content=\"An\xEDbal Pauchard\" />\n<meta name=\"citation_author_institution\" content=\"University of Concepci\xF3n, Laboratorio de Invasiones Biol\xF3gicas (LIB), Victoria 631, 4030000, Concepci\xF3n, Chile\" />\n<meta name=\"citation_author\" content=\"Hristo Pedashenko\" />\n<meta name=\"citation_author_institution\" content=\"NA, Sarphatistraat 139G, 1018GD, Amsterdam, Netherlands\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6743-0625\" />\n<meta name=\"citation_author\" content=\"Robert K. Peet\" />\n<meta name=\"citation_author_institution\" content=\"University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States\" />\n<meta name=\"citation_author\" content=\"Aaron P\xE9rez-Haase\" />\n<meta name=\"citation_author_institution\" content=\"University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain\" />\n<meta name=\"citation_author_institution\" content=\"Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d&#39;acc\xE9s a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-7374\" />\n<meta name=\"citation_author\" content=\"Tom\xE1\u0161 Peterka\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author\" content=\"Gwendolyn Peyre\" />\n<meta name=\"citation_author_institution\" content=\"University of the Andes, Department of Civil and Environmental Engineering, Carrera 1 Este No. 19A-40, Edificio Mario Laserna, Piso 6\_, 111711, Bogota, Colombia\" />\n<meta name=\"citation_author\" content=\"Oliver L. Phillips\" />\n<meta name=\"citation_author_institution\" content=\"University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8993-6168\" />\n<meta name=\"citation_author\" content=\"Vadim Prokhorov\" />\n<meta name=\"citation_author_institution\" content=\"Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia\" />\n<meta name=\"citation_author\" content=\"Valerijus Ra\u0161omavi\u010Dius\" />\n<meta name=\"citation_author_institution\" content=\"Nature Research Centre, Institute of Botany, Zaliuju Ezeru 49, 08406, Vilnius, Lithuania\" />\n<meta name=\"citation_author\" content=\"Rasmus Revermann\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author\" content=\"John S. Rodwell\" />\n<meta name=\"citation_author_institution\" content=\"NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom\" />\n<meta name=\"citation_author\" content=\"Eszter Ruprecht\" />\n<meta name=\"citation_author_institution\" content=\"Babe\u0219-Bolyai University, Hungarian Department of Biology and Ecology, Faculty of Biology and Geology, Republicii street 42., 400015, Cluj-Napoca, Romania\" />\n<meta name=\"citation_author\" content=\"Solvita R\u016Bsi\u0146a\" />\n<meta name=\"citation_author_institution\" content=\"University of Latvia, Department of Geography, 1 Jelgavas Street, 1004, Riga, Latvia\" />\n<meta name=\"citation_author\" content=\"Cyrus Samimi\" />\n<meta name=\"citation_author_institution\" content=\"University of Bayreuth, Climatology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universit\xE4tsstr. 30, 95447, Bayreuth, Germany\" />\n<meta name=\"citation_author\" content=\"Joop H.J. Schamin\xE9e\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Marco Schmidt\" />\n<meta name=\"citation_author_institution\" content=\"Stadt Frankfurt am Main - Der Magistrat, Palmengarten, Siesmayerstra\xDFe 61, 60323, Frankfurt am Main, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6087-6117\" />\n<meta name=\"citation_author\" content=\"Ute Schmiedel\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Evolution and Ecology of Plants, Institute for Plant Science and Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author\" content=\"Jozef \u0160ib\xEDk\" />\n<meta name=\"citation_author_institution\" content=\"Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5949-862X\" />\n<meta name=\"citation_author\" content=\"Urban \u0160ilc\" />\n<meta name=\"citation_author_institution\" content=\"Research Centre of Slovenian Academy of Sciences and Arts (ZRC SAZU), Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3052-699X\" />\n<meta name=\"citation_author\" content=\"\u017Deljko \u0160kvorc\" />\n<meta name=\"citation_author_institution\" content=\"University of Zagreb, Faculty of Forestry, Sveto\u0161imunska 25, 10000, Zagreb, Croatia\" />\n<meta name=\"citation_author\" content=\"Anita Smyth\" />\n<meta name=\"citation_author_institution\" content=\"University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia\" />\n<meta name=\"citation_author\" content=\"TeneKwetche Sop\" />\n<meta name=\"citation_author_institution\" content=\"Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author\" content=\"Desislava Sopotlieva\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria\" />\n<meta name=\"citation_author\" content=\"Ben Sparrow\" />\n<meta name=\"citation_author_institution\" content=\"University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia\" />\n<meta name=\"citation_author\" content=\"Toby Spribille\" />\n<meta name=\"citation_author_institution\" content=\"University of Graz, Institute of Plant Sciences, Holteigasse 6, 8010, Graz, Austria\" />\n<meta name=\"citation_author\" content=\"Zvjezdana Stan\u010Di\u0107\" />\n<meta name=\"citation_author_institution\" content=\"University of Zagreb, Faculty of Geotechnical Engineering, Hallerova aleja 7, 42000, Vara\u017Edin, Croatia\" />\n<meta name=\"citation_author\" content=\"Fahmida Sultana\" />\n<meta name=\"citation_author_institution\" content=\"Shahjalal University of Science &amp; Technology, Forestry &amp; Environmental Science, 3114, Sylhet, Bangladesh\" />\n<meta name=\"citation_author\" content=\"Jens-Christian Svenning\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Center for Biodiversity Dynamics in a Changing World (BIOCHANGE) &amp; Section for Ecoinformatics &amp; Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3415-0862\" />\n<meta name=\"citation_author\" content=\"Grzegorz Swacha\" />\n<meta name=\"citation_author_institution\" content=\"University of Wroc\u0142aw, Botanical Garden, Sienkiewicza 23, 50-335, Wroc\u0142aw, Poland\" />\n<meta name=\"citation_author\" content=\"Zhiyao Tang\" />\n<meta name=\"citation_author_institution\" content=\"Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China\" />\n<meta name=\"citation_author\" content=\"Ioannis Tsiripidis\" />\n<meta name=\"citation_author_institution\" content=\"Aristotle University of Thessaloniki, School of Biology, 54124, Thessaloniki, Greece\" />\n<meta name=\"citation_author\" content=\"Pavel Dan Turtureanu\" />\n<meta name=\"citation_author_institution\" content=\"Babe\u0219-Bolyai University, A. Borza Botanical Garden, Republicii 42, 400516, Cluj-Napoca, Romania\" />\n<meta name=\"citation_author\" content=\"Domas Uogintas\" />\n<meta name=\"citation_author_institution\" content=\"Nature Research Centre, Institute of Botany, Zaliuju Ezeru 49, 08406, Vilnius, Lithuania\" />\n<meta name=\"citation_author\" content=\"Milan Valachovi\u010D\" />\n<meta name=\"citation_author_institution\" content=\"Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia\" />\n<meta name=\"citation_author\" content=\"Kim Andr\xE9 Vanselow\" />\n<meta name=\"citation_author_institution\" content=\"University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany\" />\n<meta name=\"citation_author\" content=\"Kiril Vassilev\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria\" />\n<meta name=\"citation_author\" content=\"Eduardo V\xE9lez-Martin\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Federal do Rio Grande do Sul, Department of Ecology, Av Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8028-8953\" />\n<meta name=\"citation_author\" content=\"Roberto Venanzoni\" />\n<meta name=\"citation_author_institution\" content=\"University of Perugia, Department of Chemistry, Biology and Biotechnology, Borgo XX giugno 74, 06124, Perugia, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7768-0468\" />\n<meta name=\"citation_author\" content=\"Hans Verbeeck\" />\n<meta name=\"citation_author_institution\" content=\"Ghent University, Department of Applied Ecology and Environmental Biology, Coupure Links 653, 9000, Gent, Belgium\" />\n<meta name=\"citation_author\" content=\"Alexander Christian Vibrans\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Regional de Blumenau, Departamento de Engenharia Florestal, Rua S\xE3o Paulo, 3250, 89030-000, Blumenau, Brazil\" />\n<meta name=\"citation_author\" content=\"Risto Virtanen\" />\n<meta name=\"citation_author_institution\" content=\"University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitov\xE4yl\xE4 5, 90014, Oulu, Finland\" />\n<meta name=\"citation_author_institution\" content=\"Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8295-8217\" />\n<meta name=\"citation_author\" content=\"Henrik von Wehrden\" />\n<meta name=\"citation_author_institution\" content=\"Leuphana University of L\xFCneburg, Institute of Ecology, Universit\xE4tsallee 1, 21335, L\xFCneburg, Germany\" />\n<meta name=\"citation_author\" content=\"Viktoria Wagner\" />\n<meta name=\"citation_author_institution\" content=\"University of Alberta, Department of Biological Sciences, Biological Sciences Building, T6G2E9, Edmonton, Canada\" />\n<meta name=\"citation_author\" content=\"Donald A. Walker\" />\n<meta name=\"citation_author_institution\" content=\"University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States\" />\n<meta name=\"citation_author\" content=\"Desalegn Wana\" />\n<meta name=\"citation_author_institution\" content=\"Addis Ababa University, Department of Geography &amp; Environmental Studies, Sidist Kilo SQ, 150178, Addis Ababa, Ethiopia\" />\n<meta name=\"citation_author\" content=\"George D. Weiblen\" />\n<meta name=\"citation_author_institution\" content=\"University of Minnesota, Bell Museum of Natural History/Departlment of Plant Biology, 1479 Gortner Avene, 55108, St. Paul, United States\" />\n<meta name=\"citation_author\" content=\"Karsten Wesche\" />\n<meta name=\"citation_author_institution\" content=\"Senckenberg Museum of Natural History G\xF6rlitz, Botany Department, PO Box 300 154, 02806, G\xF6rlitz, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"Technische Universit\xE4t Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany\" />\n<meta name=\"citation_author\" content=\"Timothy Whitfeld\" />\n<meta name=\"citation_author_institution\" content=\"Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States\" />\n<meta name=\"citation_author\" content=\"Wolfgang Willner\" />\n<meta name=\"citation_author_institution\" content=\"Vienna Institute for Nature Conservation &amp; Analyses, Giessergasse 6/7, 1090, Vienna, Austria\" />\n<meta name=\"citation_author\" content=\"Susan Wiser\" />\n<meta name=\"citation_author_institution\" content=\"Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8938-8181\" />\n<meta name=\"citation_author\" content=\"Thomas Wohlgemuth\" />\n<meta name=\"citation_author_institution\" content=\"Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Research Unit Forest Dynamics, Z\xFCrcherstrasse 111, 8903, Birmensdorf, Switzerland\" />\n<meta name=\"citation_author\" content=\"Sergey Yamalov\" />\n<meta name=\"citation_author_institution\" content=\"Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia\" />\n<meta name=\"citation_author\" content=\"Fengjun Zhao\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author\" content=\"Georg Zizka\" />\n<meta name=\"citation_author_institution\" content=\"Senckenberg Research Institute, Dept. Botany and Molecular Evolution, Senckenberganlage 25, 60325, Frankfurt am Main, Germany\" />\n<meta name=\"citation_author\" content=\"Andrei Zverev\" />\n<meta name=\"citation_author_institution\" content=\"Tomsk State University, Department of Botany, Lenin av. 36, 634050, Tomsk, Russian Federation\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4394-4605\" />\n<meta name=\"citation_author\" content=\"Helge Bruelheide\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3135-0356\" />\n<meta name=\"twitter:creator\" content=\"@HelgeBruelheide\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5fb8228adb235ba62865a0dcf5794c4a49ac4f69/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5fb8228adb235ba62865a0dcf5794c4a49ac4f69/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5fb8228adb235ba62865a0dcf5794c4a49ac4f69/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-10-19'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta name=\"citation_title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta property=\"og:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta property=\"twitter:title\" content=\"sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots\" />\n<meta name=\"dc.date\" content=\"2020-10-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Francesco Maria Sabatini\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7202-7697\" />\n<meta name=\"twitter:creator\" content=\"@sPlot_iDiv\" />\n<meta name=\"citation_author\" content=\"Jonathan Lenoir\" />\n<meta name=\"citation_author_institution\" content=\"Unit\xE9 de Recherche \u201CEcologie et Dynamique des Syst\xE8mes Anthropis\xE9s\u201D (EDYSAN), UMR 7058 CNRS, Universit\xE9 de Picardie Jules Verne, 80037 Amiens Cedex 1, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0638-9582\" />\n<meta name=\"twitter:creator\" content=\"@EkoLogIt\" />\n<meta name=\"citation_author\" content=\"Tarek Hattab\" />\n<meta name=\"citation_author_institution\" content=\"MARBEC, University of Montpellier, CNRS, IFREMER and IRD, S\xE8te, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1420-5758\" />\n<meta name=\"twitter:creator\" content=\"@None\" />\n<meta name=\"citation_author\" content=\"Elise Arnst\" />\n<meta name=\"citation_author_institution\" content=\"Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand\" />\n<meta name=\"citation_author\" content=\"Milan Chytr\xFD\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8122-3075\" />\n<meta name=\"citation_author\" content=\"J\xFCrgen Dengler\" />\n<meta name=\"citation_author_institution\" content=\"Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Gr\xFCentalstr. 14, 8820, W\xE4denswil, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universit\xE4tsstr. 30, 95447, Bayreuth, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3221-660X\" />\n<meta name=\"citation_author\" content=\"Val\xE9rio De Patta Pillar\" />\n<meta name=\"citation_author_institution\" content=\"Federal University of Rio Grande do Sul, Ecology, Av. Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author\" content=\"Patrice De Ruffray\" />\n<meta name=\"citation_author_institution\" content=\"IBMP, 12, rue du G\xE9n\xE9ral-Zimmer, 67084, Strasburg, France\" />\n<meta name=\"citation_author\" content=\"Stephan M. Hennekens\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Ute Jandt\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany\" />\n<meta name=\"citation_author\" content=\"Florian Jansen\" />\n<meta name=\"citation_author_institution\" content=\"University of Rostock, Faculty of Agricultural and Environmental Sciences, Justus-von-Liebig-Weg 6, 18059, Rostock, Germany\" />\n<meta name=\"citation_author\" content=\"Borja Jim\xE9nez-Alfaro\" />\n<meta name=\"citation_author_institution\" content=\"University of Oviedo, Research Unit of Biodiversity (CSIC/UO/PA), C. Gonzalo Guti\xE9rrez Quir\xF3s s/n, 33600, Mieres, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6601-9597\" />\n<meta name=\"citation_author\" content=\"Jens Kattge\" />\n<meta name=\"citation_author_institution\" content=\"Max Planck Institute for Biogeochemistry, Hans Kn\xF6ll Str. 10, 07745, Jena, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1022-8469\" />\n<meta name=\"citation_author\" content=\"Aurora Levesley\" />\n<meta name=\"citation_author_institution\" content=\"University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom\" />\n<meta name=\"citation_author\" content=\"Oliver Purschke\" />\n<meta name=\"citation_author_institution\" content=\"NA,\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0444-0882\" />\n<meta name=\"citation_author\" content=\"Brody Sandel\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Aarhus, Denmark\" />\n<meta name=\"citation_author\" content=\"Fahmida Sultana\" />\n<meta name=\"citation_author_institution\" content=\"Shahjalal University of Science &amp; Technology, Forestry &amp; Environmental Science, 3114, Sylhet, Bangladesh\" />\n<meta name=\"citation_author\" content=\"Marten Winter\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author\" content=\"Svetlana A\u0107i\u0107\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia\" />\n<meta name=\"citation_author\" content=\"Emiliano Agrillo\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2346-8346\" />\n<meta name=\"citation_author\" content=\"Miguel Alvarez\" />\n<meta name=\"citation_author_institution\" content=\"University of Bonn, Plant Nutrition, INRES, Karlrobert-Kreiten-Str., 53115, Bonn, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-1500-1834\" />\n<meta name=\"citation_author\" content=\"Iva Apostolova\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria\" />\n<meta name=\"citation_author\" content=\"Mohammed A.S. Arfin Khan\" />\n<meta name=\"citation_author_institution\" content=\"Shahjalal University of Science &amp; Technology, Forestry &amp; Environmental Science, Akhalia, 3114, Sylhet, Bangladesh\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6275-7023\" />\n<meta name=\"citation_author\" content=\"Isabelle Aubin\" />\n<meta name=\"citation_author_institution\" content=\"Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada\" />\n<meta name=\"citation_author\" content=\"Yves Bergeron\" />\n<meta name=\"citation_author_institution\" content=\"Universit\xE9 du Qu\xE9bec en Abitibi-T\xE9miscamingue, Forest Research Institute, 445 boul. de l&#39;Universit\xE9, J9X5E4, Rouyn-Noranda, Canada\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3707-3687\" />\n<meta name=\"citation_author\" content=\"Erwin Bergmeier\" />\n<meta name=\"citation_author_institution\" content=\"University of G\xF6ttingen, Vegetation Ecology and Phytodiversity, Untere Karsp\xFCle 2, 37073, G\xF6ttingen, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6118-4611\" />\n<meta name=\"citation_author\" content=\"Idoia Biurrun\" />\n<meta name=\"citation_author_institution\" content=\"University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1454-0433\" />\n<meta name=\"citation_author\" content=\"Anne D. Bjorkman\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Section for Ecoinformatics &amp; Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark\" />\n<meta name=\"citation_author\" content=\"Laura Casella\" />\n<meta name=\"citation_author_institution\" content=\"ISPRA - Italian National Institute for Environmental Protection and Research, Biodiversity Conservation Department, Via Vitaliano Brancati, 60, 00144, Roma, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2550-3010\" />\n<meta name=\"citation_author\" content=\"Luis Cayuela\" />\n<meta name=\"citation_author_institution\" content=\"Universidad Rey Juan Carlos, Department of Biology, Geology, Physics and Inorganic Chemistry, c/ Tulip\xE1n s/n, 28933, M\xF3stoles, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3562-2662\" />\n<meta name=\"citation_author\" content=\"Tom\xE1\u0161 \u010Cern\xFD\" />\n<meta name=\"citation_author_institution\" content=\"Czech University of Life Sciences Prague, Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Kam\xFDck\xE1 1176, 165 21, Praha 6 - Suchdol, Czech Republic\" />\n<meta name=\"citation_author\" content=\"Victor Chepinoga\" />\n<meta name=\"citation_author_institution\" content=\"V.B. Sochava Insitute of Geography SB RAS, Laboratory of Physical Geography and Biogeography, Ulan-Batorskaya, 1, 664033, Irkutsk, Russian Federation\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3809-7453\" />\n<meta name=\"citation_author\" content=\"J\xE1nos Csiky\" />\n<meta name=\"citation_author_institution\" content=\"University of P\xE9cs, Department of Ecology, Ifj\xFAs\xE1g u. 6., 7624, P\xE9cs, Hungary\" />\n<meta name=\"citation_author\" content=\"Renata \u0106u\u0161terevska\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Natural Sciences and Mathematics, Institute of Biology, Arhimedova 3, 1000, Skopje, Republic of Macedonia\" />\n<meta name=\"citation_author\" content=\"Els De Bie\" />\n<meta name=\"citation_author_institution\" content=\"Research Institute for Nature and Forest\_(INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium\" />\n<meta name=\"citation_author\" content=\"Michele De Sanctis\" />\n<meta name=\"citation_author_institution\" content=\"Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7280-6199\" />\n<meta name=\"citation_author\" content=\"Panayotis Dimopoulos\" />\n<meta name=\"citation_author_institution\" content=\"University of Patras, Institute of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece\" />\n<meta name=\"citation_author\" content=\"Mohamed Abd El-Rouf Mousa El-Sheikh\" />\n<meta name=\"citation_author_institution\" content=\"College of Science, King Saud University, Botany and Microbiology Department, P.O. Box 2455, 11451, Riyadh, Saudi Arabia\" />\n<meta name=\"citation_author_institution\" content=\"Damanhour University, Botany Department, Faculty of Science, Damanhour, Egypt\" />\n<meta name=\"citation_author\" content=\"Brian Enquist\" />\n<meta name=\"citation_author_institution\" content=\"University of Arizona, Ecology and Evolutionary Biology, 1041 E. Lowell St., AZ 85721, Tucson, United States\" />\n<meta name=\"citation_author\" content=\"Manfred Finckh\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author\" content=\"Emmanuel Garbolino\" />\n<meta name=\"citation_author_institution\" content=\"MINES ParisTech, Crisis and Risk research Centre (CRC), 1 rue Claude Daunesse, BP 207, 06904, Sophia Antipolis, France\" />\n<meta name=\"citation_author\" content=\"Melisa Giorgis\" />\n<meta name=\"citation_author_institution\" content=\"Instituto Multidisciplinario de Biolog\xEDa Vegetal (IMBIV-CONICET), ECOLOG\xCDA VEGETAL Y FITOGEOGRAF\xCDA, Av. V\xE9lez S\xE1rsfield 1611, 5000, C\xF3rdoba, Argentina\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6126-6660\" />\n<meta name=\"citation_author\" content=\"Valentin Golub\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia\" />\n<meta name=\"citation_author\" content=\"Alvaro G. Gutierrez\" />\n<meta name=\"citation_author_institution\" content=\"Universidad de Chile, Departamento de Ciencias Ambientales y Recursos Naturales Renovables, Facultad de Ciencias Agronomicas, Santa Rosa 11315, La Pintana, 8820808, Santiago, Chile\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8928-3198\" />\n<meta name=\"citation_author\" content=\"Mohamed Z. Hatim\" />\n<meta name=\"citation_author_institution\" content=\"Tanta University, Botany, Faculty of Science, El Geish St., 31527, Tanta, Egypt\" />\n<meta name=\"citation_author\" content=\"Norbert H\xF6lzel\" />\n<meta name=\"citation_author_institution\" content=\"University of Muenster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, M\xFCnster, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6367-3400\" />\n<meta name=\"citation_author\" content=\"J\xFCrgen Homeier\" />\n<meta name=\"citation_author_institution\" content=\"University of G\xF6ttingen, Plant Ecology and Ecosystems Research, Untere Karsp\xFCle 2, 37073, G\xF6ttingen, Germany\" />\n<meta name=\"citation_author\" content=\"Adrian Indreica\" />\n<meta name=\"citation_author_institution\" content=\"Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania\" />\n<meta name=\"citation_author\" content=\"Kim Sarah Jacobsen\" />\n<meta name=\"citation_author_institution\" content=\"Ghent University, Dept Environment, Coupure Links 653, 9000, Ghent, Belgium\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9743-2533\" />\n<meta name=\"citation_author\" content=\"John Janssen\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Birgit Jedrzejek\" />\n<meta name=\"citation_author_institution\" content=\"University of M\xFCnster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, M\xFCnster, Germany\" />\n<meta name=\"citation_author\" content=\"Norbert J\xFCrgens\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3211-0549\" />\n<meta name=\"citation_author\" content=\"Zygmunt K\u0105cki\" />\n<meta name=\"citation_author_institution\" content=\"University of Wroc\u0142aw, Botanical Garden, Sienkiewicza 23, 50-335, Wroc\u0142aw, Poland\" />\n<meta name=\"citation_author\" content=\"Ali Kavgac\u0131\" />\n<meta name=\"citation_author_institution\" content=\"Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4549-3668\" />\n<meta name=\"citation_author\" content=\"Michael Kessler\" />\n<meta name=\"citation_author_institution\" content=\"University of Zurich, Department of Systematic and Evolutionary Botany, Zollikerstrasse 107, 8008, Zurich, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4612-9937\" />\n<meta name=\"citation_author\" content=\"Andrey Korolyuk\" />\n<meta name=\"citation_author_institution\" content=\"Central Siberian Botanical Garden, Siberian Branch, Russian Academy of Sciences, Geosystem Laboratory, Zolotodolinskaya str. 101, 630090, Novosibirsk, Russian Federation\" />\n<meta name=\"citation_author\" content=\"Hjalmar K\xFChl\" />\n<meta name=\"citation_author_institution\" content=\"Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author\" content=\"Flavia Landucci\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6848-0384\" />\n<meta name=\"citation_author\" content=\"Ching-Feng Li\" />\n<meta name=\"citation_author_institution\" content=\"National Taiwan University, School of Forestry and Resource Conservation, No. 101, Section 2, Kuang-Fu Road, 30013, Hsinchu, Taiwan\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0744-490X\" />\n<meta name=\"citation_author\" content=\"Hongyan Liu\" />\n<meta name=\"citation_author_institution\" content=\"Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China\" />\n<meta name=\"citation_author\" content=\"Tatiana Lysenko\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Ecology of the Volga River Basin RAS, Dept. of the Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russia\" />\n<meta name=\"citation_author\" content=\"Corrado Marcen\xF2\" />\n<meta name=\"citation_author_institution\" content=\"University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4361-5200\" />\n<meta name=\"citation_author\" content=\"Jesper Erenskjold Moeslund\" />\n<meta name=\"citation_author_institution\" content=\"Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8591-7149\" />\n<meta name=\"citation_author\" content=\"Jonas V. M\xFCller\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew, Conservation Science, Wakehurst Place, RH17 6TN, Ardingly, West Sussex, United Kingdom\" />\n<meta name=\"citation_author\" content=\"J\xE9r\xF4me Munzinger\" />\n<meta name=\"citation_author_institution\" content=\"IRD, CIRAD, CNRS, INRA, Universit\xE9 Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5300-2702\" />\n<meta name=\"citation_author\" content=\"Jalil Noroozi\" />\n<meta name=\"citation_author_institution\" content=\"University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria\" />\n<meta name=\"citation_author\" content=\"Arkadiusz Nowak\" />\n<meta name=\"citation_author_institution\" content=\"Polish Academy of Sciences, Botanical Garden - Center for Biological Diversity Conservation, Prawdziwka 2, 02-976, Warszawa, Poland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8638-0208\" />\n<meta name=\"citation_author\" content=\"Viktor Onyshchenko\" />\n<meta name=\"citation_author_institution\" content=\"National Academy of Sciences of Ukraine, M.G. Kholodny Institute of Botany, Tereshchenkivska 2, 01601, Kyiv, Ukraine\" />\n<meta name=\"citation_author\" content=\"Gerhard E. Overbeck\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Federal do Rio Grande do Sul, Department of Botany, Av. Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8716-5136\" />\n<meta name=\"citation_author\" content=\"An\xEDbal Pauchard\" />\n<meta name=\"citation_author_institution\" content=\"University of Concepci\xF3n, Laboratorio de Invasiones Biol\xF3gicas (LIB), Victoria 631, 4030000, Concepci\xF3n, Chile\" />\n<meta name=\"citation_author\" content=\"Robert K. Peet\" />\n<meta name=\"citation_author_institution\" content=\"University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States\" />\n<meta name=\"citation_author\" content=\"Aaron P\xE9rez-Haase\" />\n<meta name=\"citation_author_institution\" content=\"University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain\" />\n<meta name=\"citation_author_institution\" content=\"Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d&#39;acc\xE9s a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-7374\" />\n<meta name=\"citation_author\" content=\"Tom\xE1\u0161 Peterka\" />\n<meta name=\"citation_author_institution\" content=\"Masaryk University, Department of Botany and Zoology, Kotl\xE1\u0159sk\xE1 2, 611 37, Brno, Czech Republic\" />\n<meta name=\"citation_author\" content=\"Gwendolyn Peyre\" />\n<meta name=\"citation_author_institution\" content=\"University of the Andes, Department of Civil and Environmental Engineering, Carrera 1 Este No. 19A-40, Edificio Mario Laserna, Piso 6\_, 111711, Bogota, Colombia\" />\n<meta name=\"citation_author\" content=\"Oliver L. Phillips\" />\n<meta name=\"citation_author_institution\" content=\"University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8993-6168\" />\n<meta name=\"citation_author\" content=\"Vadim Prokhorov\" />\n<meta name=\"citation_author_institution\" content=\"Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia\" />\n<meta name=\"citation_author\" content=\"Valerijus Ra\u0161omavi\u010Dius\" />\n<meta name=\"citation_author_institution\" content=\"Nature Research Centre, Institute of Botany, Zaliuju Ezeru 49, 08406, Vilnius, Lithuania\" />\n<meta name=\"citation_author\" content=\"Rasmus Revermann\" />\n<meta name=\"citation_author_institution\" content=\"University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science &amp; Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany\" />\n<meta name=\"citation_author\" content=\"John S. Rodwell\" />\n<meta name=\"citation_author_institution\" content=\"NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom\" />\n<meta name=\"citation_author\" content=\"Eszter Ruprecht\" />\n<meta name=\"citation_author_institution\" content=\"Babe\u0219-Bolyai University, Hungarian Department of Biology and Ecology, Faculty of Biology and Geology, Republicii street 42., 400015, Cluj-Napoca, Romania\" />\n<meta name=\"citation_author\" content=\"Solvita R\u016Bsi\u0146a\" />\n<meta name=\"citation_author_institution\" content=\"University of Latvia, Department of Geography, 1 Jelgavas Street, 1004, Riga, Latvia\" />\n<meta name=\"citation_author\" content=\"Cyrus Samimi\" />\n<meta name=\"citation_author_institution\" content=\"University of Bayreuth, Climatology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universit\xE4tsstr. 30, 95447, Bayreuth, Germany\" />\n<meta name=\"citation_author\" content=\"Joop H.J. Schamin\xE9e\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands\" />\n<meta name=\"citation_author\" content=\"Marco Schmidt\" />\n<meta name=\"citation_author_institution\" content=\"Stadt Frankfurt am Main - Der Magistrat, Palmengarten, Siesmayerstra\xDFe 61, 60323, Frankfurt am Main, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6087-6117\" />\n<meta name=\"citation_author\" content=\"Urban \u0160ilc\" />\n<meta name=\"citation_author_institution\" content=\"Research Centre of Slovenian Academy of Sciences and Arts (ZRC SAZU), Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3052-699X\" />\n<meta name=\"citation_author\" content=\"\u017Deljko \u0160kvorc\" />\n<meta name=\"citation_author_institution\" content=\"University of Zagreb, Faculty of Forestry, Sveto\u0161imunska 25, 10000, Zagreb, Croatia\" />\n<meta name=\"citation_author\" content=\"Anita Smyth\" />\n<meta name=\"citation_author_institution\" content=\"University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia\" />\n<meta name=\"citation_author\" content=\"Zvjezdana Stan\u010Di\u0107\" />\n<meta name=\"citation_author_institution\" content=\"University of Zagreb, Faculty of Geotechnical Engineering, Hallerova aleja 7, 42000, Vara\u017Edin, Croatia\" />\n<meta name=\"citation_author\" content=\"Zhiyao Tang\" />\n<meta name=\"citation_author_institution\" content=\"Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China\" />\n<meta name=\"citation_author\" content=\"Ioannis Tsiripidis\" />\n<meta name=\"citation_author_institution\" content=\"Aristotle University of Thessaloniki, School of Biology, 54124, Thessaloniki, Greece\" />\n<meta name=\"citation_author\" content=\"Milan Valachovi\u010D\" />\n<meta name=\"citation_author_institution\" content=\"Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia\" />\n<meta name=\"citation_author\" content=\"Kim Andr\xE9 Vanselow\" />\n<meta name=\"citation_author_institution\" content=\"University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany\" />\n<meta name=\"citation_author\" content=\"Kiril Vassilev\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria\" />\n<meta name=\"citation_author\" content=\"Eduardo V\xE9lez-Martin\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Federal do Rio Grande do Sul, Department of Ecology, Av Bento Gon\xE7alves 9500, 91501-970, Porto Alegre, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8028-8953\" />\n<meta name=\"citation_author\" content=\"Roberto Venanzoni\" />\n<meta name=\"citation_author_institution\" content=\"University of Perugia, Department of Chemistry, Biology and Biotechnology, Borgo XX giugno 74, 06124, Perugia, Italy\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7768-0468\" />\n<meta name=\"citation_author\" content=\"Alexander Christian Vibrans\" />\n<meta name=\"citation_author_institution\" content=\"Universidade Regional de Blumenau, Departamento de Engenharia Florestal, Rua S\xE3o Paulo, 3250, 89030-000, Blumenau, Brazil\" />\n<meta name=\"citation_author\" content=\"Risto Virtanen\" />\n<meta name=\"citation_author_institution\" content=\"University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitov\xE4yl\xE4 5, 90014, Oulu, Finland\" />\n<meta name=\"citation_author_institution\" content=\"Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8295-8217\" />\n<meta name=\"citation_author\" content=\"Henrik von Wehrden\" />\n<meta name=\"citation_author_institution\" content=\"Leuphana University of L\xFCneburg, Institute of Ecology, Universit\xE4tsallee 1, 21335, L\xFCneburg, Germany\" />\n<meta name=\"citation_author\" content=\"Viktoria Wagner\" />\n<meta name=\"citation_author_institution\" content=\"University of Alberta, Department of Biological Sciences, Biological Sciences Building, T6G2E9, Edmonton, Canada\" />\n<meta name=\"citation_author\" content=\"Donald A. Walker\" />\n<meta name=\"citation_author_institution\" content=\"University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States\" />\n<meta name=\"citation_author\" content=\"Desalegn Wana\" />\n<meta name=\"citation_author_institution\" content=\"Addis Ababa University, Department of Geography &amp; Environmental Studies, Sidist Kilo SQ, 150178, Addis Ababa, Ethiopia\" />\n<meta name=\"citation_author\" content=\"Karsten Wesche\" />\n<meta name=\"citation_author_institution\" content=\"Senckenberg Museum of Natural History G\xF6rlitz, Botany Department, PO Box 300 154, 02806, G\xF6rlitz, Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany\" />\n<meta name=\"citation_author_institution\" content=\"Technische Universit\xE4t Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany\" />\n<meta name=\"citation_author\" content=\"Timothy Whitfeld\" />\n<meta name=\"citation_author_institution\" content=\"Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States\" />\n<meta name=\"citation_author\" content=\"Wolfgang Willner\" />\n<meta name=\"citation_author_institution\" content=\"Vienna Institute for Nature Conservation &amp; Analyses, Giessergasse 6/7, 1090, Vienna, Austria\" />\n<meta name=\"citation_author\" content=\"Susan Wiser\" />\n<meta name=\"citation_author_institution\" content=\"Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8938-8181\" />\n<meta name=\"citation_author\" content=\"Thomas Wohlgemuth\" />\n<meta name=\"citation_author_institution\" content=\"Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Research Unit Forest Dynamics, Z\xFCrcherstrasse 111, 8903, Birmensdorf, Switzerland\" />\n<meta name=\"citation_author\" content=\"Sergey Yamalov\" />\n<meta name=\"citation_author_institution\" content=\"Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia\" />\n<meta name=\"citation_author\" content=\"Helge Bruelheide\" />\n<meta name=\"citation_author_institution\" content=\"Martin-Luther-Universit\xE4t Halle-Wittenberg, Institut f\xFCr Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany\" />\n<meta name=\"citation_author_institution\" content=\"German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3135-0356\" />\n<meta name=\"twitter:creator\" content=\"@HelgeBruelheide\" />\n<link rel=\"canonical\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/e6f0dc913a0fe1af0b7009b6402aca3a01973c25/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/e6f0dc913a0fe1af0b7009b6402aca3a01973c25/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmsabatini.github.io/sPlotOpen_Manuscript/v/e6f0dc913a0fe1af0b7009b6402aca3a01973c25/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -182,10 +132,10 @@ _This manuscript is still work in progress_
 
 <small><em>
 This manuscript
-([permalink](https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5fb8228adb235ba62865a0dcf5794c4a49ac4f69/))
+([permalink](https://fmsabatini.github.io/sPlotOpen_Manuscript/v/e6f0dc913a0fe1af0b7009b6402aca3a01973c25/))
 was automatically generated
-from [fmsabatini/sPlotOpen_Manuscript@5fb8228](https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/5fb8228adb235ba62865a0dcf5794c4a49ac4f69)
-on October 16, 2020.
+from [fmsabatini/sPlotOpen_Manuscript@e6f0dc9](https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/e6f0dc913a0fe1af0b7009b6402aca3a01973c25)
+on October 19, 2020.
 </em></small>
 
 ## Authors
@@ -194,160 +144,110 @@ on October 16, 2020.
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7202-7697)Francesco Maria Sabatini<sup>1,2</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0638-9582)Jonathan Lenoir<sup>3</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-1420-5758)Tarek Hattab<sup>4</sup>,
-  Svetlana Aćić<sup>5</sup>,
-  Alicia Acosta<sup>6</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-2346-8346)Emiliano Agrillo<sup>7</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-1500-1834)Miguel Alvarez<sup>8</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5321-9757)Pierangela Angelini<sup>9</sup>,
-  Iva Apostolova<sup>10</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6275-7023)Mohammed A.S. Arfin Khan<sup>11</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7744-2195)Fabio Attorre<sup>7</sup>,
-  Isabelle Aubin<sup>12</sup>,
-  Christian Berg<sup>13</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3707-3687)Yves Bergeron<sup>14</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6118-4611)Erwin Bergmeier<sup>15</sup>,
-  Philippe Birnbaum<sup>16</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-1454-0433)Idoia Biurrun<sup>17</sup>,
-  Anne D. Bjorkman<sup>18</sup>,
-  Viktoria Bondareva<sup>19</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-9544-3474)Zoltán Botta-Dukát<sup>20</sup>,
-  Brad Boyle<sup>21</sup>,
-  Amy Breen<sup>22</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-2550-3010)Laura Casella<sup>9</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3562-2662)Luis Cayuela<sup>23</sup>,
-  Tomáš Černý<sup>24</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3809-7453)Victor Chepinoga<sup>25</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8122-3075)Milan Chytrý<sup>26</sup>,
-  János Csiky<sup>27</sup>,
-  Michael Curran<sup>28</sup>,
-  Renata Ćušterevska<sup>29</sup>,
-  Zora Dajić Stevanović<sup>5</sup>,
-  Fred J.A. Daniëls<sup>16</sup>,
-  Els De Bie<sup>30</sup>,
-  Louis De Grandpré<sup>16</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3221-660X)Jürgen Dengler<sup>31,32,33</sup>,
-  Valério De Patta Pillar<sup>34</sup>,
-  Patrice De Ruffray<sup>35</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7280-6199)Michele De Sanctis<sup>7</sup>,
-  Panayotis Dimopoulos<sup>36</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5829-4051)Jiri Dolezal<sup>37</sup>,
-  Rasmus Ejrnæs<sup>38</sup>,
-  Sarah Elmendorf<sup>16</sup>,
+  Elise Arnst<sup>5</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8122-3075)Milan Chytrý<sup>6</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3221-660X)Jürgen Dengler<sup>7,8,9</sup>,
+  Valério De Patta Pillar<sup>10</sup>,
+  Patrice De Ruffray<sup>11</sup>,
+  Stephan M. Hennekens<sup>12</sup>,
+  Ute Jandt<sup>13</sup>,
+  Florian Jansen<sup>14</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6601-9597)Borja Jiménez-Alfaro<sup>15</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-1022-8469)Jens Kattge<sup>16</sup>,
+  Aurora Levesley<sup>17</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0444-0882)Oliver Purschke<sup>18</sup>,
+  Brody Sandel<sup>19</sup>,
+  Fahmida Sultana<sup>20</sup>,
+  Marten Winter<sup>9</sup>,
+  Svetlana Aćić<sup>21</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-2346-8346)Emiliano Agrillo<sup>22</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-1500-1834)Miguel Alvarez<sup>23</sup>,
+  Iva Apostolova<sup>24</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6275-7023)Mohammed A.S. Arfin Khan<sup>25</sup>,
+  Isabelle Aubin<sup>26</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3707-3687)Yves Bergeron<sup>27</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6118-4611)Erwin Bergmeier<sup>28</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-1454-0433)Idoia Biurrun<sup>29</sup>,
+  Anne D. Bjorkman<sup>30</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-2550-3010)Laura Casella<sup>31</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3562-2662)Luis Cayuela<sup>32</sup>,
+  Tomáš Černý<sup>33</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3809-7453)Victor Chepinoga<sup>34</sup>,
+  János Csiky<sup>35</sup>,
+  Renata Ćušterevska<sup>36</sup>,
+  Els De Bie<sup>37</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7280-6199)Michele De Sanctis<sup>22</sup>,
+  Panayotis Dimopoulos<sup>38</sup>,
   Mohamed Abd El-Rouf Mousa El-Sheikh<sup>39,40</sup>,
-  Brian Enquist<sup>21</sup>,
-  Jörg Ewald<sup>41</sup>,
-  Giuliano Fanelli<sup>42</sup>,
-  Manfred Finckh<sup>43</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7253-8905)Xavier Font<sup>44</sup>,
-  Georgios Fotiadis<sup>45</sup>,
-  Emmanuel Garbolino<sup>46</sup>,
-  Itziar García-Mijangos<sup>17</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-1940-9581)André Luis de Gasper<sup>47</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6126-6660)Melisa Giorgis<sup>48</sup>,
-  Valentin Golub<sup>19</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8928-3198)Alvaro G. Gutierrez<sup>49</sup>,
-  Mohamed Z. Hatim<sup>50</sup>,
-  Stephan M. Hennekens<sup>51</sup>,
-  Sebastian Herzog<sup>16</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6367-3400)Norbert Hölzel<sup>52</sup>,
-  Jürgen Homeier<sup>53</sup>,
-  Chang-Fu Hsieh<sup>54</sup>,
-  Adrian Indreica<sup>55</sup>,
-  Ute Jandt<sup>56</sup>,
-  Florian Jansen<sup>57</sup>,
-  John Janssen<sup>51</sup>,
-  Birgit Jedrzejek<sup>58</sup>,
-  Anke Jentsch<sup>16</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6601-9597)Borja Jiménez-Alfaro<sup>59</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-4293-478X)Martin Jiroušek<sup>26</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3211-0549)Norbert Jürgens<sup>43</sup>,
-  Zygmunt Kącki<sup>60</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-4549-3668)Ali Kavgacı<sup>61</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0046-3606)Elizabeth Kearsley<sup>62</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-4612-9937)Michael Kessler<sup>63</sup>,
-  Ilona Knollová<sup>26</sup>,
-  Vitaliy Kolomiychuk<sup>64</sup>,
-  Andrey Korolyuk<sup>65</sup>,
-  Maria Kozhevnikova<sup>66</sup>,
-  Łukasz Kozub<sup>67</sup>,
-  Daniel Krstonošić<sup>68</sup>,
-  Hjalmar Kühl<sup>33,69</sup>,
-  Filip Küzmič<sup>70</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6848-0384)Flavia Landucci<sup>26</sup>,
-  Mariya Lebedeva<sup>71</sup>,
-  Michael T. Lee<sup>72</sup>,
-  Aurora Levesley<sup>73</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0744-490X)Ching-Feng Li<sup>74</sup>,
-  Hongyan Liu<sup>75</sup>,
-  Tatiana Lysenko<sup>76</sup>,
-  Armin Macanović<sup>77</sup>,
-  Parastoo Mahdavi<sup>78</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-4361-5200)Corrado Marcenò<sup>17</sup>,
-  Alicia Marticorena<sup>16</sup>,
-  Wanja Mathar<sup>52</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8591-7149)Jesper Erenskjold Moeslund<sup>38</sup>,
-  Jonas V. Müller<sup>79</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-5300-2702)Jérôme Munzinger<sup>80</sup>,
-  Marcin Nobis<sup>81</sup>,
-  Jalil Noroozi<sup>82</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8638-0208)Arkadiusz Nowak<sup>83</sup>,
-  Viktor Onyshchenko<sup>84</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8716-5136)Gerhard E. Overbeck<sup>85</sup>,
-  Aníbal Pauchard<sup>86</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6743-0625)Hristo Pedashenko<sup>87</sup>,
-  Robert K. Peet<sup>88</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5974-7374)Aaron Pérez-Haase<sup>89,90</sup>,
-  Tomáš Peterka<sup>26</sup>,
-  Gwendolyn Peyre<sup>91</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8993-6168)Oliver L. Phillips<sup>73</sup>,
-  Vadim Prokhorov<sup>66</sup>,
-  Valerijus Rašomavičius<sup>92</sup>,
-  Rasmus Revermann<sup>43</sup>,
-  John S. Rodwell<sup>93</sup>,
-  Eszter Ruprecht<sup>94</sup>,
-  Solvita Rūsiņa<sup>95</sup>,
-  Cyrus Samimi<sup>96</sup>,
-  Joop H.J. Schaminée<sup>51</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6087-6117)Marco Schmidt<sup>97</sup>,
-  Ute Schmiedel<sup>98</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5949-862X)Jozef Šibík<sup>99</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3052-699X)Urban Šilc<sup>100</sup>,
-  Željko Škvorc<sup>68</sup>,
-  Anita Smyth<sup>101</sup>,
-  TeneKwetche Sop<sup>33,69</sup>,
-  Desislava Sopotlieva<sup>10</sup>,
-  Ben Sparrow<sup>101</sup>,
-  Toby Spribille<sup>102</sup>,
-  Zvjezdana Stančić<sup>103</sup>,
-  Fahmida Sultana<sup>104</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3415-0862)Jens-Christian Svenning<sup>105</sup>,
-  Grzegorz Swacha<sup>60</sup>,
-  Zhiyao Tang<sup>75</sup>,
-  Ioannis Tsiripidis<sup>106</sup>,
-  Pavel Dan Turtureanu<sup>107</sup>,
-  Domas Uogintas<sup>92</sup>,
-  Milan Valachovič<sup>99</sup>,
-  Kim André Vanselow<sup>108</sup>,
-  Kiril Vassilev<sup>10</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8028-8953)Eduardo Vélez-Martin<sup>109</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7768-0468)Roberto Venanzoni<sup>110</sup>,
-  Hans Verbeeck<sup>111</sup>,
-  Alexander Christian Vibrans<sup>112</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8295-8217)Risto Virtanen<sup>33,113,114</sup>,
-  Henrik von Wehrden<sup>115</sup>,
-  Viktoria Wagner<sup>116</sup>,
-  Donald A. Walker<sup>117</sup>,
-  Desalegn Wana<sup>118</sup>,
-  George D. Weiblen<sup>119</sup>,
-  Karsten Wesche<sup>33,120,121</sup>,
-  Timothy Whitfeld<sup>122</sup>,
-  Wolfgang Willner<sup>123</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8938-8181)Susan Wiser<sup>124</sup>,
-  Thomas Wohlgemuth<sup>125</sup>,
-  Sergey Yamalov<sup>71</sup>,
-  Fengjun Zhao<sup>16</sup>,
-  Georg Zizka<sup>126</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-4394-4605)Andrei Zverev<sup>127</sup>,
+  Brian Enquist<sup>41</sup>,
+  Manfred Finckh<sup>42</sup>,
+  Emmanuel Garbolino<sup>43</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6126-6660)Melisa Giorgis<sup>44</sup>,
+  Valentin Golub<sup>45</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8928-3198)Alvaro G. Gutierrez<sup>46</sup>,
+  Mohamed Z. Hatim<sup>47</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6367-3400)Norbert Hölzel<sup>48</sup>,
+  Jürgen Homeier<sup>49</sup>,
+  Adrian Indreica<sup>50</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-9743-2533)Kim Sarah Jacobsen<sup>51</sup>,
+  John Janssen<sup>12</sup>,
+  Birgit Jedrzejek<sup>52</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3211-0549)Norbert Jürgens<sup>42</sup>,
+  Zygmunt Kącki<sup>53</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-4549-3668)Ali Kavgacı<sup>54</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-4612-9937)Michael Kessler<sup>55</sup>,
+  Andrey Korolyuk<sup>56</sup>,
+  Hjalmar Kühl<sup>9,57</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-6848-0384)Flavia Landucci<sup>6</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0744-490X)Ching-Feng Li<sup>58</sup>,
+  Hongyan Liu<sup>59</sup>,
+  Tatiana Lysenko<sup>60</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-4361-5200)Corrado Marcenò<sup>29</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8591-7149)Jesper Erenskjold Moeslund<sup>61</sup>,
+  Jonas V. Müller<sup>62</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-5300-2702)Jérôme Munzinger<sup>63</sup>,
+  Jalil Noroozi<sup>64</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8638-0208)Arkadiusz Nowak<sup>65</sup>,
+  Viktor Onyshchenko<sup>66</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8716-5136)Gerhard E. Overbeck<sup>67</sup>,
+  Aníbal Pauchard<sup>68</sup>,
+  Robert K. Peet<sup>69</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5974-7374)Aaron Pérez-Haase<sup>70,71</sup>,
+  Tomáš Peterka<sup>6</sup>,
+  Gwendolyn Peyre<sup>72</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8993-6168)Oliver L. Phillips<sup>17</sup>,
+  Vadim Prokhorov<sup>73</sup>,
+  Valerijus Rašomavičius<sup>74</sup>,
+  Rasmus Revermann<sup>42</sup>,
+  John S. Rodwell<sup>75</sup>,
+  Eszter Ruprecht<sup>76</sup>,
+  Solvita Rūsiņa<sup>77</sup>,
+  Cyrus Samimi<sup>78</sup>,
+  Joop H.J. Schaminée<sup>12</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-6087-6117)Marco Schmidt<sup>79</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3052-699X)Urban Šilc<sup>80</sup>,
+  Željko Škvorc<sup>81</sup>,
+  Anita Smyth<sup>82</sup>,
+  Zvjezdana Stančić<sup>83</sup>,
+  Zhiyao Tang<sup>59</sup>,
+  Ioannis Tsiripidis<sup>84</sup>,
+  Milan Valachovič<sup>85</sup>,
+  Kim André Vanselow<sup>86</sup>,
+  Kiril Vassilev<sup>24</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8028-8953)Eduardo Vélez-Martin<sup>87</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-7768-0468)Roberto Venanzoni<sup>88</sup>,
+  Alexander Christian Vibrans<sup>89</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8295-8217)Risto Virtanen<sup>9,90,91</sup>,
+  Henrik von Wehrden<sup>92</sup>,
+  Viktoria Wagner<sup>93</sup>,
+  Donald A. Walker<sup>94</sup>,
+  Desalegn Wana<sup>95</sup>,
+  Karsten Wesche<sup>9,96,97</sup>,
+  Timothy Whitfeld<sup>98</sup>,
+  Wolfgang Willner<sup>99</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-8938-8181)Susan Wiser<sup>5</sup>,
+  Thomas Wohlgemuth<sup>100</sup>,
+  Sergey Yamalov<sup>101</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3135-0356)Helge Bruelheide<sup>1,2</sup>,
 
 <sup>✉</sup> --- To whom correspondence should be addressed: francesco.sabatini@botanik.uni-halle.de
@@ -358,130 +258,104 @@ on October 16, 2020.
 1. German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany<br>
 2. Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie, Am Kirchtor 1, 06108, Halle (Saale). Germany<br>
 3. Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France<br>
-4. MARBEC, Univ Montpellier, CNRS, IFREMER and IRD, Sète, France<br>
-5. Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia<br>
-6. University of Rome 3, V.le Marconi 446, 00146, Rome, Italy<br>
-7. Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy<br>
-8. University of Bonn, Plant Nutrition, INRES, Karlrobert-Kreiten-Str., 53115, Bonn, Germany<br>
-9. ISPRA - Italian National Institute for Environmental Protection and Research, Biodiversity Conservation Department, Via Vitaliano Brancati, 60, 00144, Roma, Italy<br>
-10. Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria<br>
-11. Shahjalal University of Science & Technology, Forestry & Environmental Science, Akhalia, 3114, Sylhet, Bangladesh<br>
-12. Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada<br>
-13. University of Graz, Botanical Garden, Holteigasse 6, 8010, Graz, Austria<br>
-14. Université du Québec en Abitibi-Témiscamingue, Forest Research Institute, 445 boul. de l'Université, J9X5E4, Rouyn-Noranda, Canada<br>
-15. University of Göttingen, Vegetation Ecology and Phytodiversity, Untere Karspüle 2, 37073, Göttingen, Germany<br>
-16. NA,<br>
-17. University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain<br>
-18. Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark<br>
-19. Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia<br>
-20. MTA Centre for Ecological Research, Institute of Ecology and Botany, Alkotmany 2-4, 2163, Vácrátót, Hungary<br>
-21. University of Arizona, Ecology and Evolutionary Biology, 1041 E. Lowell St., AZ 85721, Tucson, United States<br>
-22. University of Alaska, International Arctic Research Center, P.O. Box 757340, 99775, Fairbanks, United States<br>
-23. Universidad Rey Juan Carlos, Department of Biology, Geology, Physics and Inorganic Chemistry, c/ Tulipán s/n, 28933, Móstoles, Spain<br>
-24. Czech University of Life Sciences Prague, Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Kamýcká 1176, 165 21, Praha 6 - Suchdol, Czech Republic<br>
-25. V.B. Sochava Insitute of Geography SB RAS, Laboratory of Physical Geography and Biogeography, Ulan-Batorskaya, 1, 664033, Irkutsk, Russian Federation<br>
-26. Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic<br>
-27. University of Pécs, Department of Ecology, Ifjúság u. 6., 7624, Pécs, Hungary<br>
-28. Swiss Federal Institute of Technology (ETH) Zürich, Institute of Environmental Engineering, John-von-Neumann-Weg 9, 8093, Zürich, Switzerland<br>
-29. Faculty of Natural Sciences and Mathematics, Institute of Biology, Arhimedova 3, 1000, Skopje, Republic of Macedonia<br>
-30. Research Institute for Nature and Forest (INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium<br>
-31. Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Grüentalstr. 14, 8820, Wädenswil, Switzerland<br>
-32. University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany<br>
-33. German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany<br>
-34. Federal University of Rio Grande do Sul, Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
-35. IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France<br>
-36. University of Patras, Institute of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece<br>
-37. Institute of Botany, Czech Academy of Sciences, Department of Functional Ecology, Zamek 1, 25243, Pruhonice, Czech Republic<br>
-38. Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark<br>
+4. MARBEC, University of Montpellier, CNRS, IFREMER and IRD, Sète, France<br>
+5. Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand<br>
+6. Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic<br>
+7. Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Grüentalstr. 14, 8820, Wädenswil, Switzerland<br>
+8. University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany<br>
+9. German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany<br>
+10. Federal University of Rio Grande do Sul, Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
+11. IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France<br>
+12. Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands<br>
+13. Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany<br>
+14. University of Rostock, Faculty of Agricultural and Environmental Sciences, Justus-von-Liebig-Weg 6, 18059, Rostock, Germany<br>
+15. University of Oviedo, Research Unit of Biodiversity (CSIC/UO/PA), C. Gonzalo Gutiérrez Quirós s/n, 33600, Mieres, Spain<br>
+16. Max Planck Institute for Biogeochemistry, Hans Knöll Str. 10, 07745, Jena, Germany<br>
+17. University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom<br>
+18. NA,<br>
+19. Aarhus University, Aarhus, Denmark<br>
+20. Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh<br>
+21. Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia<br>
+22. Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy<br>
+23. University of Bonn, Plant Nutrition, INRES, Karlrobert-Kreiten-Str., 53115, Bonn, Germany<br>
+24. Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, Department of Plant and Fungal Diversity and Resources, Acad. Georgi Bonchev 23, 1113, Sofia, Bulgaria<br>
+25. Shahjalal University of Science & Technology, Forestry & Environmental Science, Akhalia, 3114, Sylhet, Bangladesh<br>
+26. Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada<br>
+27. Université du Québec en Abitibi-Témiscamingue, Forest Research Institute, 445 boul. de l'Université, J9X5E4, Rouyn-Noranda, Canada<br>
+28. University of Göttingen, Vegetation Ecology and Phytodiversity, Untere Karspüle 2, 37073, Göttingen, Germany<br>
+29. University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain<br>
+30. Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark<br>
+31. ISPRA - Italian National Institute for Environmental Protection and Research, Biodiversity Conservation Department, Via Vitaliano Brancati, 60, 00144, Roma, Italy<br>
+32. Universidad Rey Juan Carlos, Department of Biology, Geology, Physics and Inorganic Chemistry, c/ Tulipán s/n, 28933, Móstoles, Spain<br>
+33. Czech University of Life Sciences Prague, Department of Forest Ecology, Faculty of Forestry and Wood Sciences, Kamýcká 1176, 165 21, Praha 6 - Suchdol, Czech Republic<br>
+34. V.B. Sochava Insitute of Geography SB RAS, Laboratory of Physical Geography and Biogeography, Ulan-Batorskaya, 1, 664033, Irkutsk, Russian Federation<br>
+35. University of Pécs, Department of Ecology, Ifjúság u. 6., 7624, Pécs, Hungary<br>
+36. Faculty of Natural Sciences and Mathematics, Institute of Biology, Arhimedova 3, 1000, Skopje, Republic of Macedonia<br>
+37. Research Institute for Nature and Forest (INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium<br>
+38. University of Patras, Institute of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece<br>
 39. College of Science, King Saud University, Botany and Microbiology Department, P.O. Box 2455, 11451, Riyadh, Saudi Arabia<br>
 40. Damanhour University, Botany Department, Faculty of Science, Damanhour, Egypt<br>
-41. Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany<br>
-42. Sapienza University of Rome, Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy<br>
-43. University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany<br>
-44. University of Barcelona, Plant Biodiversity Resource Centre, Baldiri Reixac, 2, 08028, Barcelona, Spain<br>
-45. TEI of Sterea Ellada, Department of Forestry & Natural Environment Management, Dimokratias 3, 36100, Karpenissi, Greece<br>
-46. MINES ParisTech, Crisis and Risk research Centre (CRC), 1 rue Claude Daunesse, BP 207, 06904, Sophia Antipolis, France<br>
-47. Regional University of Blumenau, Departament of Natural Science, Antonio da Veiga, 140, ​89030-903, Blumenau, Brazil<br>
-48. Instituto Multidisciplinario de Biología Vegetal (IMBIV-CONICET), ECOLOGÍA VEGETAL Y FITOGEOGRAFÍA, Av. Vélez Sársfield 1611, 5000, Córdoba, Argentina<br>
-49. Universidad de Chile, Departamento de Ciencias Ambientales y Recursos Naturales Renovables, Facultad de Ciencias Agronomicas, Santa Rosa 11315, La Pintana, 8820808, Santiago, Chile<br>
-50. Tanta University, Botany, Faculty of Science, El Geish St., 31527, Tanta, Egypt<br>
-51. Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands<br>
-52. University of Muenster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, Münster, Germany<br>
-53. University of Göttingen, Plant Ecology and Ecosystems Research, Untere Karspüle 2, 37073, Göttingen, Germany<br>
-54. National Taiwan University, Institute of Ecology and Evolutionary Biology, No. 1, Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan<br>
-55. Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania<br>
-56. Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany<br>
-57. University of Rostock, Faculty of Agricultural and Environmental Sciences, Justus-von-Liebig-Weg 6, 18059, Rostock, Germany<br>
-58. University of Münster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, Münster, Germany<br>
-59. University of Oviedo, Research Unit of Biodiversity (CSIC/UO/PA), C. Gonzalo Gutiérrez Quirós s/n, 33600, Mieres, Spain<br>
-60. University of Wrocław, Botanical Garden, Sienkiewicza 23, 50-335, Wrocław, Poland<br>
-61. Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey<br>
-62. Ghent University, Department of Environment, Coupure Links 653, 9000, Gent, Belgium<br>
-63. University of Zurich, Department of Systematic and Evolutionary Botany, Zollikerstrasse 107, 8008, Zurich, Switzerland<br>
-64. Taras Shevchenko National University of Kyiv, O.V. Fomin Botanical Garden, Symona Petliury 1, 01032, Kyiv, Ukraine<br>
-65. Central Siberian Botanical Garden, Siberian Branch, Russian Academy of Sciences, Geosystem Laboratory, Zolotodolinskaya str. 101, 630090, Novosibirsk, Russian Federation<br>
-66. Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia<br>
-67. University of Warsaw, Department of Plant Ecology and Environmental Conservation, Faculty of Biology, Biological and Chemical Research Centre, ul. Żwirki i Wigury 101, 02-089, Warsaw, Poland<br>
-68. University of Zagreb, Faculty of Forestry, Svetošimunska 25, 10000, Zagreb, Croatia<br>
-69. Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany<br>
-70. ZRC SAZU, Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia<br>
-71. Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia<br>
-72. NatureServe, 601A Foster St., NC 27701, Durham, United States<br>
-73. University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom<br>
-74. National Taiwan University, School of Forestry and Resource Conservation, No. 101, Section 2, Kuang-Fu Road, 30013, Hsinchu, Taiwan<br>
-75. Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China<br>
-76. Institute of Ecology of the Volga River Basin RAS, Dept. of the Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russia<br>
-77. University of Sarajevo, Center for Ecology and Natural Resources - Academician Sulejman Redžić, Department of Biology, Zmaja od Bosne 33-35, 71000, Sarajevo, Bosnia and Herzegovina<br>
-78. C.v.O. Universität Oldenburg, Research group Vegetation Science & Nature Conservation, Dept. of Ecology and Environmental Science, Ammerländer Heerstraße 114-118, 26129, Oldenburg, Germany<br>
-79. Royal Botanic Gardens, Kew, Conservation Science, Wakehurst Place, RH17 6TN, Ardingly, West Sussex, United Kingdom<br>
-80. IRD, CIRAD, CNRS, INRA, Université Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France<br>
-81. Jagiellonian University, Institute of Botany, Kopernika St. 27, 31-501, Kraków, Poland<br>
-82. University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria<br>
-83. Polish Academy of Sciences, Botanical Garden - Center for Biological Diversity Conservation, Prawdziwka 2, 02-976, Warszawa, Poland<br>
-84. National Academy of Sciences of Ukraine, M.G. Kholodny Institute of Botany, Tereshchenkivska 2, 01601, Kyiv, Ukraine<br>
-85. Universidade Federal do Rio Grande do Sul, Department of Botany, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
-86. University of Concepción, Laboratorio de Invasiones Biológicas (LIB), Victoria 631, 4030000, Concepción, Chile<br>
-87. NA, Sarphatistraat 139G, 1018GD, Amsterdam, Netherlands<br>
-88. University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States<br>
-89. University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain<br>
-90. Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d'accés a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain<br>
-91. University of the Andes, Department of Civil and Environmental Engineering, Carrera 1 Este No. 19A-40, Edificio Mario Laserna, Piso 6 , 111711, Bogota, Colombia<br>
-92. Nature Research Centre, Institute of Botany, Zaliuju Ezeru 49, 08406, Vilnius, Lithuania<br>
-93. NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom<br>
-94. Babeș-Bolyai University, Hungarian Department of Biology and Ecology, Faculty of Biology and Geology, Republicii street 42., 400015, Cluj-Napoca, Romania<br>
-95. University of Latvia, Department of Geography, 1 Jelgavas Street, 1004, Riga, Latvia<br>
-96. University of Bayreuth, Climatology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany<br>
-97. Stadt Frankfurt am Main - Der Magistrat, Palmengarten, Siesmayerstraße 61, 60323, Frankfurt am Main, Germany<br>
-98. University of Hamburg, Biodiversity, Evolution and Ecology of Plants, Institute for Plant Science and Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany<br>
-99. Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia<br>
-100. Research Centre of Slovenian Academy of Sciences and Arts (ZRC SAZU), Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia<br>
-101. University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia<br>
-102. University of Graz, Institute of Plant Sciences, Holteigasse 6, 8010, Graz, Austria<br>
-103. University of Zagreb, Faculty of Geotechnical Engineering, Hallerova aleja 7, 42000, Varaždin, Croatia<br>
-104. Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh<br>
-105. Aarhus University, Center for Biodiversity Dynamics in a Changing World (BIOCHANGE) & Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark<br>
-106. Aristotle University of Thessaloniki, School of Biology, 54124, Thessaloniki, Greece<br>
-107. Babeș-Bolyai University, A. Borza Botanical Garden, Republicii 42, 400516, Cluj-Napoca, Romania<br>
-108. University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany<br>
-109. Universidade Federal do Rio Grande do Sul, Department of Ecology, Av Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
-110. University of Perugia, Department of Chemistry, Biology and Biotechnology, Borgo XX giugno 74, 06124, Perugia, Italy<br>
-111. Ghent University, Department of Applied Ecology and Environmental Biology, Coupure Links 653, 9000, Gent, Belgium<br>
-112. Universidade Regional de Blumenau, Departamento de Engenharia Florestal, Rua São Paulo, 3250, 89030-000, Blumenau, Brazil<br>
-113. University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland<br>
-114. Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany<br>
-115. Leuphana University of Lüneburg, Institute of Ecology, Universitätsallee 1, 21335, Lüneburg, Germany<br>
-116. University of Alberta, Department of Biological Sciences, Biological Sciences Building, T6G2E9, Edmonton, Canada<br>
-117. University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States<br>
-118. Addis Ababa University, Department of Geography & Environmental Studies, Sidist Kilo SQ, 150178, Addis Ababa, Ethiopia<br>
-119. University of Minnesota, Bell Museum of Natural History/Departlment of Plant Biology, 1479 Gortner Avene, 55108, St. Paul, United States<br>
-120. Senckenberg Museum of Natural History Görlitz, Botany Department, PO Box 300 154, 02806, Görlitz, Germany<br>
-121. Technische Universität Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany<br>
-122. Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States<br>
-123. Vienna Institute for Nature Conservation & Analyses, Giessergasse 6/7, 1090, Vienna, Austria<br>
-124. Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand<br>
-125. Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Research Unit Forest Dynamics, Zürcherstrasse 111, 8903, Birmensdorf, Switzerland<br>
-126. Senckenberg Research Institute, Dept. Botany and Molecular Evolution, Senckenberganlage 25, 60325, Frankfurt am Main, Germany<br>
-127. Tomsk State University, Department of Botany, Lenin av. 36, 634050, Tomsk, Russian Federation<br>
+41. University of Arizona, Ecology and Evolutionary Biology, 1041 E. Lowell St., AZ 85721, Tucson, United States<br>
+42. University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany<br>
+43. MINES ParisTech, Crisis and Risk research Centre (CRC), 1 rue Claude Daunesse, BP 207, 06904, Sophia Antipolis, France<br>
+44. Instituto Multidisciplinario de Biología Vegetal (IMBIV-CONICET), ECOLOGÍA VEGETAL Y FITOGEOGRAFÍA, Av. Vélez Sársfield 1611, 5000, Córdoba, Argentina<br>
+45. Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia<br>
+46. Universidad de Chile, Departamento de Ciencias Ambientales y Recursos Naturales Renovables, Facultad de Ciencias Agronomicas, Santa Rosa 11315, La Pintana, 8820808, Santiago, Chile<br>
+47. Tanta University, Botany, Faculty of Science, El Geish St., 31527, Tanta, Egypt<br>
+48. University of Muenster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, Münster, Germany<br>
+49. University of Göttingen, Plant Ecology and Ecosystems Research, Untere Karspüle 2, 37073, Göttingen, Germany<br>
+50. Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania<br>
+51. Ghent University, Dept Environment, Coupure Links 653, 9000, Ghent, Belgium<br>
+52. University of Münster, Institute of Landscape Ecology, Heisenbergstr. 2, 48149, Münster, Germany<br>
+53. University of Wrocław, Botanical Garden, Sienkiewicza 23, 50-335, Wrocław, Poland<br>
+54. Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey<br>
+55. University of Zurich, Department of Systematic and Evolutionary Botany, Zollikerstrasse 107, 8008, Zurich, Switzerland<br>
+56. Central Siberian Botanical Garden, Siberian Branch, Russian Academy of Sciences, Geosystem Laboratory, Zolotodolinskaya str. 101, 630090, Novosibirsk, Russian Federation<br>
+57. Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Deutscher Platz 6, 04103, Leipzig, Germany<br>
+58. National Taiwan University, School of Forestry and Resource Conservation, No. 101, Section 2, Kuang-Fu Road, 30013, Hsinchu, Taiwan<br>
+59. Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China<br>
+60. Institute of Ecology of the Volga River Basin RAS, Dept. of the Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russia<br>
+61. Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark<br>
+62. Royal Botanic Gardens, Kew, Conservation Science, Wakehurst Place, RH17 6TN, Ardingly, West Sussex, United Kingdom<br>
+63. IRD, CIRAD, CNRS, INRA, Université Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France<br>
+64. University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria<br>
+65. Polish Academy of Sciences, Botanical Garden - Center for Biological Diversity Conservation, Prawdziwka 2, 02-976, Warszawa, Poland<br>
+66. National Academy of Sciences of Ukraine, M.G. Kholodny Institute of Botany, Tereshchenkivska 2, 01601, Kyiv, Ukraine<br>
+67. Universidade Federal do Rio Grande do Sul, Department of Botany, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
+68. University of Concepción, Laboratorio de Invasiones Biológicas (LIB), Victoria 631, 4030000, Concepción, Chile<br>
+69. University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States<br>
+70. University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain<br>
+71. Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d'accés a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain<br>
+72. University of the Andes, Department of Civil and Environmental Engineering, Carrera 1 Este No. 19A-40, Edificio Mario Laserna, Piso 6 , 111711, Bogota, Colombia<br>
+73. Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia<br>
+74. Nature Research Centre, Institute of Botany, Zaliuju Ezeru 49, 08406, Vilnius, Lithuania<br>
+75. NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom<br>
+76. Babeș-Bolyai University, Hungarian Department of Biology and Ecology, Faculty of Biology and Geology, Republicii street 42., 400015, Cluj-Napoca, Romania<br>
+77. University of Latvia, Department of Geography, 1 Jelgavas Street, 1004, Riga, Latvia<br>
+78. University of Bayreuth, Climatology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany<br>
+79. Stadt Frankfurt am Main - Der Magistrat, Palmengarten, Siesmayerstraße 61, 60323, Frankfurt am Main, Germany<br>
+80. Research Centre of Slovenian Academy of Sciences and Arts (ZRC SAZU), Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia<br>
+81. University of Zagreb, Faculty of Forestry, Svetošimunska 25, 10000, Zagreb, Croatia<br>
+82. University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia<br>
+83. University of Zagreb, Faculty of Geotechnical Engineering, Hallerova aleja 7, 42000, Varaždin, Croatia<br>
+84. Aristotle University of Thessaloniki, School of Biology, 54124, Thessaloniki, Greece<br>
+85. Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia<br>
+86. University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany<br>
+87. Universidade Federal do Rio Grande do Sul, Department of Ecology, Av Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil<br>
+88. University of Perugia, Department of Chemistry, Biology and Biotechnology, Borgo XX giugno 74, 06124, Perugia, Italy<br>
+89. Universidade Regional de Blumenau, Departamento de Engenharia Florestal, Rua São Paulo, 3250, 89030-000, Blumenau, Brazil<br>
+90. University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland<br>
+91. Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany<br>
+92. Leuphana University of Lüneburg, Institute of Ecology, Universitätsallee 1, 21335, Lüneburg, Germany<br>
+93. University of Alberta, Department of Biological Sciences, Biological Sciences Building, T6G2E9, Edmonton, Canada<br>
+94. University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States<br>
+95. Addis Ababa University, Department of Geography & Environmental Studies, Sidist Kilo SQ, 150178, Addis Ababa, Ethiopia<br>
+96. Senckenberg Museum of Natural History Görlitz, Botany Department, PO Box 300 154, 02806, Görlitz, Germany<br>
+97. Technische Universität Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany<br>
+98. Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States<br>
+99. Vienna Institute for Nature Conservation & Analyses, Giessergasse 6/7, 1090, Vienna, Austria<br>
+100. Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Research Unit Forest Dynamics, Zürcherstrasse 111, 8903, Birmensdorf, Switzerland<br>
+101. Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia<br>
 
 </small>
 
