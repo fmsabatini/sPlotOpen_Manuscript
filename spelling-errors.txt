@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -124,7 +124,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
