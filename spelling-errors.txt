@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-acknowledgements
+Acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -56,7 +56,6 @@ Biogeochemistry
 Biogeography
 Biología
 Biológicas
-Biologie
 Biome
 biomes
 Bioscience
@@ -192,7 +191,6 @@ Fotiadis
 Francesc
 Francesco
 Fu
-für
 FVDT
 FZT
 Garbolino
@@ -262,7 +260,6 @@ Indreica
 INRA
 INRES
 Insitute
-Institut
 Instituto
 Invasiones
 Ioannis
@@ -504,7 +501,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -567,7 +564,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
