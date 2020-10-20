@@ -124,7 +124,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -190,6 +190,7 @@ ForestPlots
 Fotiadis
 Francesc
 Francesco
+FS
 Fu
 FVDT
 FZT
@@ -207,6 +208,7 @@ Geosystem
 Geotechnical
 Gerhard
 Giessergasse
+GiHub
 Giorgis
 Girona
 giugno
@@ -231,6 +233,7 @@ Hallerova
 Hatim
 Hattab
 Havenlaan
+HB
 Heisenbergstr
 Helge
 HelNatVeg
@@ -285,6 +288,8 @@ Jesper
 Jiménez
 Jiri
 Jiroušek
+JK
+JL
 Joop
 Jörg
 Jozef
@@ -441,6 +446,7 @@ Republicii
 resampled
 resampling
 Revermann
+revisng
 Rey
 Risto
 RO
@@ -486,6 +492,7 @@ Sirul
 SIVIM
 Škvorc
 Śliwiński
+SMH
 Smyth
 Sochava
 Socotra
@@ -502,7 +509,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-str
+Str
 Strasburg
 subpolar
 Subtrop
@@ -565,7 +572,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
