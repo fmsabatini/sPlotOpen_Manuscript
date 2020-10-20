@@ -454,7 +454,6 @@ Rua
 Ruffray
 Ruprecht
 Rūsiņa
-Saale
 Sabatini
 SALVIAS
 Samimi
@@ -502,7 +501,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -565,7 +564,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
