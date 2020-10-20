@@ -93,7 +93,7 @@
   "publisher": "Biodiversity & Ecology",
   "page": "243-253",
   "volume": "4",
-  "URL": "https://doi.org/0.7809/b-e.00081",
+  "URL": "https://doi.org/10.7809/b-e.00081",
   "issued": {
     "date-parts": [
       [
@@ -296,6 +296,31 @@
       "given": "C. N."
     }    
   ]  
+},
+{
+  "id": "Stebler1893",
+  "type": "article-journal",
+  "title": "Versuch einer Übersicht über die Wiesentypen der Schweiz",
+  "container-title": "Landwirt. Jahrb. Schweiz",
+	"page": "95-212",
+	"issue": "6",
+  "author": [
+    {
+      "family": "Stebler",
+      "given": "F. G."
+    },
+    {
+      "family": "Schröter",
+      "given": "C."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "1893"
+      ]
+    ]
+  }
 }
 ]
 
