@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -126,7 +126,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -449,7 +449,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 revisng
 Rey
@@ -478,7 +478,6 @@ Sault
 SAZU
 Schaminée
 Schmiedel
-Schröter
 sDiv
 Senckenberg
 Sergey
@@ -513,8 +512,9 @@ Spribille
 SSAForests
 Stadt
 Stančić
+Stebler
 Stevanović
-str
+Str
 Strasburg
 subpolar
 Subtrop
@@ -557,7 +557,7 @@ UFZ
 ukasz
 Ulan
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade

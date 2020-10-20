@@ -10,7 +10,6 @@ content/02.BackgroundSummary.md:5:anthropogenic
 content/02.BackgroundSummary.md:16:BIEN
 content/02.BackgroundSummary.md:16:gbif
 content/02.BackgroundSummary.md:16:GBIF
-content/02.BackgroundSummary.md:19:Schröter
 content/02.BackgroundSummary.md:22:biotic
 content/02.BackgroundSummary.md:32:sPlot
 content/02.BackgroundSummary.md:33:datasets
@@ -88,11 +87,6 @@ content/04.DataRecords.md:20:datasets
 content/04.DataRecords.md:20:sPlot
 content/04.DataRecords.md:22:dataset
 content/04.DataRecords.md:22:dataset
-content/04.DataRecords.md:22:idiv
-content/04.DataRecords.md:22:sPlot
-content/04.DataRecords.md:22:sPlot
-content/04.DataRecords.md:22:sPlot
-content/04.DataRecords.md:22:sPlot's
 content/05.DatabaseOrganization.md:3:dataset
 content/05.DatabaseOrganization.md:5:dataset
 content/05.DatabaseOrganization.md:8:DT
@@ -106,8 +100,6 @@ content/06.TechnicalValidation.md:3:sPlot
 content/06.TechnicalValidation.md:4:dataset
 content/06.TechnicalValidation.md:5:dataset
 content/06.TechnicalValidation.md:8:dataset
-content/06.TechnicalValidation.md:8:Hennekens
-content/06.TechnicalValidation.md:8:Schaminée
 content/06.TechnicalValidation.md:8:sPlot
 content/06.TechnicalValidation.md:8:Turboveg
 content/06.TechnicalValidation.md:9:datasets
@@ -125,7 +117,6 @@ content/06.TechnicalValidation.md:12:sPlot
 content/06.TechnicalValidation.md:12:TNRS
 content/06.TechnicalValidation.md:13:datasets
 content/06.TechnicalValidation.md:13:sPlot
-content/06.TechnicalValidation.md:15:Purschke
 content/06.TechnicalValidation.md:18:avalable
 content/06.TechnicalValidation.md:18:BioTIME
 content/06.TechnicalValidation.md:18:idiv
