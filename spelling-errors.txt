@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-acknowledgements
+Acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -38,6 +38,7 @@ Armin
 Arnst
 Attorre
 Aubin
+avalable
 Batorskaya
 BayCEER
 BD
@@ -61,6 +62,7 @@ biomes
 Bioscience
 BIOTA
 biotic
+BioTIME
 BIOTREE
 BIOVEG
 Birgit
@@ -337,6 +339,7 @@ Laserna
 Lebedeva
 Leuphana
 Levesley
+licences
 Liebig
 Lironde
 Liu
@@ -388,6 +391,7 @@ Nowak
 Ohnhorststr
 Okavango
 Onyshchenko
+oringal
 Oulu
 Overbeck
 overrepresentation
@@ -423,6 +427,7 @@ Pierangela
 Pintana
 PIPPN
 Piso
+PlantHub
 Platz
 plotbiomes
 POB
@@ -444,7 +449,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 revisng
 Rey
@@ -509,7 +514,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
