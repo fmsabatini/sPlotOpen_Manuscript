@@ -124,7 +124,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -375,6 +375,7 @@ Nemanjina
 NL
 Nobis
 nomenclatural
+nonforest
 Noranda
 Noroozi
 Novi
@@ -432,7 +433,7 @@ RAS
 Rasmus
 Rašomavičius
 Recursos
-Relevé
+Releve
 Renata
 Rennweg
 Renovables
@@ -501,7 +502,7 @@ SSAForests
 Stadt
 Stančić
 Stevanović
-str
+Str
 Strasburg
 subpolar
 Subtrop
@@ -544,7 +545,7 @@ UFZ
 ukasz
 Ulan
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -564,7 +565,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
