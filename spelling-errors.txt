@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-Acknowledgements
+acknowledgements
 Addis
 Agrillo
 Agrobotany
@@ -60,6 +60,7 @@ Blanes
 Blumenau
 Bolyai
 Bonchev
+Boreal
 Borgo
 Borja
 boul
@@ -103,6 +104,7 @@ dataset
 datasets
 dataset’s
 Daunesse
+dbh
 Dengler
 Departamento
 Departement
@@ -171,6 +173,7 @@ Grande
 Grenaavej
 Grüentalstr
 Gutiérrez
+GVID
 Haase
 Halle
 Hallerova
@@ -340,7 +343,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 revisng
 Rey
@@ -391,8 +394,10 @@ sPlot’s
 Stadt
 Stančić
 Stebler
-str
+Str
 Strasburg
+subpolar
+Subtrop
 Suchdol
 Sul
 Svetlana
@@ -419,6 +424,7 @@ Turboveg
 UFZ
 Ulan
 UMR
+understory
 Unité
 Universidad
 Universidade
