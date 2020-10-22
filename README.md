@@ -12,8 +12,21 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally resampled subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html), version 2.1, which will be released as open-access. 
+
+Links to the rendered version of this manuscript:
+[HTML](https://fmsabatini.github.io/sPlotOpen_Manuscript/)
+[PDF](https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf)
+
+**This manuscript is under construction**
+Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md) 
+
+_Below, a list of relevant papers describing, or using sPlot:_
+[Bruelheide et al. 2019 - sPlot – A new tool for global vegetation analyses - J Vegetation Science](https://onlinelibrary.wiley.com/doi/10.1111/jvs.12710)  
+[Bruelheide et al. 2018 - Global trait–environment relationships of plant communities - NatEcoEvo](https://www.nature.com/articles/s41559-018-0699-8)  
+[Weigand et al. 2019 - Global fern and lycophyte richness explained: How regional and local factors shape plot richness - J Biogeography](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjbi.13782)  
+[van der Sande et al. 2020 - Similar factors underlie tree abundance in forests in native and alien ranges - Global Ecology & Biogeography](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13027?af=R)
+
 
 ## Manubot
 
