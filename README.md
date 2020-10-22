@@ -15,8 +15,8 @@
 This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally resampled subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
 
 Links to the rendered version of this manuscript:  
-[HTML](https://fmsabatini.github.io/sPlotOpen_Manuscript/)  
-[PDF](https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf)  
++ **HTML manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/
++ **PDF manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf
 
 **This manuscript is under construction**  
 Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md).  
