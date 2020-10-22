@@ -60,7 +60,6 @@ Blanes
 Blumenau
 Bolyai
 Bonchev
-Boreal
 Borgo
 Borja
 boul
@@ -104,7 +103,6 @@ dataset
 datasets
 dataset’s
 Daunesse
-dbh
 Dengler
 Departamento
 Departement
@@ -173,7 +171,6 @@ Grande
 Grenaavej
 Grüentalstr
 Gutiérrez
-GVID
 Haase
 Halle
 Hallerova
@@ -394,10 +391,8 @@ sPlot’s
 Stadt
 Stančić
 Stebler
-Str
+str
 Strasburg
-subpolar
-Subtrop
 Suchdol
 Sul
 Svetlana
@@ -424,7 +419,6 @@ Turboveg
 UFZ
 Ulan
 UMR
-understory
 Unité
 Universidad
 Universidade
