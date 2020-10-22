@@ -126,7 +126,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -449,7 +449,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 revisng
 Rey
@@ -557,7 +557,7 @@ UFZ
 ukasz
 Ulan
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -577,7 +577,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
