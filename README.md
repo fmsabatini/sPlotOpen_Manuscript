@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,27 +12,30 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally resampled subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html), version 2.1, which will be released as open-access. 
+This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally resampled subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
 
-Links to the rendered version of this manuscript:
-[HTML](https://fmsabatini.github.io/sPlotOpen_Manuscript/)
-[PDF](https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf)
+Links to the rendered version of this manuscript:  
+[HTML](https://fmsabatini.github.io/sPlotOpen_Manuscript/)  
+[PDF](https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf)  
 
-**This manuscript is under construction**
-Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md) 
+**This manuscript is under construction**  
+Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md).  
 
-_Below, a list of relevant papers describing, or using sPlot:_
-[Bruelheide et al. 2019 - sPlot – A new tool for global vegetation analyses - J Vegetation Science](https://onlinelibrary.wiley.com/doi/10.1111/jvs.12710)  
-[Bruelheide et al. 2018 - Global trait–environment relationships of plant communities - NatEcoEvo](https://www.nature.com/articles/s41559-018-0699-8)  
-[Weigand et al. 2019 - Global fern and lycophyte richness explained: How regional and local factors shape plot richness - J Biogeography](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjbi.13782)  
-[van der Sande et al. 2020 - Similar factors underlie tree abundance in forests in native and alien ranges - Global Ecology & Biogeography](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13027?af=R)
 
+_Below, a list of relevant papers describing, or using sPlot:_  
+- [Bruelheide et al. 2019 - sPlot – A new tool for global vegetation analyses - J Vegetation Science](https://onlinelibrary.wiley.com/doi/10.1111/jvs.12710)  
+- [Bruelheide et al. 2018 - Global trait–environment relationships of plant communities - NatEcoEvo](https://www.nature.com/articles/s41559-018-0699-8)  
+- [Weigand et al. 2019 - Global fern and lycophyte richness explained: How regional and local factors shape plot richness - J Biogeography](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjbi.13782)  
+- [van der Sande et al. 2020 - Similar factors underlie tree abundance in forests in native and alien ranges - Global Ecology & Biogeography](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13027?af=R)  
+
+
+_sPlot is an initiative of [iDiv - The German Centre for Integrative Biodiversity Research](https://www.idiv.de/en/index.html)_
 
 ## Manubot
 
 <!-- usage note: do not edit this section -->
 
-Manubot is a system for writing scholarly manuscripts via GitHub.
+This manuscript is created and edited using Manubot. Manubot is a system for writing scholarly manuscripts via GitHub.
 Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
 An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
 The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
