@@ -514,7 +514,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -557,7 +557,7 @@ UFZ
 ukasz
 Ulan
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
