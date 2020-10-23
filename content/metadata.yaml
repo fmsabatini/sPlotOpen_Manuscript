@@ -16,6 +16,7 @@ authors:
       - German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany  
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
     correspondence: true
+    symbol_str: "†"
   - github: lenjon
     name: Jonathan Lenoir
     initials: JN
@@ -24,6 +25,7 @@ authors:
     email: jonathan.lenoir@u-picardie.fr
     affiliations:
       - Unité de Recherche “Ecologie et Dynamique des Systèmes Anthropisés” (EDYSAN), UMR 7058 CNRS, Université de Picardie Jules Verne, 80037 Amiens Cedex 1, France
+    symbol_str: "†"
   - github: TarekHattab
     name: Tarek Hattab
     initials: TH
