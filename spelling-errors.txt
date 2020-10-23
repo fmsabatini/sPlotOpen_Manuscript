@@ -449,7 +449,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 revisng
 Rey
@@ -514,7 +514,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subpolar
 Subtrop
@@ -557,7 +557,7 @@ UFZ
 ukasz
 Ulan
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
