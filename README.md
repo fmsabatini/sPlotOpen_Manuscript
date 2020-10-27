@@ -19,6 +19,9 @@ Links to the rendered version of this manuscript:
 + **PDF manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf
 
 **This manuscript is under construction**  
+
+See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlot Open database is being constructed  
+
 Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md).  
 
 
