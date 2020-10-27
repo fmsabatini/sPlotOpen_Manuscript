@@ -183,6 +183,7 @@ content/91.ManubotTables.md:36:Natura
 content/91.ManubotTables.md:38:Phytosociological
 content/91.ManubotTables.md:40:CoenoDat
 content/91.ManubotTables.md:40:HU
+content/91.ManubotTables.md:40:Lájer
 content/91.ManubotTables.md:40:Phytosociological
 content/91.ManubotTables.md:41:VegItaly
 content/91.ManubotTables.md:42:BVN
@@ -234,6 +235,7 @@ content/91.ManubotTables.md:93:PIPPN
 content/91.ManubotTables.md:94:Databank
 content/91.ManubotTables.md:95:Papua
 content/91.ManubotTables.md:96:BIOTREE
+content/91.ManubotTables.md:98:Aubin
 content/91.ManubotTables.md:98:Understory
 content/91.ManubotTables.md:99:Boreal
 content/91.ManubotTables.md:100:GL
