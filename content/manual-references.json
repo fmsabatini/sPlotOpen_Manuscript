@@ -525,8 +525,85 @@
       ]
     ]
   }
-} 
-
+},
+{
+  "id": "Lájer",
+  "type": "article-journal",
+  "title": "Hungarian Phytosociological database (COENODATREF): sampling methodology, nomenclature and its actual stage",
+  "container-title": "Annali di Botanica, Nuova Serie",
+  "page": "297-201",
+  "issue": "7",
+  "author": [
+    {
+      "family": "Lájer",
+      "given": "K"
+    },
+    {
+      "family": "Botta‐Dukát",
+      "given": "Z."
+    },
+    {
+      "family": "Csiky",
+      "given": "J."
+    },
+    {
+      "family": "Horváth",
+      "given": "F."
+    },
+    {
+      "family": "Szmorad",
+      "given": "F."
+    },
+    {
+      "family": "Bagi",
+      "given": "I."
+    },
+    {
+      "family": "Rédei",
+      "given": "T."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2008"
+      ]
+    ]
+  }
+},
+{
+  "id": "Aubin",
+  "type": "article-journal",
+  "title": "How resilient are northern hardwood forests to human disturbance? An evaluation using a plant functional group approach",
+  "container-title": "Ecoscience",
+  "page": "259-271",
+  "issue": "14",
+  "author": [
+    {
+      "family": "Aubin",
+      "given": "I."
+    },
+    {
+      "family": "Gachet",
+      "given": "S."
+    },
+    {
+      "family": "Messier",
+      "given": "C."
+    },
+    {
+      "family": "Bouchard",
+      "given": "A."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2007"
+      ]
+    ]
+  }
+}
 ]
 
 
