@@ -321,8 +321,214 @@
       ]
     ]
   }
-}
+},
+{
+  "id": "Chytrý",
+  "type": "article-journal",
+  "title": "Czech National Phytosociological Database: basic statistics of the available vegetation‐plot data",
+  "container-title": "Preslia",
+	"page": "1-15",
+	"issue": "75",
+  "author": [
+    {
+      "family": "Chytrý",
+      "given": "M."
+    },
+    {
+      "family": "Rafajová",
+      "given": "M."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2003"
+      ]
+    ]
+  }
+}, 
+{
+  "id": "Schaminée",
+  "type": "book",
+  "title": "Schatten voor de natuur. Achtergronden, inventaris en toepassingen van de Landelijke Vegetatie Databank",
+  "publisher": "KNNV Uitgeverij",
+  "publisher-place": "Utrecht, The Netherlands",
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Schaminée",
+      "given": "J.H.J."
+    }, 
+    {
+      "family": "Janssen",
+      "given": "J.A.M."
+    },
+    {
+      "family": "Haveman",
+      "given": "R."
+    },
+    {
+      "family": "Hennekens",
+      "given": "S.M."
+    },
+    {
+      "family": "Heuvelink",
+      "given": "G.B.M."
+    },
+    {
+      "family": "Huiskes",
+      "given": "H.P.J."
+    },
+    {
+      "family": "Weeda",
+      "given": "E.J."
+    }
+  ]
+}, 
+{
+  "id": "Müller",
+  "type": "thesis",
+  "title": "Zur Vegetationsökologie der Savannenlandschaften im Sahel Burkina Fasos",
+  "publisher": "FB Biologie und Informatik, J.W. Goethe‐Universität Frankfurt a.M",
+  "publisher-place": "Frankfurt am Main, Germany",
+  "author": [
+    {
+      "family": "Müller",
+      "given": "J."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2003
+      ]
+    ]
+  }
+},
+{
+  "id": "Samimi",
+  "type": "article-journal",
+  "title": "{Das Weidepotential im Gutu‐Distrikt (Zimbabwe) – Möglichkeiten und Grenzen der Modellierung unter Verwendung von Landsat TM‐5",
+  "container-title": "Karlsruher Schriften zur Geographie und Geoökologie",
+	"issue": "19",
+  "author": [
+    {
+      "family": "Samimi",
+      "given": "C."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2003"
+      ]
+    ]
+  }
+},
+{
+  "id": "Wiser",
+  "type": "article-journal",
+  "title": "Managing biodiversity information: development of New Zealand's National Vegetation Survey databank",
+  "container-title": "New Zealand Journal of Ecology",
+  "page": "1-17",
+  "issue": "25",
+  "author": [
+    {
+      "family": "Wiser",
+      "given": "S.K."
+    },
+    {
+      "family": "Bellingham",
+      "given": "P.J."
+    },
+    {
+      "family": "Burrows",
+      "given": "L.E."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2001"
+      ]
+    ]
+  }
+},
+{
+  "id": "Sieg",
+  "type": "article-journal",
+  "title": "Vegetation and altitudinal zonation in continental West Greenland",
+  "container-title": "Meddelelser om Grønland Bioscience",
+  "page": "1-93",
+  "issue": "57",
+  "author": [
+    {
+      "family": "Sieg",
+      "given": "B."
+    },
+    {
+      "family": "Drees",
+      "given": "B."
+    },
+    {
+      "family": "Daniëls",
+      "given": "F.J.A."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2006"
+      ]
+    ]
+  }
+},
+{
+  "id": "Vibrans",
+  "type": "article-journal",
+  "title": "The Floristic and Forest Inventory of Santa Catarina State (IFFSC): methodological and operational aspects",
+  "container-title": "Pesquisa Florestal Brasileira",
+  "page": "291-302",
+  "issue": "30",
+  "author": [
+    {
+      "family": "Vibrans",
+      "given": "A.C."
+    },
+    {
+      "family": "Sevgnani",
+      "given": "L."
+    },
+    {
+      "family": "Lingner",
+      "given": "D.V."
+    },
+    {
+      "family": "Gasper",
+      "given": "A.L."
+    },
+    {
+      "family": "Sabbagh",
+      "given": "S."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        "2010"
+      ]
+    ]
+  }
+} 
+
 ]
+
 
 
 
