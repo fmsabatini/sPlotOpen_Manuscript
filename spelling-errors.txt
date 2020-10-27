@@ -514,7 +514,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -577,7 +577,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
