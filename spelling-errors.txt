@@ -4,7 +4,7 @@ Abd
 Abitibi
 Acad
 Aćić
-acknowledgements
+Acknowledgements
 Addis
 AEKOS
 Agrillo
@@ -443,7 +443,7 @@ SSAForests
 Stadt
 Stančić
 Stebler
-Str
+str
 Strasburg
 subpolar
 Subtrop
@@ -500,7 +500,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
