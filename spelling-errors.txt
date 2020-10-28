@@ -206,7 +206,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -486,7 +486,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -555,7 +555,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 subplotID
 subpolar
