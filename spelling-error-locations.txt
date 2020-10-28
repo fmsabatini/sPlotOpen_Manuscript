@@ -188,9 +188,13 @@ content/07.Acknowledgements_et_al.md:13:Qikiqtaruk
 content/07.Acknowledgements_et_al.md:14:BBVA
 content/07.Acknowledgements_et_al.md:14:Cayuela
 content/07.Acknowledgements_et_al.md:14:Fundación
-content/07.Acknowledgements_et_al.md:15:Centre
 content/07.Acknowledgements_et_al.md:15:Chytrý
-content/07.Acknowledgements_et_al.md:15:Pladias
+content/07.Acknowledgements_et_al.md:15:Corrado
+content/07.Acknowledgements_et_al.md:15:Flavia
+content/07.Acknowledgements_et_al.md:15:Landucci
+content/07.Acknowledgements_et_al.md:15:Marcenò
+content/07.Acknowledgements_et_al.md:15:Peterka
+content/07.Acknowledgements_et_al.md:15:Tomáš
 content/07.Acknowledgements_et_al.md:16:Bonifacino
 content/07.Acknowledgements_et_al.md:16:DeWalt
 content/07.Acknowledgements_et_al.md:16:Enquist

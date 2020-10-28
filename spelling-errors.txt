@@ -206,7 +206,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -460,7 +460,6 @@ Pintana
 PIPPN
 Piso
 Pitman
-Pladias
 PlantHub
 Platz
 plotID
@@ -481,7 +480,7 @@ Rasmus
 Rašomavičius
 RData
 Recursos
-releve
+Releve
 Renata
 Rennweg
 Renovables
@@ -624,7 +623,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
