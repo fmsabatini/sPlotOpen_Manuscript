@@ -206,7 +206,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -481,13 +481,13 @@ Rasmus
 Rašomavičius
 RData
 Recursos
-Releve
+releve
 Renata
 Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -556,7 +556,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subplotID
 subpolar
@@ -603,7 +603,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
