@@ -22,7 +22,7 @@
     orcid: 0000-0002-8122-3075
     email: chytry@sci.muni.cz
     affiliations: 
-      - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
+      - Masaryk University, Faculty of Science, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
     name: Jürgen Dengler
     orcid: 0000-0003-3221-660X
