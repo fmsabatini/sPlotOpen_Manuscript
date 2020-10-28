@@ -443,7 +443,7 @@ sPlot’s
 Stadt
 Stančić
 Stebler
-Str
+str
 Strasburg
 subplotID
 subpolar
@@ -497,7 +497,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 Vélez
 Venanzoni
 Vibrans
