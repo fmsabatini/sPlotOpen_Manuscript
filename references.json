@@ -1,5 +1,132 @@
 [
   {
+    "id": "Kblv5w8V",
+    "type": "article-journal",
+    "title": "How resilient are northern hardwood forests to human disturbance? An evaluation using a plant functional group approach",
+    "container-title": "Ecoscience",
+    "page": "259-271",
+    "issue": "14",
+    "author": [
+      {
+        "family": "Aubin",
+        "given": "I."
+      },
+      {
+        "family": "Gachet",
+        "given": "S."
+      },
+      {
+        "family": "Messier",
+        "given": "C."
+      },
+      {
+        "family": "Bouchard",
+        "given": "A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Aubin"
+  },
+  {
+    "id": "bZAzZYjE",
+    "type": "article-journal",
+    "title": "Czech National Phytosociological Database: basic statistics of the available vegetation‐plot data",
+    "container-title": "Preslia",
+    "page": "1-15",
+    "issue": "75",
+    "author": [
+      {
+        "family": "Chytrý",
+        "given": "M."
+      },
+      {
+        "family": "Rafajová",
+        "given": "M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Chytrý"
+  },
+  {
+    "id": "iA5yfDNB",
+    "type": "article-journal",
+    "title": "Hungarian Phytosociological database (COENODATREF): sampling methodology, nomenclature and its actual stage",
+    "container-title": "Annali di Botanica, Nuova Serie",
+    "page": "297-201",
+    "issue": "7",
+    "author": [
+      {
+        "family": "Lájer",
+        "given": "K"
+      },
+      {
+        "family": "Botta‐Dukát",
+        "given": "Z."
+      },
+      {
+        "family": "Csiky",
+        "given": "J."
+      },
+      {
+        "family": "Horváth",
+        "given": "F."
+      },
+      {
+        "family": "Szmorad",
+        "given": "F."
+      },
+      {
+        "family": "Bagi",
+        "given": "I."
+      },
+      {
+        "family": "Rédei",
+        "given": "T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Lájer"
+  },
+  {
+    "id": "clXUxA0h",
+    "type": "thesis",
+    "title": "Zur Vegetationsökologie der Savannenlandschaften im Sahel Burkina Fasos",
+    "publisher": "FB Biologie und Informatik, J.W. Goethe‐Universität Frankfurt a.M",
+    "publisher-place": "Frankfurt am Main, Germany",
+    "author": [
+      {
+        "family": "Müller",
+        "given": "J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Müller"
+  },
+  {
     "id": "14G4m2XBL",
     "type": "chapter",
     "title": "VegBank – a permanent, open‐access archive for vegetation‐plot data",
@@ -140,6 +267,102 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: PeetLeeBoyle2012"
   },
   {
+    "id": "K3HfISic",
+    "type": "article-journal",
+    "title": "{Das Weidepotential im Gutu‐Distrikt (Zimbabwe) – Möglichkeiten und Grenzen der Modellierung unter Verwendung von Landsat TM‐5",
+    "container-title": "Karlsruher Schriften zur Geographie und Geoökologie",
+    "issue": "19",
+    "author": [
+      {
+        "family": "Samimi",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Samimi"
+  },
+  {
+    "id": "qqBBJS3C",
+    "type": "book",
+    "title": "Schatten voor de natuur. Achtergronden, inventaris en toepassingen van de Landelijke Vegetatie Databank",
+    "publisher": "KNNV Uitgeverij",
+    "publisher-place": "Utrecht, The Netherlands",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Schaminée",
+        "given": "J.H.J."
+      },
+      {
+        "family": "Janssen",
+        "given": "J.A.M."
+      },
+      {
+        "family": "Haveman",
+        "given": "R."
+      },
+      {
+        "family": "Hennekens",
+        "given": "S.M."
+      },
+      {
+        "family": "Heuvelink",
+        "given": "G.B.M."
+      },
+      {
+        "family": "Huiskes",
+        "given": "H.P.J."
+      },
+      {
+        "family": "Weeda",
+        "given": "E.J."
+      }
+    ],
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Schaminée"
+  },
+  {
+    "id": "YO0dhQgu",
+    "type": "article-journal",
+    "title": "Vegetation and altitudinal zonation in continental West Greenland",
+    "container-title": "Meddelelser om Grønland Bioscience",
+    "page": "1-93",
+    "issue": "57",
+    "author": [
+      {
+        "family": "Sieg",
+        "given": "B."
+      },
+      {
+        "family": "Drees",
+        "given": "B."
+      },
+      {
+        "family": "Daniëls",
+        "given": "F.J.A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Sieg"
+  },
+  {
     "id": "1BpTkQN7F",
     "type": "article-journal",
     "title": "Versuch einer Übersicht über die Wiesentypen der Schweiz",
@@ -166,6 +389,44 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Stebler1893"
   },
   {
+    "id": "hNLxwHUe",
+    "type": "article-journal",
+    "title": "The Floristic and Forest Inventory of Santa Catarina State (IFFSC): methodological and operational aspects",
+    "container-title": "Pesquisa Florestal Brasileira",
+    "page": "291-302",
+    "issue": "30",
+    "author": [
+      {
+        "family": "Vibrans",
+        "given": "A.C."
+      },
+      {
+        "family": "Sevgnani",
+        "given": "L."
+      },
+      {
+        "family": "Lingner",
+        "given": "D.V."
+      },
+      {
+        "family": "Gasper",
+        "given": "A.L."
+      },
+      {
+        "family": "Sabbagh",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Vibrans"
+  },
+  {
     "id": "L1taSHwv",
     "type": "book",
     "title": "Communities and Ecosystems",
@@ -185,6 +446,52 @@
       }
     ],
     "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Whittaker1975"
+  },
+  {
+    "id": "ZBmljH6J",
+    "type": "article-journal",
+    "title": "Managing biodiversity information: development of New Zealand's National Vegetation Survey databank",
+    "container-title": "New Zealand Journal of Ecology",
+    "page": "1-17",
+    "issue": "25",
+    "author": [
+      {
+        "family": "Wiser",
+        "given": "S.K."
+      },
+      {
+        "family": "Bellingham",
+        "given": "P.J."
+      },
+      {
+        "family": "Burrows",
+        "given": "L.E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: Wiser"
+  },
+  {
+    "type": "book",
+    "id": "IOGnWty0",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-94-007-7750-7",
+    "publisher": "Springer Netherlands",
+    "title": "Plant Invasions in Protected Areas",
+    "URL": "https://doi.org/ghgt8v",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1007/978-94-007-7750-7"
   },
   {
     "type": "chapter",
@@ -394,6 +701,39 @@
   },
   {
     "type": "article-journal",
+    "id": "MsvKP6UK",
+    "author": [
+      {
+        "family": "Wana",
+        "given": "Desalegn"
+      },
+      {
+        "family": "Beierkuhnlein",
+        "given": "Carl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3,
+          10
+        ]
+      ]
+    },
+    "abstract": "Plant functional types across environmental gradients can be considered as a powerful proxy that reveals vegetation–environment relationships. The objectives of this study were to investigate the response in the relative abundance of plant functional types along altitudinal gradients and to examine the relationship of plant functional types to environmental variables. The study was conducted in the Gughe-Amaro Mountains, in the south-west Ethiopian highlands. We established 74 plots with an area of 400 m (20 × 20 m) each along altitudinal ranges between 1000 and 3000 m asl. Data on site environmental conditions and on the abundance of plant functional types were analysed using the constrained linear ordination technique (RDA) in order to identify the relationships between plant functional types and environmental variables. Altitude, soil organic carbon, soil sand fraction and surface stone cover were significantly related to the relative abundance of plant functional types across the gradient. Tussocks and thorns/spines were abundant in lower altitudinal ranges in response to herbivory and drought while rhizomes and rosettes were abundant at higher altitudes in response to the cold. Generally our results show that topographic attributes (altitude and slope) as well as soil organic carbon play an important role in differentiating the relative abundance of plant functional types in the investigated gradient. Thus, considering specific plant functional types would provide a better understanding of the ecological patterns of vegetation and their response to environmental gradients in tropical regions of Africa prone to drought.",
+    "container-title": "Journal of Tropical Ecology",
+    "DOI": "10.1017/s0266467410000799",
+    "volume": "27",
+    "issue": "03",
+    "page": "289-304",
+    "publisher": "Cambridge University Press (CUP)",
+    "title": "Responses of plant functional types to environmental gradients in the south-west Ethiopian highlands",
+    "URL": "https://doi.org/b6mtmx",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1017/s0266467410000799"
+  },
+  {
+    "type": "article-journal",
     "id": "18Xys58dr",
     "author": [
       {
@@ -444,6 +784,298 @@
     "PMCID": "PMC5960580",
     "PMID": "18288193",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nature06536"
+  },
+  {
+    "type": "article-journal",
+    "id": "syidKCV8",
+    "author": [
+      {
+        "family": "Elmendorf",
+        "given": "Sarah C."
+      },
+      {
+        "family": "Henry",
+        "given": "Gregory H. R."
+      },
+      {
+        "family": "Hollister",
+        "given": "Robert D."
+      },
+      {
+        "family": "Björk",
+        "given": "Robert G."
+      },
+      {
+        "family": "Boulanger-Lapointe",
+        "given": "Noémie"
+      },
+      {
+        "family": "Cooper",
+        "given": "Elisabeth J."
+      },
+      {
+        "family": "Cornelissen",
+        "given": "Johannes H. C."
+      },
+      {
+        "family": "Day",
+        "given": "Thomas A."
+      },
+      {
+        "family": "Dorrepaal",
+        "given": "Ellen"
+      },
+      {
+        "family": "Elumeeva",
+        "given": "Tatiana G."
+      },
+      {
+        "family": "Gill",
+        "given": "Mike"
+      },
+      {
+        "family": "Gould",
+        "given": "William A."
+      },
+      {
+        "family": "Harte",
+        "given": "John"
+      },
+      {
+        "family": "Hik",
+        "given": "David S."
+      },
+      {
+        "family": "Hofgaard",
+        "given": "Annika"
+      },
+      {
+        "family": "Johnson",
+        "given": "David R."
+      },
+      {
+        "family": "Johnstone",
+        "given": "Jill F."
+      },
+      {
+        "family": "Jónsdóttir",
+        "given": "Ingibjörg Svala"
+      },
+      {
+        "family": "Jorgenson",
+        "given": "Janet C."
+      },
+      {
+        "family": "Klanderud",
+        "given": "Kari"
+      },
+      {
+        "family": "Klein",
+        "given": "Julia A."
+      },
+      {
+        "family": "Koh",
+        "given": "Saewan"
+      },
+      {
+        "family": "Kudo",
+        "given": "Gaku"
+      },
+      {
+        "family": "Lara",
+        "given": "Mark"
+      },
+      {
+        "family": "Lévesque",
+        "given": "Esther"
+      },
+      {
+        "family": "Magnússon",
+        "given": "Borgthor"
+      },
+      {
+        "family": "May",
+        "given": "Jeremy L."
+      },
+      {
+        "family": "Mercado-Dı´az",
+        "given": "Joel A."
+      },
+      {
+        "family": "Michelsen",
+        "given": "Anders"
+      },
+      {
+        "family": "Molau",
+        "given": "Ulf"
+      },
+      {
+        "family": "Myers-Smith",
+        "given": "Isla H."
+      },
+      {
+        "family": "Oberbauer",
+        "given": "Steven F."
+      },
+      {
+        "family": "Onipchenko",
+        "given": "Vladimir G."
+      },
+      {
+        "family": "Rixen",
+        "given": "Christian"
+      },
+      {
+        "family": "Martin Schmidt",
+        "given": "Niels"
+      },
+      {
+        "family": "Shaver",
+        "given": "Gaius R."
+      },
+      {
+        "family": "Spasojevic",
+        "given": "Marko J."
+      },
+      {
+        "family": "Þórhallsdóttir",
+        "given": "Þóra Ellen"
+      },
+      {
+        "family": "Tolvanen",
+        "given": "Anne"
+      },
+      {
+        "family": "Troxler",
+        "given": "Tiffany"
+      },
+      {
+        "family": "Tweedie",
+        "given": "Craig E."
+      },
+      {
+        "family": "Villareal",
+        "given": "Sandra"
+      },
+      {
+        "family": "Wahren",
+        "given": "Carl-Henrik"
+      },
+      {
+        "family": "Walker",
+        "given": "Xanthe"
+      },
+      {
+        "family": "Webber",
+        "given": "Patrick J."
+      },
+      {
+        "family": "Welker",
+        "given": "Jeffrey M."
+      },
+      {
+        "family": "Wipf",
+        "given": "Sonja"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          8
+        ]
+      ]
+    },
+    "container-title": "Nature Climate Change",
+    "DOI": "10.1038/nclimate1465",
+    "volume": "2",
+    "issue": "6",
+    "page": "453-457",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Plot-scale evidence of tundra vegetation change and links to recent summer warming",
+    "URL": "https://doi.org/f223nb",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nclimate1465"
+  },
+  {
+    "type": "article-journal",
+    "id": "XPemGEQg",
+    "author": [
+      {
+        "family": "Kearsley",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "de Haulleville",
+        "given": "Thales"
+      },
+      {
+        "family": "Hufkens",
+        "given": "Koen"
+      },
+      {
+        "family": "Kidimbu",
+        "given": "Alidé"
+      },
+      {
+        "family": "Toirambe",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Baert",
+        "given": "Geert"
+      },
+      {
+        "family": "Huygens",
+        "given": "Dries"
+      },
+      {
+        "family": "Kebede",
+        "given": "Yodit"
+      },
+      {
+        "family": "Defourny",
+        "given": "Pierre"
+      },
+      {
+        "family": "Bogaert",
+        "given": "Jan"
+      },
+      {
+        "family": "Beeckman",
+        "given": "Hans"
+      },
+      {
+        "family": "Steppe",
+        "given": "Kathy"
+      },
+      {
+        "family": "Boeckx",
+        "given": "Pascal"
+      },
+      {
+        "family": "Verbeeck",
+        "given": "Hans"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          5
+        ]
+      ]
+    },
+    "container-title": "Nature Communications",
+    "DOI": "10.1038/ncomms3269",
+    "volume": "4",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Conventional tree height–diameter relationships significantly overestimate aboveground carbon stocks in the Central Congo Basin",
+    "URL": "https://doi.org/ghgt8w",
+    "PMID": "23912554",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/ncomms3269"
   },
   {
     "type": "article-journal",
@@ -1456,6 +2088,113 @@
   },
   {
     "type": "article-journal",
+    "id": "CwUMQSyN",
+    "author": [
+      {
+        "family": "Landucci",
+        "given": "F."
+      },
+      {
+        "family": "Acosta",
+        "given": "A. T. R."
+      },
+      {
+        "family": "Agrillo",
+        "given": "E."
+      },
+      {
+        "family": "Attorre",
+        "given": "F."
+      },
+      {
+        "family": "Biondi",
+        "given": "E."
+      },
+      {
+        "family": "Cambria",
+        "given": "V. E."
+      },
+      {
+        "family": "Chiarucci",
+        "given": "A."
+      },
+      {
+        "family": "Del Vico",
+        "given": "E."
+      },
+      {
+        "family": "De Sanctis",
+        "given": "M."
+      },
+      {
+        "family": "Facioni",
+        "given": "L."
+      },
+      {
+        "family": "Geri",
+        "given": "F."
+      },
+      {
+        "family": "Gigante",
+        "given": "D."
+      },
+      {
+        "family": "Guarino",
+        "given": "R."
+      },
+      {
+        "family": "Landi",
+        "given": "S."
+      },
+      {
+        "family": "Lucarini",
+        "given": "D."
+      },
+      {
+        "family": "Panfili",
+        "given": "E."
+      },
+      {
+        "family": "Pesaresi",
+        "given": "S."
+      },
+      {
+        "family": "Prisco",
+        "given": "I."
+      },
+      {
+        "family": "Rosati",
+        "given": "L."
+      },
+      {
+        "family": "Spada",
+        "given": "F."
+      },
+      {
+        "family": "Venanzoni",
+        "given": "R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          12
+        ]
+      ]
+    },
+    "container-title": "Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology",
+    "DOI": "10.1080/11263504.2012.740093",
+    "volume": "146",
+    "issue": "4",
+    "page": "756-763",
+    "publisher": "Informa UK Limited",
+    "title": "VegItaly: The Italian collaborative project for a national vegetation database",
+    "URL": "https://doi.org/ghgt8x",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1080/11263504.2012.740093"
+  },
+  {
+    "type": "article-journal",
     "id": "hjYkCVfm",
     "author": [
       {
@@ -1520,6 +2259,151 @@
     "title": "The world-wide ‘fast-slow’ plant economics spectrum: a traits manifesto",
     "URL": "https://doi.org/gfc4z9",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/1365-2745.12211"
+  },
+  {
+    "type": "article-journal",
+    "id": "avACOmpB",
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "Viktoria"
+      },
+      {
+        "family": "Spribille",
+        "given": "Toby"
+      },
+      {
+        "family": "Abrahamczyk",
+        "given": "Stefan"
+      },
+      {
+        "family": "Bergmeier",
+        "given": "Erwin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "container-title": "Applied Vegetation Science",
+    "DOI": "10.1111/avsc.12045",
+    "volume": "17",
+    "issue": "1",
+    "page": "129-141",
+    "publisher": "Wiley",
+    "title": "Timberline meadows along a 1000-km transect in NW North America: species diversity and community patterns",
+    "URL": "https://doi.org/f5mpvm",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/avsc.12045"
+  },
+  {
+    "type": "article-journal",
+    "id": "q8Cny0Mz",
+    "author": [
+      {
+        "family": "Ibanez",
+        "given": "Thomas"
+      },
+      {
+        "family": "Munzinger",
+        "given": "Jérôme"
+      },
+      {
+        "family": "Dagostini",
+        "given": "Gilles"
+      },
+      {
+        "family": "Hequet",
+        "given": "Vanessa"
+      },
+      {
+        "family": "Rigault",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Jaffré",
+        "given": "Tanguy"
+      },
+      {
+        "family": "Birnbaum",
+        "given": "Philippe"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7
+        ]
+      ]
+    },
+    "container-title": "Applied Vegetation Science",
+    "DOI": "10.1111/avsc.12070",
+    "volume": "17",
+    "issue": "3",
+    "page": "386-397",
+    "publisher": "Wiley",
+    "title": "Structural and floristic diversity of mixed tropical rain forest in New Caledonia: new data from the New Caledonian Plant Inventory and Permanent Plot Network (NC-PIPPN)",
+    "URL": "https://doi.org/f57bfw",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/avsc.12070"
+  },
+  {
+    "type": "article-journal",
+    "id": "G7f5FlGf",
+    "author": [
+      {
+        "family": "Černý",
+        "given": "Tomáš"
+      },
+      {
+        "family": "Kopecký",
+        "given": "Martin"
+      },
+      {
+        "family": "Petřík",
+        "given": "Petr"
+      },
+      {
+        "family": "Song",
+        "given": "Jong-Suk"
+      },
+      {
+        "family": "Šrůtek",
+        "given": "Miroslav"
+      },
+      {
+        "family": "Valachovič",
+        "given": "Milan"
+      },
+      {
+        "family": "Altman",
+        "given": "Jan"
+      },
+      {
+        "family": "Doležal",
+        "given": "Jiří"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          1
+        ]
+      ]
+    },
+    "container-title": "Applied Vegetation Science",
+    "DOI": "10.1111/avsc.12124",
+    "volume": "18",
+    "issue": "1",
+    "page": "5-22",
+    "publisher": "Wiley",
+    "title": "Classification of Korean forests: patterns along geographic and environmental gradients",
+    "URL": "https://doi.org/ghgt8z",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/avsc.12124"
   },
   {
     "type": "article-journal",
@@ -1930,6 +2814,53 @@
   },
   {
     "type": "article-journal",
+    "id": "125gGJ9Gh",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yun"
+      },
+      {
+        "family": "Heberling",
+        "given": "Gwendolyn"
+      },
+      {
+        "family": "Görzen",
+        "given": "Eugen"
+      },
+      {
+        "family": "Miehe",
+        "given": "Georg"
+      },
+      {
+        "family": "Seeber",
+        "given": "Elke"
+      },
+      {
+        "family": "Wesche",
+        "given": "Karsten"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "container-title": "Applied Vegetation Science",
+    "DOI": "10.1111/avsc.12312",
+    "volume": "20",
+    "issue": "3",
+    "page": "327-339",
+    "publisher": "Wiley",
+    "title": "Combined effects of livestock grazing and abiotic environment on vegetation and soils of grasslands across Tibet",
+    "URL": "https://doi.org/gbkd6v",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/avsc.12312"
+  },
+  {
+    "type": "article-journal",
     "id": "13fOt4hpD",
     "author": [
       {
@@ -2126,6 +3057,53 @@
   },
   {
     "type": "article-journal",
+    "id": "YAxhjEzI",
+    "author": [
+      {
+        "family": "Whitfeld",
+        "given": "Timothy J. S."
+      },
+      {
+        "family": "Lasky",
+        "given": "Jesse R."
+      },
+      {
+        "family": "Damas",
+        "given": "Kipiro"
+      },
+      {
+        "family": "Sosanika",
+        "given": "Gibson"
+      },
+      {
+        "family": "Molem",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Montgomery",
+        "given": "Rebecca A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9
+        ]
+      ]
+    },
+    "container-title": "Biotropica",
+    "DOI": "10.1111/btp.12136",
+    "volume": "46",
+    "issue": "5",
+    "page": "538-548",
+    "publisher": "Wiley",
+    "title": "Species Richness, Forest Structure, and Functional Diversity During Succession in the New Guinea Lowlands",
+    "URL": "https://doi.org/f6hf36",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/btp.12136"
+  },
+  {
+    "type": "article-journal",
     "id": "1E7D836xD",
     "author": [
       {
@@ -2154,6 +3132,170 @@
     "title": "Climate-related range shifts - a global multidimensional synthesis and new research directions",
     "URL": "https://doi.org/f6xz9h",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/ecog.00967"
+  },
+  {
+    "type": "article-journal",
+    "id": "opn1ckuk",
+    "author": [
+      {
+        "family": "Lenoir",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Graae",
+        "given": "Bente Jessen"
+      },
+      {
+        "family": "Aarrestad",
+        "given": "Per Arild"
+      },
+      {
+        "family": "Alsos",
+        "given": "Inger Greve"
+      },
+      {
+        "family": "Armbruster",
+        "given": "W. Scott"
+      },
+      {
+        "family": "Austrheim",
+        "given": "Gunnar"
+      },
+      {
+        "family": "Bergendorff",
+        "given": "Claes"
+      },
+      {
+        "family": "Birks",
+        "given": "H. John B."
+      },
+      {
+        "family": "Bråthen",
+        "given": "Kari Anne"
+      },
+      {
+        "family": "Brunet",
+        "given": "Jörg"
+      },
+      {
+        "family": "Bruun",
+        "given": "Hans Henrik"
+      },
+      {
+        "family": "Dahlberg",
+        "given": "Carl Johan"
+      },
+      {
+        "family": "Decocq",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Diekmann",
+        "given": "Martin"
+      },
+      {
+        "family": "Dynesius",
+        "given": "Mats"
+      },
+      {
+        "family": "Ejrnaes",
+        "given": "Rasmus"
+      },
+      {
+        "family": "Grytnes",
+        "given": "John-Arvid"
+      },
+      {
+        "family": "Hylander",
+        "given": "Kristoffer"
+      },
+      {
+        "family": "Klanderud",
+        "given": "Kari"
+      },
+      {
+        "family": "Luoto",
+        "given": "Miska"
+      },
+      {
+        "family": "Milbau",
+        "given": "Ann"
+      },
+      {
+        "family": "Moora",
+        "given": "Mari"
+      },
+      {
+        "family": "Nygaard",
+        "given": "Bettina"
+      },
+      {
+        "family": "Odland",
+        "given": "Arvid"
+      },
+      {
+        "family": "Ravolainen",
+        "given": "Virve Tuulia"
+      },
+      {
+        "family": "Reinhardt",
+        "given": "Stefanie"
+      },
+      {
+        "family": "Sandvik",
+        "given": "Sylvi Marlen"
+      },
+      {
+        "family": "Schei",
+        "given": "Fride Høistad"
+      },
+      {
+        "family": "Speed",
+        "given": "James David Mervyn"
+      },
+      {
+        "family": "Tveraabak",
+        "given": "Liv Unn"
+      },
+      {
+        "family": "Vandvik",
+        "given": "Vigdis"
+      },
+      {
+        "family": "Velle",
+        "given": "Liv Guri"
+      },
+      {
+        "family": "Virtanen",
+        "given": "Risto"
+      },
+      {
+        "family": "Zobel",
+        "given": "Martin"
+      },
+      {
+        "family": "Svenning",
+        "given": "Jens-Christian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "container-title": "Global Change Biology",
+    "DOI": "10.1111/gcb.12129",
+    "volume": "19",
+    "issue": "5",
+    "page": "1470-1481",
+    "publisher": "Wiley",
+    "title": "Local temperatures inferred from plant communities suggest strong spatial buffering of climate warming across Northern Europe",
+    "URL": "https://doi.org/f24bdd",
+    "PMID": "23504984",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/gcb.12129"
   },
   {
     "type": "article-journal",
@@ -2715,6 +3857,34 @@
   },
   {
     "type": "article-journal",
+    "id": "9XP0m51N",
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "Viktoria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          25
+        ]
+      ]
+    },
+    "container-title": "Journal of Vegetation Science",
+    "DOI": "10.1111/j.1654-1103.2009.01032.x",
+    "volume": "20",
+    "issue": "2",
+    "page": "199-208",
+    "publisher": "Wiley",
+    "title": "Eurosiberian meadows at their southern edge: patterns and phytogeography in the NW Tien Shan",
+    "URL": "https://doi.org/ftq2r6",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/j.1654-1103.2009.01032.x"
+  },
+  {
+    "type": "article-journal",
     "id": "1696xA7Nc",
     "author": [
       {
@@ -2826,6 +3996,45 @@
     "title": "The Global Index of Vegetation-Plot Databases (GIVD): a new resource for vegetation science",
     "URL": "https://doi.org/ctx2s7",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/j.1654-1103.2011.01265.x"
+  },
+  {
+    "type": "article-journal",
+    "id": "yC0Q909U",
+    "author": [
+      {
+        "family": "Lopez-Gonzalez",
+        "given": "Gabriela"
+      },
+      {
+        "family": "Lewis",
+        "given": "Simon L."
+      },
+      {
+        "family": "Burkitt",
+        "given": "Mark"
+      },
+      {
+        "family": "Phillips",
+        "given": "Oliver L."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          8
+        ]
+      ]
+    },
+    "container-title": "Journal of Vegetation Science",
+    "DOI": "10.1111/j.1654-1103.2011.01312.x",
+    "volume": "22",
+    "issue": "4",
+    "page": "610-613",
+    "publisher": "Wiley",
+    "title": "ForestPlots.net: a web application and research tool to manage and analyse tropical forest plot data",
+    "URL": "https://doi.org/dz6zb3",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1111/j.1654-1103.2011.01312.x"
   },
   {
     "type": "article-journal",
@@ -4101,6 +5310,1219 @@
   },
   {
     "type": "article-journal",
+    "id": "C0fceZjC",
+    "author": [
+      {
+        "family": "von Wehrden",
+        "given": "Henrik"
+      },
+      {
+        "family": "Wesche",
+        "given": "Karsten"
+      },
+      {
+        "family": "Miehe",
+        "given": "Georg"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10,
+          21
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/0340-269x/2009/0039-0331",
+    "volume": "39",
+    "issue": "3",
+    "page": "331-376",
+    "publisher": "Schweizerbart",
+    "title": "Plant communities of the southern Mongolian Gobi",
+    "URL": "https://doi.org/ddvj9h",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/0340-269x/2009/0039-0331"
+  },
+  {
+    "type": "article-journal",
+    "id": "crOLtuYs",
+    "author": [
+      {
+        "family": "Peyre",
+        "given": "Gwendolyn"
+      },
+      {
+        "family": "Balslev",
+        "given": "Henrik"
+      },
+      {
+        "family": "Martí",
+        "given": "David"
+      },
+      {
+        "family": "Sklenář",
+        "given": "Petr"
+      },
+      {
+        "family": "Ramsay",
+        "given": "Paul"
+      },
+      {
+        "family": "Lozano",
+        "given": "Pablo"
+      },
+      {
+        "family": "Cuello",
+        "given": "Nidia"
+      },
+      {
+        "family": "Bussmann",
+        "given": "Rainer"
+      },
+      {
+        "family": "Cabrera",
+        "given": "Omar"
+      },
+      {
+        "family": "Font",
+        "given": "Xavier"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          1
+        ]
+      ]
+    },
+    "abstract": "The páramo region in the northern Andes is very biodiverse, presents high endemism and provides many ecosystem services. Unfortunately, the páramo is critically threatened by anthropogenic activities and climate change. Further research and development of efficient conservation strategies are therefore needed for the region, but they are often limited by the lack of consistent biological data-sources. Here we present VegPáramo (GIVD ID: SA-00-002, http://www.givd.info/ID/SA-00-002), a flora and vegetation database for the páramo based on phytosociological vegetation plots. VegPáramo contains data from 3,000 georeferenced vegetation plots with updated nomenclature. The database is accessible through the webportal http://www.vegparamo.com, from which floristic and vegetation data can be freely consulted and downloaded. This new tool should make future botanical and ecological páramo studies easier. VegPáramo is already geographically and floristically representative for the páramo region, but we hope it will continue to grow in scientific significance via new data addition and revision.",
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2015/0045",
+    "volume": "45",
+    "issue": "1",
+    "page": "195-201",
+    "publisher": "Schweizerbart",
+    "title": "VegPáramo, a flora and vegetation database for the Andean páramo",
+    "URL": "https://doi.org/f7m9cj",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2015/0045"
+  },
+  {
+    "type": "article-journal",
+    "id": "Yg0cqcK8",
+    "author": [
+      {
+        "family": "Landucci",
+        "given": "Flavia"
+      },
+      {
+        "family": "Řezníčková",
+        "given": "Marcela"
+      },
+      {
+        "family": "Šumberová",
+        "given": "Kateřina"
+      },
+      {
+        "family": "Chytrý",
+        "given": "Milan"
+      },
+      {
+        "family": "Aunina",
+        "given": "Liene"
+      },
+      {
+        "family": "Biţă-Nicolae",
+        "given": "Claudia"
+      },
+      {
+        "family": "Bobrov",
+        "given": "Alexander"
+      },
+      {
+        "family": "Borsukevych",
+        "given": "Lyubov"
+      },
+      {
+        "family": "Brisse",
+        "given": "Henry"
+      },
+      {
+        "family": "Čarni",
+        "given": "Andraž"
+      },
+      {
+        "family": "Csiky",
+        "given": "János"
+      },
+      {
+        "family": "Cvijanović",
+        "given": "Dušanka"
+      },
+      {
+        "family": "De Bie",
+        "given": "Els"
+      },
+      {
+        "family": "De Ruffray",
+        "given": "Patrice"
+      },
+      {
+        "family": "Dubyna",
+        "given": "Dmytro"
+      },
+      {
+        "family": "Dimopoulos",
+        "given": "Panayotis"
+      },
+      {
+        "family": "Dziuba",
+        "given": "Tetiana"
+      },
+      {
+        "family": "FitzPatrick",
+        "given": "Úna"
+      },
+      {
+        "family": "Font",
+        "given": "Xavier"
+      },
+      {
+        "family": "Gigante",
+        "given": "Daniela"
+      },
+      {
+        "family": "Golub",
+        "given": "Valentin"
+      },
+      {
+        "family": "Hennekens",
+        "given": "Stephan M."
+      },
+      {
+        "family": "Hrivnák",
+        "given": "Richard"
+      },
+      {
+        "family": "Iemelianova",
+        "given": "Svitlana"
+      },
+      {
+        "family": "Jandt",
+        "given": "Ute"
+      },
+      {
+        "family": "Jenačković",
+        "given": "Dragana"
+      },
+      {
+        "family": "Jansen",
+        "given": "Florian"
+      },
+      {
+        "family": "Kącki",
+        "given": "Zygmunt"
+      },
+      {
+        "family": "Lájer",
+        "given": "Konrád"
+      },
+      {
+        "family": "Matulevičiutė",
+        "given": "Dalytė"
+      },
+      {
+        "family": "Mesterházy",
+        "given": "Attila"
+      },
+      {
+        "family": "Michalcová",
+        "given": "Dana"
+      },
+      {
+        "family": "Paal",
+        "given": "Jaanus"
+      },
+      {
+        "family": "Papastergiadou",
+        "given": "Eva"
+      },
+      {
+        "family": "Properzi",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Radulović",
+        "given": "Snežana"
+      },
+      {
+        "family": "Rodwell",
+        "given": "John S."
+      },
+      {
+        "family": "Schaminée",
+        "given": "Joop H.J."
+      },
+      {
+        "family": "Šilc",
+        "given": "Urban"
+      },
+      {
+        "family": "Sinkevičienė",
+        "given": "Zofija"
+      },
+      {
+        "family": "Stančić",
+        "given": "Zvjezdana"
+      },
+      {
+        "family": "Stepanovich",
+        "given": "Jazep"
+      },
+      {
+        "family": "Teteryuk",
+        "given": "Boris"
+      },
+      {
+        "family": "Tzonev",
+        "given": "Rossen"
+      },
+      {
+        "family": "Venanzoni",
+        "given": "Roberto"
+      },
+      {
+        "family": "Weekes",
+        "given": "Lynda"
+      },
+      {
+        "family": "Willner",
+        "given": "Wolfgang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          1
+        ]
+      ]
+    },
+    "abstract": "WetVegEurope is a research project (http://www.sci.muni.cz/botany/vegsci/wetveg) whose goal is to provide a synthesized formalized classification of the aquatic and marsh vegetation across Europe at the level of phytosociological associations. In order to achieve the project objective, a WetVegEurope database has been created (GIVD ID: EU-00-020, http://www.givd.info/ID/EU-00-020), which currently contains 375,212 vegetation plots of aquatic, marsh and wet vegetation types from 33 European countries. The WetVegEurope database includes datasets from pre-existing national and thematic databases and also 10,616 plots previously not digitalized or even unpublished. This database offers an extensive source of data for future studies on aquatic and marsh plant species and vegetation types at the European scale.",
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2015/0050",
+    "volume": "45",
+    "issue": "1",
+    "page": "187-194",
+    "publisher": "Schweizerbart",
+    "title": "WetVegEurope: a database of aquatic and wetland vegetation of Europe",
+    "URL": "https://doi.org/bdmw",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2015/0050"
+  },
+  {
+    "type": "article-journal",
+    "id": "JEeJUvUA",
+    "author": [
+      {
+        "family": "Peterka",
+        "given": "Tomáš"
+      },
+      {
+        "family": "Jiroušek",
+        "given": "Martin"
+      },
+      {
+        "family": "Hájek",
+        "given": "Michal"
+      },
+      {
+        "family": "Jiménez-Alfaro",
+        "given": "Borja"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2015/0054",
+    "volume": "45",
+    "issue": "3",
+    "page": "291-297",
+    "publisher": "Schweizerbart",
+    "title": "European Mire Vegetation Database: a gap-oriented database for European fens and bogs",
+    "URL": "https://doi.org/f724p4",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2015/0054"
+  },
+  {
+    "type": "article-journal",
+    "id": "WGCqVNqt",
+    "author": [
+      {
+        "family": "Revermann",
+        "given": "Rasmus"
+      },
+      {
+        "family": "Gomes",
+        "given": "Amândio Luis"
+      },
+      {
+        "family": "Gonçalves",
+        "given": "Francisco Maiato"
+      },
+      {
+        "family": "Wallenfang",
+        "given": "Johannes"
+      },
+      {
+        "family": "Hoche",
+        "given": "Torsten"
+      },
+      {
+        "family": "Jürgens",
+        "given": "Norbert"
+      },
+      {
+        "family": "Finckh",
+        "given": "Manfred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2016/0103",
+    "volume": "46",
+    "issue": "1",
+    "page": "103-104",
+    "publisher": "Schweizerbart",
+    "title": "Vegetation Database of the Okavango Basin",
+    "URL": "https://doi.org/ghgt82",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2016/0103"
+  },
+  {
+    "type": "article-journal",
+    "id": "6h0dCEdm",
+    "author": [
+      {
+        "family": "Vassilev",
+        "given": "Kiril"
+      },
+      {
+        "family": "Pedashenko",
+        "given": "Hristo"
+      },
+      {
+        "family": "Alexandrova",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Tashev",
+        "given": "Alexandar"
+      },
+      {
+        "family": "Ganeva",
+        "given": "Anna"
+      },
+      {
+        "family": "Gavrilova",
+        "given": "Anna"
+      },
+      {
+        "family": "Gradevska",
+        "given": "Asya"
+      },
+      {
+        "family": "Assenov",
+        "given": "Assen"
+      },
+      {
+        "family": "Vitkova",
+        "given": "Antonina"
+      },
+      {
+        "family": "Grigorov",
+        "given": "Borislav"
+      },
+      {
+        "family": "Gussev",
+        "given": "Chavdar"
+      },
+      {
+        "family": "Filipova",
+        "given": "Eva"
+      },
+      {
+        "family": "Aneva",
+        "given": "Ina"
+      },
+      {
+        "family": "Knollová",
+        "given": "Ilona"
+      },
+      {
+        "family": "Nikolov",
+        "given": "Ivaylo"
+      },
+      {
+        "family": "Georgiev",
+        "given": "Georgi"
+      },
+      {
+        "family": "Gogushev",
+        "given": "Georgi"
+      },
+      {
+        "family": "Tinchev",
+        "given": "Georgi"
+      },
+      {
+        "family": "Pachedjieva",
+        "given": "Kalina"
+      },
+      {
+        "family": "Koev",
+        "given": "Koycho"
+      },
+      {
+        "family": "Lyubenova",
+        "given": "Mariyana"
+      },
+      {
+        "family": "Dimitrov",
+        "given": "Marius"
+      },
+      {
+        "family": "Apostolova-Stoyanova",
+        "given": "Nadezhda"
+      },
+      {
+        "family": "Velev",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Zhelev",
+        "given": "Petar"
+      },
+      {
+        "family": "Glogov",
+        "given": "Plamen"
+      },
+      {
+        "family": "Natcheva",
+        "given": "Rayna"
+      },
+      {
+        "family": "Tzonev",
+        "given": "Rossen"
+      },
+      {
+        "family": "Boch",
+        "given": "Steffen"
+      },
+      {
+        "family": "Hennekens",
+        "given": "Stephan"
+      },
+      {
+        "family": "Georgiev",
+        "given": "Stoyan"
+      },
+      {
+        "family": "Stoyanov",
+        "given": "Stoyan"
+      },
+      {
+        "family": "Karakiev",
+        "given": "Todor"
+      },
+      {
+        "family": "Kalníková",
+        "given": "Veronika"
+      },
+      {
+        "family": "Shivarov",
+        "given": "Veselin"
+      },
+      {
+        "family": "Russakova",
+        "given": "Veska"
+      },
+      {
+        "family": "Vulchev",
+        "given": "Vladimir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2016/0109",
+    "volume": "46",
+    "issue": "1",
+    "page": "89-95",
+    "publisher": "Schweizerbart",
+    "title": "Balkan Vegetation Database: historical background, current status and future perspectives",
+    "URL": "https://doi.org/f8sjft",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2016/0109"
+  },
+  {
+    "type": "article-journal",
+    "id": "ItvcGc23",
+    "author": [
+      {
+        "family": "Vanselow",
+        "given": "Kim André"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2016/0122",
+    "volume": "46",
+    "issue": "1",
+    "page": "105-105",
+    "publisher": "Schweizerbart",
+    "title": "Eastern Pamirs – A vegetation-plot database for the high mountain pastures of the Pamir Plateau (Tajikistan)",
+    "URL": "https://doi.org/f952sp",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2016/0122"
+  },
+  {
+    "type": "article-journal",
+    "id": "1FufWxHhp",
+    "author": [
+      {
+        "family": "Walker",
+        "given": "Donald A."
+      },
+      {
+        "family": "Breen",
+        "given": "Amy L."
+      },
+      {
+        "family": "Druckenmiller",
+        "given": "Lisa A."
+      },
+      {
+        "family": "Wirth",
+        "given": "Lisa W."
+      },
+      {
+        "family": "Fisher",
+        "given": "Will"
+      },
+      {
+        "family": "Raynolds",
+        "given": "Martha K."
+      },
+      {
+        "family": "Šibík",
+        "given": "Jozef"
+      },
+      {
+        "family": "Walker",
+        "given": "Marilyn D."
+      },
+      {
+        "family": "Hennekens",
+        "given": "Stephan"
+      },
+      {
+        "family": "Boggs",
+        "given": "Keith"
+      },
+      {
+        "family": "Boucher",
+        "given": "Tina"
+      },
+      {
+        "family": "Buchhorn",
+        "given": "Marcel"
+      },
+      {
+        "family": "Bültmann",
+        "given": "Helga"
+      },
+      {
+        "family": "Cooper",
+        "given": "David J."
+      },
+      {
+        "family": "Daniëls",
+        "given": "Fred J.A"
+      },
+      {
+        "family": "Davidson",
+        "given": "Scott J."
+      },
+      {
+        "family": "Ebersole",
+        "given": "James J."
+      },
+      {
+        "family": "Elmendorf",
+        "given": "Sara C."
+      },
+      {
+        "family": "Epstein",
+        "given": "Howard E."
+      },
+      {
+        "family": "Gould",
+        "given": "William A."
+      },
+      {
+        "family": "Hollister",
+        "given": "Robert D."
+      },
+      {
+        "family": "Iversen",
+        "given": "Colleen M."
+      },
+      {
+        "family": "Jorgenson",
+        "given": "M. Torre"
+      },
+      {
+        "family": "Kade",
+        "given": "Anja"
+      },
+      {
+        "family": "Lee",
+        "given": "Michael T."
+      },
+      {
+        "family": "MacKenzie",
+        "given": "William H."
+      },
+      {
+        "family": "Peet",
+        "given": "Robert K."
+      },
+      {
+        "family": "Peirce",
+        "given": "Jana L."
+      },
+      {
+        "family": "Schickhoff",
+        "given": "Udo"
+      },
+      {
+        "family": "Sloan",
+        "given": "Victoria L."
+      },
+      {
+        "family": "Talbot",
+        "given": "Stephen S."
+      },
+      {
+        "family": "Tweedie",
+        "given": "Craig E."
+      },
+      {
+        "family": "Villarreal",
+        "given": "Sandra"
+      },
+      {
+        "family": "Webber",
+        "given": "Patrick J."
+      },
+      {
+        "family": "Zona",
+        "given": "Donatella"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2016/0128",
+    "volume": "46",
+    "issue": "2",
+    "page": "221-229",
+    "publisher": "Schweizerbart",
+    "title": "The Alaska Arctic Vegetation Archive (AVA-AK)",
+    "URL": "https://doi.org/f877ht",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2016/0128"
+  },
+  {
+    "type": "article-journal",
+    "id": "1DPM6n39c",
+    "author": [
+      {
+        "family": "Marcenò",
+        "given": "Corrado"
+      },
+      {
+        "family": "Jiménez-Alfaro",
+        "given": "Borja"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2016/0133",
+    "publisher": "Schweizerbart",
+    "title": "The Mediterranean <i>Ammophiletea</i> Database: a comprehensive dataset of coastal dune vegetation",
+    "URL": "https://doi.org/ghgt83",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2016/0133"
+  },
+  {
+    "type": "article-journal",
+    "id": "vmycDKfI",
+    "author": [
+      {
+        "family": "Agrillo*",
+        "given": "Emiliano"
+      },
+      {
+        "family": "Alessi",
+        "given": "Nicola"
+      },
+      {
+        "family": "Massimi",
+        "given": "Marco"
+      },
+      {
+        "family": "Spada",
+        "given": "Francesco"
+      },
+      {
+        "family": "De Sanctis",
+        "given": "Michele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          20
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0139",
+    "volume": "47",
+    "issue": "2",
+    "page": "221-229",
+    "publisher": "Schweizerbart",
+    "title": "Nationwide Vegetation Plot Database – Sapienza University of Rome: state of the art, basic figures and future perspectives",
+    "URL": "https://doi.org/gbsxm9",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0139"
+  },
+  {
+    "type": "article-journal",
+    "id": "WxTdhWat",
+    "author": [
+      {
+        "family": "Prokhorov",
+        "given": "Vadim"
+      },
+      {
+        "family": "Rogova",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Kozhevnikova",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          27
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0172",
+    "volume": "47",
+    "issue": "3",
+    "page": "309-313",
+    "publisher": "Schweizerbart",
+    "title": "Vegetation Database of Tatarstan",
+    "URL": "https://doi.org/ghgt84",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0172"
+  },
+  {
+    "type": "article-journal",
+    "id": "1Rj7nTLk",
+    "author": [
+      {
+        "family": "De Sanctis",
+        "given": "Michele"
+      },
+      {
+        "family": "Fanelli",
+        "given": "Giuliano"
+      },
+      {
+        "family": "Mullaj",
+        "given": "Alfred"
+      },
+      {
+        "family": "Attorre ",
+        "given": "Fabio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0178",
+    "volume": "47",
+    "issue": "1",
+    "page": "107-108",
+    "publisher": "Schweizerbart",
+    "title": "Vegetation Database of Albania",
+    "URL": "https://doi.org/ghgt85",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0178"
+  },
+  {
+    "type": "article-journal",
+    "id": "SnHcxlE5",
+    "author": [
+      {
+        "family": "Indreica",
+        "given": "Adrian"
+      },
+      {
+        "family": "Turtureanu",
+        "given": "Pavel Dan"
+      },
+      {
+        "family": "Szabó",
+        "given": "Anna"
+      },
+      {
+        "family": "Irimia ",
+        "given": "Irina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0201",
+    "volume": "47",
+    "issue": "4",
+    "page": "389-392",
+    "publisher": "Schweizerbart",
+    "title": "Romanian Forest Database: a phytosociological archive of woody vegetation",
+    "URL": "https://doi.org/ghgt86",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0201"
+  },
+  {
+    "type": "article-journal",
+    "id": "16pzkq3TE",
+    "author": [
+      {
+        "family": "Nowak",
+        "given": "Arkadiusz"
+      },
+      {
+        "family": "Nobis",
+        "given": "Marcin"
+      },
+      {
+        "family": "Nowak",
+        "given": "Sylwia"
+      },
+      {
+        "family": "Nobis",
+        "given": "Agnieszka"
+      },
+      {
+        "family": "Swacha",
+        "given": "Grzegorz"
+      },
+      {
+        "family": "Kącki",
+        "given": "Zygmunt"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0208",
+    "volume": "47",
+    "issue": "4",
+    "page": "395-400",
+    "publisher": "Schweizerbart",
+    "title": "Vegetation of Middle Asia – the project state of art after ten years of survey and future perspectives",
+    "URL": "https://doi.org/gctffg",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0208"
+  },
+  {
+    "type": "article-journal",
+    "id": "iDIKKldZ",
+    "author": [
+      {
+        "family": "Vassilev",
+        "given": "Kiril"
+      },
+      {
+        "family": "Ruprecht",
+        "given": "Eszter"
+      },
+      {
+        "family": "Alexiu",
+        "given": "Valeriu"
+      },
+      {
+        "family": "Becker",
+        "given": "Thomas"
+      },
+      {
+        "family": "Beldean",
+        "given": "Monica"
+      },
+      {
+        "family": "Biță-Nicolae",
+        "given": "Claudia"
+      },
+      {
+        "family": "Csergő",
+        "given": "Anna Mária"
+      },
+      {
+        "family": "Dzhovanova",
+        "given": "Iliana"
+      },
+      {
+        "family": "Filipova",
+        "given": "Eva"
+      },
+      {
+        "family": "Frink",
+        "given": "József Pál"
+      },
+      {
+        "family": "Gafta",
+        "given": "Dan"
+      },
+      {
+        "family": "Georgieva",
+        "given": "Mariya"
+      },
+      {
+        "family": "Germany",
+        "given": "Markus S."
+      },
+      {
+        "family": "Goia",
+        "given": "Irina"
+      },
+      {
+        "family": "Gumus",
+        "given": "Media"
+      },
+      {
+        "family": "Hennekens",
+        "given": "Stephan M."
+      },
+      {
+        "family": "Janišová",
+        "given": "Monika"
+      },
+      {
+        "family": "Knollová",
+        "given": "Ilona"
+      },
+      {
+        "family": "Koleva",
+        "given": "Viktoriya"
+      },
+      {
+        "family": "Kostadinova",
+        "given": "Sofia"
+      },
+      {
+        "family": "Kuzmanović",
+        "given": "Nevena"
+      },
+      {
+        "family": "Loos",
+        "given": "Jacqueline"
+      },
+      {
+        "family": "Mardari",
+        "given": "Constantin"
+      },
+      {
+        "family": "Michl",
+        "given": "Thomas"
+      },
+      {
+        "family": "Neblea",
+        "given": "Monica Angela"
+      },
+      {
+        "family": "Nicoară",
+        "given": "Roxana Ion"
+      },
+      {
+        "family": "Novák",
+        "given": "Pavel"
+      },
+      {
+        "family": "Öllerer",
+        "given": "Kinga"
+      },
+      {
+        "family": "Onete",
+        "given": "Marilena"
+      },
+      {
+        "family": "Palpurina",
+        "given": "Salza"
+      },
+      {
+        "family": "Paulini",
+        "given": "Inge"
+      },
+      {
+        "family": "Pedashenko",
+        "given": "Hristo"
+      },
+      {
+        "family": "Pușcaș",
+        "given": "Mihai"
+      },
+      {
+        "family": "Roman",
+        "given": "Anamaria"
+      },
+      {
+        "family": "Šibík",
+        "given": "Jozef"
+      },
+      {
+        "family": "Sîrbu",
+        "given": "Culiță"
+      },
+      {
+        "family": "Stancu",
+        "given": "Daniela Ileana"
+      },
+      {
+        "family": "Sutcliffe",
+        "given": "Laura M.E."
+      },
+      {
+        "family": "Szabó",
+        "given": "Anna"
+      },
+      {
+        "family": "Tomescu",
+        "given": "Cezar-Valentin"
+      },
+      {
+        "family": "Totev",
+        "given": "Evelin"
+      },
+      {
+        "family": "Tsvetanov",
+        "given": "Borislav"
+      },
+      {
+        "family": "Turtureanu",
+        "given": "Pavel Dan"
+      },
+      {
+        "family": "Vassileva",
+        "given": "Plamena"
+      },
+      {
+        "family": "Velev",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Dengler",
+        "given": "Jürgen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          1
+        ]
+      ]
+    },
+    "container-title": "Phytocoenologia",
+    "DOI": "10.1127/phyto/2017/0229",
+    "volume": "48",
+    "issue": "1",
+    "page": "91-100",
+    "publisher": "Schweizerbart",
+    "title": "The Romanian Grassland Database (RGD): historical background, current status and future perspectives",
+    "URL": "https://doi.org/gc79hp",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1127/phyto/2017/0229"
+  },
+  {
+    "type": "article-journal",
     "id": "csCGZTsC",
     "author": [
       {
@@ -4179,6 +6601,24 @@
     "PMCID": "PMC3554605",
     "PMID": "23324024",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1186/1471-2105-14-16"
+  },
+  {
+    "type": "book",
+    "id": "gPrGMONW",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1201/9781315368252",
+    "publisher": "Informa UK Limited",
+    "title": "Terrestrial Ecosystem Research Infrastructures",
+    "URL": "https://doi.org/ghgt87",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1201/9781315368252"
   },
   {
     "type": "article-journal",
@@ -4440,6 +6880,185 @@
   },
   {
     "type": "article-journal",
+    "id": "nsNl3GXn",
+    "author": [
+      {
+        "family": "Bruelheide",
+        "given": "Helge"
+      },
+      {
+        "family": "Böhnke",
+        "given": "Martin"
+      },
+      {
+        "family": "Both",
+        "given": "Sabine"
+      },
+      {
+        "family": "Fang",
+        "given": "Teng"
+      },
+      {
+        "family": "Assmann",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Baruffol",
+        "given": "Martin"
+      },
+      {
+        "family": "Bauhus",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Buscot",
+        "given": "François"
+      },
+      {
+        "family": "Chen",
+        "given": "Xiao-Yong"
+      },
+      {
+        "family": "Ding",
+        "given": "Bing-Yang"
+      },
+      {
+        "family": "Durka",
+        "given": "Walter"
+      },
+      {
+        "family": "Erfmeier",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Fischer",
+        "given": "Markus"
+      },
+      {
+        "family": "Geißler",
+        "given": "Christian"
+      },
+      {
+        "family": "Guo",
+        "given": "Dali"
+      },
+      {
+        "family": "Guo",
+        "given": "Liang-Dong"
+      },
+      {
+        "family": "Härdtle",
+        "given": "Werner"
+      },
+      {
+        "family": "He",
+        "given": "Jin-Sheng"
+      },
+      {
+        "family": "Hector",
+        "given": "Andy"
+      },
+      {
+        "family": "Kröber",
+        "given": "Wenzel"
+      },
+      {
+        "family": "Kühn",
+        "given": "Peter"
+      },
+      {
+        "family": "Lang",
+        "given": "Anne C."
+      },
+      {
+        "family": "Nadrowski",
+        "given": "Karin"
+      },
+      {
+        "family": "Pei",
+        "given": "Kequan"
+      },
+      {
+        "family": "Scherer-Lorenzen",
+        "given": "Michael"
+      },
+      {
+        "family": "Shi",
+        "given": "Xuezheng"
+      },
+      {
+        "family": "Scholten",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schuldt",
+        "given": "Andreas"
+      },
+      {
+        "family": "Trogisch",
+        "given": "Stefan"
+      },
+      {
+        "family": "von Oheimb",
+        "given": "Goddert"
+      },
+      {
+        "family": "Welk",
+        "given": "Erik"
+      },
+      {
+        "family": "Wirth",
+        "given": "Christian"
+      },
+      {
+        "family": "Wu",
+        "given": "Yu-Ting"
+      },
+      {
+        "family": "Yang",
+        "given": "Xuefei"
+      },
+      {
+        "family": "Zeng",
+        "given": "Xueqin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shouren"
+      },
+      {
+        "family": "Zhou",
+        "given": "Hongzhang"
+      },
+      {
+        "family": "Ma",
+        "given": "Keping"
+      },
+      {
+        "family": "Schmid",
+        "given": "Bernhard"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          2
+        ]
+      ]
+    },
+    "container-title": "Ecological Monographs",
+    "DOI": "10.1890/09-2172.1",
+    "volume": "81",
+    "issue": "1",
+    "page": "25-41",
+    "publisher": "Wiley",
+    "title": "Community assembly during secondary forest succession in a Chinese subtropical forest",
+    "URL": "https://doi.org/dmwpsm",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1890/09-2172.1"
+  },
+  {
+    "type": "article-journal",
     "id": "GMLTnQJb",
     "author": [
       {
@@ -4469,6 +7088,45 @@
     "title": "TURBOVEG, a comprehensive data base management system for vegetation data",
     "URL": "https://doi.org/cgmn6m",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.2307/3237010"
+  },
+  {
+    "type": "article-journal",
+    "id": "18OBduhNC",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Hongyan"
+      },
+      {
+        "family": "Cui",
+        "given": "Haiting"
+      },
+      {
+        "family": "Pott",
+        "given": "Richard"
+      },
+      {
+        "family": "Speier",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          8
+        ]
+      ]
+    },
+    "container-title": "Journal of Vegetation Science",
+    "DOI": "10.2307/3246582",
+    "volume": "11",
+    "issue": "4",
+    "page": "525-532",
+    "publisher": "Wiley",
+    "title": "Vegetation of the woodland-steppe transition at the southeastern edge of the Inner Mongolian Plateau",
+    "URL": "https://doi.org/cxr92b",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.2307/3246582"
   },
   {
     "type": "article-journal",
@@ -4557,6 +7215,37 @@
   },
   {
     "type": "article-journal",
+    "id": "oFsgD9r6",
+    "author": [
+      {
+        "family": "Kącki",
+        "given": "Zygmunt"
+      },
+      {
+        "family": "Śliwiński",
+        "given": "Michał"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "abstract": "The phytosociological database Polish Vegetation Database collects relevés of all vegetation types in Poland. The database was established in 2007 and is located at Department of Biodiversity and Plant Cover Protection, University of Wrocław (http://synbiot.uni.wroc.pl). On March 2012, the database included 40000 relevés collected between 1927 and 2011. Most of relevés was taken from published papers and represents almost all types of habitats of Poland. Large groups of relevés represent meadows and pastures (<em>Molinio-Arrhnehteretrea</em>), broadleaf forests (<em>Querco-Fagetea</em>), arable land communities (<em>Stellarietea</em>), coniferous forests (<em>Vaccinio-Piceetea</em>) and eutrophic reed communities (<em>Phragmitetea</em>). In comparison to other countries in Central Europe, Polish Vegetation Database currently belongs to medium-sized databases, with full functionality and accessibility. The present article describes its development, basic operational information and how it can be used in analysis of vegetation in Poland.",
+    "container-title": "Acta Societatis Botanicorum Poloniae",
+    "DOI": "10.5586/asbp.2012.014",
+    "volume": "81",
+    "issue": "2",
+    "page": "75-79",
+    "publisher": "Polish Botanical Society",
+    "title": "The Polish Vegetation Database: structure, resources and development",
+    "URL": "https://doi.org/f34f3k",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.5586/asbp.2012.014"
+  },
+  {
+    "type": "article-journal",
     "id": "3LvKVtQk",
     "author": [
       {
@@ -4596,6 +7285,1229 @@
     "title": "Cyberinfrastructure for an integrated botanical information network to investigate the ecological impacts of global climate change on plant biodiversity",
     "URL": "https://doi.org/ghfnsx",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7287/peerj.preprints.2615v2"
+  },
+  {
+    "type": "article-journal",
+    "id": "CTKPA18m",
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "Marco"
+      },
+      {
+        "family": "Janßen",
+        "given": "Thomas"
+      },
+      {
+        "family": "Dressler",
+        "given": "Stefan"
+      },
+      {
+        "family": "Hahn",
+        "given": "Karen"
+      },
+      {
+        "family": "Hien",
+        "given": "Mipro"
+      },
+      {
+        "family": "Konaté",
+        "given": "Souleymane"
+      },
+      {
+        "family": "Lykke",
+        "given": "Anne Mette"
+      },
+      {
+        "family": "Mahamane",
+        "given": "Ali"
+      },
+      {
+        "family": "Sambou",
+        "given": "Bienvenu"
+      },
+      {
+        "family": "Sinsin",
+        "given": "Brice"
+      },
+      {
+        "family": "Thiombiano",
+        "given": "Adjima"
+      },
+      {
+        "family": "Wittig",
+        "given": "Rüdiger"
+      },
+      {
+        "family": "Zizka",
+        "given": "Georg"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00065",
+    "volume": "4",
+    "page": "105-110",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "The West African Vegetation Database",
+    "URL": "https://doi.org/ghgvcf",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00065"
+  },
+  {
+    "type": "article-journal",
+    "id": "IkSqF3xN",
+    "author": [
+      {
+        "family": "Muche",
+        "given": "Gerhard"
+      },
+      {
+        "family": "Schmiedel",
+        "given": "Ute"
+      },
+      {
+        "family": "Jürgens",
+        "given": "Norbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00066",
+    "volume": "4",
+    "page": "111-123",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "BIOTA Southern Africa Biodiversity Observatories Vegetation Database",
+    "URL": "https://doi.org/ghgvcg",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00066"
+  },
+  {
+    "type": "article-journal",
+    "id": "3FVD6eIC",
+    "author": [
+      {
+        "family": "Apostolova",
+        "given": "Iva"
+      },
+      {
+        "family": "Sopotlieva,",
+        "given": "Desislava"
+      },
+      {
+        "family": "Pedashenko,",
+        "given": "Hristo"
+      },
+      {
+        "family": "Velev",
+        "given": "Nikolay"
+      },
+      {
+        "family": "Vasilev",
+        "given": "Kiril"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00069",
+    "volume": "4",
+    "page": "141-148",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Bulgarian Vegetation Database: historic background, current status and future prospects",
+    "URL": "https://doi.org/ghgvch",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00069"
+  },
+  {
+    "type": "article-journal",
+    "id": "pOqUikCJ",
+    "author": [
+      {
+        "family": "Jansen",
+        "given": "Florian"
+      },
+      {
+        "family": "Dengler",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Berg",
+        "given": "Christian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00070",
+    "volume": "4",
+    "page": "149-160",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "VegMV – the vegetation database of Mecklenburg-Vorpommern",
+    "URL": "https://doi.org/gftw54",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00070"
+  },
+  {
+    "type": "article-journal",
+    "id": "e7Mm0ihK",
+    "author": [
+      {
+        "family": "Ewald",
+        "given": "Jörg"
+      },
+      {
+        "family": "May",
+        "given": "Rudolf"
+      },
+      {
+        "family": "Kleikamp",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00073",
+    "volume": "4",
+    "page": "173-175",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "VegetWeb – the national online-repository of vegetation plots from Germany",
+    "URL": "https://doi.org/ghgvcj",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00073"
+  },
+  {
+    "type": "article-journal",
+    "id": "2vgCPsl9",
+    "author": [
+      {
+        "family": "Cayuela",
+        "given": "Luis"
+      },
+      {
+        "family": "Gálvez-Bravo",
+        "given": "Lucía"
+      },
+      {
+        "family": "Pérez Pérez",
+        "given": "Ramón"
+      },
+      {
+        "family": "de Albuquerque",
+        "given": "Fábio"
+      },
+      {
+        "family": "Golicher",
+        "given": "Duncan"
+      },
+      {
+        "family": "Zahawi",
+        "given": "Rakan"
+      },
+      {
+        "family": "Ramírez-Marcial",
+        "given": "Neptalí"
+      },
+      {
+        "family": "Garibaldi",
+        "given": "Cristina"
+      },
+      {
+        "family": "Field",
+        "given": "Richard"
+      },
+      {
+        "family": "Rey Benayas",
+        "given": "José"
+      },
+      {
+        "family": "González-Espinosa",
+        "given": "Mario"
+      },
+      {
+        "family": "Balvanera",
+        "given": "Patricia"
+      },
+      {
+        "family": "Ángel Castillo",
+        "given": "Miguel"
+      },
+      {
+        "family": "Figueroa-Rangel",
+        "given": "Blanca"
+      },
+      {
+        "family": "Griffith",
+        "given": "Daniel"
+      },
+      {
+        "family": "Islebe",
+        "given": "Gerald"
+      },
+      {
+        "family": "Kelly",
+        "given": "Daniel"
+      },
+      {
+        "family": "Olvera-Vargas",
+        "given": "Miguel"
+      },
+      {
+        "family": "Schnitzer",
+        "given": "Stefan"
+      },
+      {
+        "family": "Velázquez",
+        "given": "Eduardo"
+      },
+      {
+        "family": "Williams-Linera",
+        "given": "Guadalupe"
+      },
+      {
+        "family": "Brewer",
+        "given": "Steven"
+      },
+      {
+        "family": "Camacho-Cruz",
+        "given": "Angélica"
+      },
+      {
+        "family": "Coronado",
+        "given": "Indiana"
+      },
+      {
+        "family": "de Jong",
+        "given": "Ben"
+      },
+      {
+        "family": "del Castillo",
+        "given": "Rafael"
+      },
+      {
+        "family": "Granzow-de la Cerda",
+        "given": "Íñigo"
+      },
+      {
+        "family": "Fernández",
+        "given": "Javier"
+      },
+      {
+        "family": "Fonseca",
+        "given": "William"
+      },
+      {
+        "family": "Galindo-Jaimes",
+        "given": "Luis"
+      },
+      {
+        "family": "Gillespie",
+        "given": "Thomas"
+      },
+      {
+        "family": "González-Rivas",
+        "given": "Benigno"
+      },
+      {
+        "family": "Gordon",
+        "given": "James"
+      },
+      {
+        "family": "Hurtado",
+        "given": "Johanna"
+      },
+      {
+        "family": "Linares",
+        "given": "José"
+      },
+      {
+        "family": "Letcher",
+        "given": "Susan"
+      },
+      {
+        "family": "Mangan",
+        "given": "Scott"
+      },
+      {
+        "family": "Meave",
+        "given": "Jorge"
+      },
+      {
+        "family": "Méndez",
+        "given": "Ernesto"
+      },
+      {
+        "family": "Meza",
+        "given": "Victor"
+      },
+      {
+        "family": "Ochoa-Gaona",
+        "given": "Susana"
+      },
+      {
+        "family": "Peterson",
+        "given": "Chris"
+      },
+      {
+        "family": "Ruiz-Gutierrez",
+        "given": "Viviana"
+      },
+      {
+        "family": "Snarr",
+        "given": "Kymberley"
+      },
+      {
+        "family": "Tun Dzul",
+        "given": "Fernando"
+      },
+      {
+        "family": "Valdez-Hernández",
+        "given": "Mirna"
+      },
+      {
+        "family": "Viergever",
+        "given": "Karin"
+      },
+      {
+        "family": "White",
+        "given": "David"
+      },
+      {
+        "family": "Williams",
+        "given": "John"
+      },
+      {
+        "family": "Bonet",
+        "given": "Francisco"
+      },
+      {
+        "family": "Zamora",
+        "given": "Regino"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00078",
+    "volume": "4",
+    "page": "211-224",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "The Tree Biodiversity Network (BIOTREE-NET): prospects for biodiversity research and conservation in the Neotropics",
+    "URL": "https://doi.org/ghgvck",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00078"
+  },
+  {
+    "type": "article-journal",
+    "id": "KZegcswP",
+    "author": [
+      {
+        "family": "Peet",
+        "given": "Robert"
+      },
+      {
+        "family": "Lee",
+        "given": "Michael"
+      },
+      {
+        "family": "Jennings",
+        "given": "Michael"
+      },
+      {
+        "family": "Faber-Langendoen",
+        "given": "Don"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00080",
+    "volume": "4",
+    "page": "233-241",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "VegBank – a permanent, open-access archive for vegetation-plot data",
+    "URL": "https://doi.org/ghgvcm",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00080"
+  },
+  {
+    "type": "article-journal",
+    "id": "10qq99Ojn",
+    "author": [
+      {
+        "family": "Peet",
+        "given": "Robert"
+      },
+      {
+        "family": "Lee",
+        "given": "Michael"
+      },
+      {
+        "family": "Boyle",
+        "given": "Forbes"
+      },
+      {
+        "family": "Wentworth",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schafale",
+        "given": "Michael"
+      },
+      {
+        "family": "Weakley",
+        "given": "Alan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00081",
+    "volume": "4",
+    "page": "243-253",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation-plot database of the Carolina Vegetation Survey",
+    "URL": "https://doi.org/ghgvcn",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00081"
+  },
+  {
+    "type": "article-journal",
+    "id": "3c2BWddf",
+    "author": [
+      {
+        "family": "Chytrý",
+        "given": "Milan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00088",
+    "volume": "4",
+    "page": "290-290",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Database of Masaryk University's Vegetation Research in Siberia",
+    "URL": "https://doi.org/ghgvcp",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00088"
+  },
+  {
+    "type": "article-journal",
+    "id": "1AahcWZtp",
+    "author": [
+      {
+        "family": "Finckh",
+        "given": "Manfred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00094",
+    "volume": "4",
+    "page": "297-297",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation Database of Southern Morocco",
+    "URL": "https://doi.org/ghgvcq",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00094"
+  },
+  {
+    "type": "article-journal",
+    "id": "KU6Plcol",
+    "author": [
+      {
+        "family": "Hatim",
+        "given": "Mohamed"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00099",
+    "volume": "4",
+    "page": "303-303",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation Database of Sinai in Egypt",
+    "URL": "https://doi.org/ghgvcr",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00099"
+  },
+  {
+    "type": "article-journal",
+    "id": "1Bt8Cosp5",
+    "author": [
+      {
+        "family": "Chepinoga",
+        "given": "Victor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00107",
+    "volume": "4",
+    "page": "311-311",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Wetland Vegetation Database of Baikal Siberia (WETBS)",
+    "URL": "https://doi.org/ghgvcs",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00107"
+  },
+  {
+    "type": "article-journal",
+    "id": "1Fr3vBSSg",
+    "author": [
+      {
+        "family": "De Sanctis",
+        "given": "Michele"
+      },
+      {
+        "family": "Attorre",
+        "given": "Fabio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00111",
+    "volume": "4",
+    "page": "315-315",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Socotra Vegetation Database",
+    "URL": "https://doi.org/ghgvct",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00111"
+  },
+  {
+    "type": "article-journal",
+    "id": "XZfDtHbp",
+    "author": [
+      {
+        "family": "Dengler",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Rūsiņa",
+        "given": "Solvita"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00114",
+    "volume": "4",
+    "page": "319-320",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Database Dry Grasslands in the Nordic and Baltic Region",
+    "URL": "https://doi.org/ghgvcv",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00114"
+  },
+  {
+    "type": "article-journal",
+    "id": "btzUrKOc",
+    "author": [
+      {
+        "family": "Biurrun",
+        "given": "Idoia"
+      },
+      {
+        "family": "García-Mijangos",
+        "given": "Itziar"
+      },
+      {
+        "family": "Campos",
+        "given": "Juan"
+      },
+      {
+        "family": "Herrera",
+        "given": "Mercedes"
+      },
+      {
+        "family": "Loidi",
+        "given": "Javier"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00121",
+    "volume": "4",
+    "page": "328-328",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation-Plot Database of the University of the Basque Country (BIOVEG)",
+    "URL": "https://doi.org/ghgt9d",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00121"
+  },
+  {
+    "type": "article-journal",
+    "id": "GM7i4wPO",
+    "author": [
+      {
+        "family": "Vassilev",
+        "given": "Kiril"
+      },
+      {
+        "family": "Dajiś",
+        "given": "Zora"
+      },
+      {
+        "family": "Cušterevska",
+        "given": "Renata"
+      },
+      {
+        "family": "Bergmeier",
+        "given": "Erwin"
+      },
+      {
+        "family": "Apostolova",
+        "given": "Iva"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00123",
+    "volume": "4",
+    "page": "330-330",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Balkan Dry Grasslands Database",
+    "URL": "https://doi.org/ghgvcw",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00123"
+  },
+  {
+    "type": "article-journal",
+    "id": "118kCQmXq",
+    "author": [
+      {
+        "family": "Willner",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Berg",
+        "given": "Christian"
+      },
+      {
+        "family": "Heiselmayer",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00125",
+    "volume": "4",
+    "page": "333-333",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Austrian Vegetation Database",
+    "URL": "https://doi.org/ghgvcx",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00125"
+  },
+  {
+    "type": "article-journal",
+    "id": "152Wnzsq7",
+    "author": [
+      {
+        "family": "Wohlgemuth",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00131",
+    "volume": "4",
+    "page": "340-340",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Swiss Forest Vegetation Database",
+    "URL": "https://doi.org/ghgvcz",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00131"
+  },
+  {
+    "type": "article-journal",
+    "id": "s3sL1SDc",
+    "author": [
+      {
+        "family": "Jandt",
+        "given": "Ute"
+      },
+      {
+        "family": "Bruelheide",
+        "given": "Helge"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00146",
+    "volume": "4",
+    "page": "355-355",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "German Vegetation Reference Database (GVRD)",
+    "URL": "https://doi.org/ghgvc2",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00146"
+  },
+  {
+    "type": "article-journal",
+    "id": "XyZpiNNv",
+    "author": [
+      {
+        "family": "Dimopoulos",
+        "given": "Panayotis"
+      },
+      {
+        "family": "Tsiripidis",
+        "given": "Ioannis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00177",
+    "volume": "4",
+    "page": "388-388",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Hellenic Natura 2000 Vegetation Database (HelNatVeg)",
+    "URL": "https://doi.org/ghgvc3",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00177"
+  },
+  {
+    "type": "article-journal",
+    "id": "qGhfz7Qk",
+    "author": [
+      {
+        "family": "Fotiadis",
+        "given": "Georgios"
+      },
+      {
+        "family": "Tsiripidis",
+        "given": "Ioannis"
+      },
+      {
+        "family": "Bergmeier",
+        "given": "Erwin"
+      },
+      {
+        "family": "Dimopolous",
+        "given": "Panayotis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00178",
+    "volume": "4",
+    "page": "389-389",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Hellenic Woodland Database",
+    "URL": "https://doi.org/ghgvc4",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00178"
+  },
+  {
+    "type": "article-journal",
+    "id": "dnOHNNap",
+    "author": [
+      {
+        "family": "Stancic",
+        "given": "Zvjezdana"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00180",
+    "volume": "4",
+    "page": "391-391",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Phytosociological Database of Non-Forest Vegetation in Croatia",
+    "URL": "https://doi.org/ghgt9f",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00180"
+  },
+  {
+    "type": "article-journal",
+    "id": "10SNUjiGv",
+    "author": [
+      {
+        "family": "Casella",
+        "given": "Laura"
+      },
+      {
+        "family": "Bianco",
+        "given": "Pietro Massimiliano"
+      },
+      {
+        "family": "Angelini",
+        "given": "Pierangela"
+      },
+      {
+        "family": "Morroni",
+        "given": "Emi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00192",
+    "volume": "4",
+    "page": "404-404",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Italian National Vegetation Database (BVN/ISPRA)",
+    "URL": "https://doi.org/ghgvc6",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00192"
+  },
+  {
+    "type": "article-journal",
+    "id": "KZk91ELT",
+    "author": [
+      {
+        "family": "Rūsiņa",
+        "given": "Solvita"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00197",
+    "volume": "4",
+    "page": "409-409",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Semi-natural Grassland Vegetation Database of Latvia",
+    "URL": "https://doi.org/ghgt9g",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00197"
+  },
+  {
+    "type": "article-journal",
+    "id": "1CkfwiLoA",
+    "author": [
+      {
+        "family": "Aćić",
+        "given": "Svetlana"
+      },
+      {
+        "family": "Petrović",
+        "given": "Milicia"
+      },
+      {
+        "family": "Šilc",
+        "given": "Urban"
+      },
+      {
+        "family": "Dajić Stevanović",
+        "given": "Zora"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00206",
+    "volume": "4",
+    "page": "418-418",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation Database Grassland Vegetation of Serbia",
+    "URL": "https://doi.org/ghgt9h",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00206"
+  },
+  {
+    "type": "article-journal",
+    "id": "lNdZ0Vf1",
+    "author": [
+      {
+        "family": "Sorokin",
+        "given": "Alexey"
+      },
+      {
+        "family": "Golub",
+        "given": "Valentin"
+      },
+      {
+        "family": "Starichkova",
+        "given": "Kseniya"
+      },
+      {
+        "family": "Nikolaychuk",
+        "given": "Lyudmila"
+      },
+      {
+        "family": "Bondareva",
+        "given": "Viktoria"
+      },
+      {
+        "family": "Ivakhnova",
+        "given": "Tatyana"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00207",
+    "volume": "4",
+    "page": "419-419",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Lower Volga Valley Phytosociological Database",
+    "URL": "https://doi.org/ghgt9j",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00207"
+  },
+  {
+    "type": "article-journal",
+    "id": "uMtZbN6z",
+    "author": [
+      {
+        "family": "Lysenko",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Kalmykova",
+        "given": "Olga"
+      },
+      {
+        "family": "Mitroshenkova",
+        "given": "Anna"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00208",
+    "volume": "4",
+    "page": "420-421",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation Database of the Volga and the Ural Rivers Basins",
+    "URL": "https://doi.org/ghgvc7",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00208"
+  },
+  {
+    "type": "article-journal",
+    "id": "10TLZX8HW",
+    "author": [
+      {
+        "family": "Šilc",
+        "given": "Urban"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00215",
+    "volume": "4",
+    "page": "428-428",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Vegetation Database of Slovenia",
+    "URL": "https://doi.org/ghgt9k",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00215"
+  },
+  {
+    "type": "article-journal",
+    "id": "vWSY01N0",
+    "author": [
+      {
+        "family": "Šibík",
+        "given": "Jozef"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": "Biodiversity & Ecology",
+    "DOI": "10.7809/b-e.00216",
+    "volume": "4",
+    "page": "429-429",
+    "publisher": "University of Hamburg, Biodiversitat, Evolution and Okologie der Pflanzen",
+    "title": "Slovak Vegetation Database",
+    "URL": "https://doi.org/ghgt9m",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.7809/b-e.00216"
   },
   {
     "id": "ujOAXFXq",
