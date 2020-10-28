@@ -603,7 +603,27 @@
       ]
     ]
   }
-}
+},
+{
+  "id": "Whittaker1975",
+  "type": "book",
+  "title": "Communities and Ecosystems",
+  "publisher": "Macmillan Publishing Co. Inc.",
+  "publisher-place": "Utrecht, The Netherlands",
+  "issued": {
+    "date-parts": [
+      [
+        1975
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Whittaker",
+      "given": "R.H."
+    } 
+  ]
+} 
 ]
 
 
