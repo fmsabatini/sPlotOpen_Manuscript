@@ -630,7 +630,6 @@ content/91.ManubotTables.md:125:midlatitudes
 content/91.ManubotTables.md:125:midlatitudes
 content/91.ManubotTables.md:125:subpolar
 content/91.ManubotTables.md:125:Subtrop
-content/91.ManubotTables.md:126:yyyy
 content/91.ManubotTables.md:132:cryptogams
 content/91.ManubotTables.md:132:dbh
 content/91.ManubotTables.md:132:dbh
