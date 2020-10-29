@@ -142,7 +142,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -192,6 +192,7 @@ Erlangen
 Este
 ESY
 Eszter
+EUNIS
 Evapotranspiration
 Ewald
 Ezeru
@@ -486,7 +487,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
