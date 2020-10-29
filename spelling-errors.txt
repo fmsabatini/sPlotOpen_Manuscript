@@ -37,7 +37,9 @@ Arhimedova
 Arkadiusz
 Armin
 Arnst
+ASES
 Attorre
+Aubenas
 Aubin
 BACI
 Batorskaya
@@ -112,6 +114,7 @@ Centre
 Černý
 cesta
 CHELSA
+Chemin
 Chepinoga
 Ching
 Chytrý
@@ -138,6 +141,7 @@ Curran
 CWM
 CWV
 d’accés
+d’Activités
 Dajić
 Damanhour
 Daniëls
@@ -149,6 +153,7 @@ Dataveg
 Daunesse
 dbh
 Dengler
+d’Entreprises
 Departamento
 Departement
 Der
@@ -268,13 +273,13 @@ HelNatVeg
 Hennekens
 Herbarium
 Herzog
+Hinojos
 Hjalmar
 Hölzel
 Homeier
 Hongyan
 Hristo
 Hsieh
-Hsinchu
 HU
 IBMP
 IC
@@ -355,17 +360,18 @@ Kreiten
 Kremlevskaya
 KRITI
 Krstonošić
-Kuang
 Kühl
 Küzmič
 Kyiv
 KZ
 Laboratorio
+Lachapelle
 Lájer
 Landcare
 Landucci
 Laserna
 Lebedeva
+l’Espélidou
 Letcher
 Leuphana
 Levesley
@@ -446,6 +452,7 @@ Pedashenko
 Peet
 PeetLeeBoyle
 Peñuelas
+Pépinière
 Pérez
 Permoserstr
 Perugia
@@ -481,7 +488,7 @@ Rasmus
 Rašomavičius
 RData
 Recursos
-Releve
+releve
 Renata
 Rennweg
 Renovables
@@ -634,6 +641,7 @@ Verbeeck
 Vibrans
 Viktor
 Viktoria
+Vinobre
 Virtanen
 Vitaliano
 Vitaliy
