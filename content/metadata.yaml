@@ -44,7 +44,7 @@ authors:
     orcid: 0000-0002-8122-3075
     email: chytry@sci.muni.cz
     affiliations: 
-      - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
+      - Masaryk University, Faculty of Science, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
     name: Jürgen Dengler
     orcid: 0000-0003-3221-660X
@@ -111,11 +111,6 @@ authors:
     email: fahmida_nilukhan@yahoo.com
     affiliations: 
       - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh
-  - github: 
-    name: Marten Winter
-    email: marten.winter@idiv.de
-    affiliations: 
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
   - github: 
     name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
@@ -265,6 +260,11 @@ authors:
     affiliations: 
       - Tanta University, Botany, Faculty of Science, El Geish St., 31527, Tanta, Egypt
   - github: 
+    name: Guillermo Hinojos Mendoza
+    email: ghinojos@asessc.net
+    affiliations: 
+      - ASES Ecological and Sustainable Services, Pépinière d’Entreprises l’Espélidou, Parc d’Activités du Vinobre, 555 Chemin des Traverses, Lachapelle-sous-Aubenas, 07200, Aubenas, France
+  - github: 
     name: Norbert Hölzel
     orcid: 0000-0002-6367-3400
     email: nhoelzel@uni-muenster.de
@@ -336,12 +336,6 @@ authors:
     email: flavia.landucci@gmail.com
     affiliations: 
       - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
-  - github: 
-    name: Ching-Feng Li
-    orcid: 0000-0003-0744-490X
-    email: chingfeng.li@gmail.com
-    affiliations: 
-      - National Taiwan University, School of Forestry and Resource Conservation, No. 101, Section 2, Kuang-Fu Road, 30013, Hsinchu, Taiwan
   - github: 
     name: Hongyan Liu
     email: lhy@urban.pku.edu.cn
