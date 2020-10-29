@@ -97,6 +97,7 @@ Brasov
 Breen
 Brody
 Bruelheide
+bryophytes
 BVN
 Cala
 Caledonian
@@ -206,7 +207,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -486,7 +487,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -623,7 +624,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
