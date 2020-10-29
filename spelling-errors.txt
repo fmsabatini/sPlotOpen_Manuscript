@@ -142,7 +142,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -207,7 +207,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -218,7 +218,6 @@ FS
 Fu
 Fundación
 fundings
-furtehr
 FVDT
 FZT
 Garbolino
@@ -549,14 +548,13 @@ Soutwest
 sPlot
 sPlotOpen
 sPlot’s
-sPlto
 Spribille
 SSAForests
 Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subplotID
 subpolar
@@ -624,7 +622,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV

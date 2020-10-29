@@ -109,7 +109,6 @@ content/05.DatabaseOrganization.md:26:Turboveg
 content/05.DatabaseOrganization.md:29:BibTex
 content/05.DatabaseOrganization.md:30:BIBTEXKEY
 content/05.DatabaseOrganization.md:31:datasets
-content/05.DatabaseOrganization.md:31:furtehr
 content/05.DatabaseOrganization.md:33:RData
 content/05.DatabaseOrganization.md:33:txt
 content/06.TechnicalValidation.md:3:dataset
@@ -140,7 +139,7 @@ content/06.TechnicalValidation.md:17:sPlot
 content/06.TechnicalValidation.md:18:datasets
 content/06.TechnicalValidation.md:19:idiv
 content/06.TechnicalValidation.md:19:sPlot
-content/06.TechnicalValidation.md:19:sPlto
+content/06.TechnicalValidation.md:19:sPlot
 content/06.TechnicalValidation.md:20:BioTIME
 content/06.TechnicalValidation.md:21:sPlot
 content/06.TechnicalValidation.md:22:idiv
