@@ -23,7 +23,8 @@ Links to the rendered version of this manuscript:
 See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlot Open database is being constructed  
 
 ### Editing the manuscript
-+ The **PDF TUTORIAL on how to edit the manuscript** is at https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf
++ The **TUTORIAL (PDF) on how to edit the manuscript** - https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf
++ Short Video - **Editing with Manubot** - https://manubot.org/docs/getting-started.html !!Don't forget to click 'commit changes' after your edits!!
 + See also the [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md) for additional useful information
 
 ### sPlot - The Global Vegetation-Plot Database
