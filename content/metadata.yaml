@@ -145,6 +145,12 @@ authors:
     affiliations: 
       - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada
   - github: 
+    name: Marijn Bauters
+    email: marijn.bauters@ugent.be
+    affiliations: 
+      - Ghent University, Department Green chemistry and technology, Isotope Bioscience laboratory (UGent-ISOFYS), Coupure Links 653, 9000, Ghent, Belgium
+      - Ghent University, Department Environment, Computational and Applied Vegetation Ecology (UGent-CAVELab), Coupure Links 653, 9000, Ghent, Belgium
+  - github: 
     name: Yves Bergeron
     orcid: 0000-0003-3707-3687
     email: yves.bergeron@uqat.ca
@@ -234,9 +240,9 @@ authors:
       - University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany
   - github: 
     name: Emmanuel Garbolino
-    email: emmanuel.garbolino@mines-paristech.fr
+    email: emmanuel.garbolino@asessc.net
     affiliations: 
-      - MINES ParisTech, Crisis and Risk research Centre (CRC), 1 rue Claude Daunesse, BP 207, 06904, Sophia Antipolis, France
+      - Climpact Data Science (CDS), Nova Sophia - Regus Nova, 291 rue Albert Caquot, CS 40095, 06902, Sophia Antipolis Cedex, France
   - github: 
     name: Melisa Giorgis
     orcid: 0000-0001-6126-6660
@@ -276,16 +282,16 @@ authors:
     affiliations: 
       - University of Göttingen, Plant Ecology and Ecosystems Research, Untere Karspüle 2, 37073, Göttingen, Germany
   - github: 
+    name: Wannes Hubau
+    email: wannes.hubau@ugent.be
+    affiliations: 
+      - Ghent University, Department Environment, Laboratory of Wood Biology (UGent-WoodLab), Coupure Links 653, 9000, Ghent, Belgium
+      - Royal Museum for Central Africa, Service of Wood Biology, Leuvensesteenweg 13, 3080, Tervuren, Belgium
+  - github: 
     name: Adrian Indreica
     email: adrianindreica@unitbv.ro
     affiliations: 
       - Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania
-  - github: 
-    name: Kim Sarah Jacobsen
-    orcid: 0000-0002-9743-2533
-    email: kim.jacobsen@ugent.be
-    affiliations: 
-      - Ghent University, Dept Environment, Coupure Links 653, 9000, Ghent, Belgium
   - github: 
     name: John Janssen
     email: john.janssen@wur.nl
@@ -313,6 +319,12 @@ authors:
     email: alikavgaci1977@yahoo.com
     affiliations: 
       - Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey
+  - github: 
+    name: Elizabeth Kearsley
+    orcid: 0000-0003-0046-3606
+    email: elizabeth.kearsley@ugent.be
+    affiliations: 
+      - Ghent University, Department Environment, Computational and Applied Vegetation Ecology (UGent-CAVELab), Coupure Links 653, 9000, Gent, Belgium
   - github: 
     name: Michael Kessler
     orcid: 0000-0003-4612-9937
