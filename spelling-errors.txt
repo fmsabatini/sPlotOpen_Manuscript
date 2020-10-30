@@ -43,6 +43,7 @@ Aubenas
 Aubin
 BACI
 Batorskaya
+Bauters
 BayCEER
 BBVA
 BCDT
@@ -103,10 +104,12 @@ bryophytes
 BVN
 Cala
 Caledonian
+Caquot
 Carrer
 Carrera
 Casella
 Catarina
+CAVELab
 Cayuela
 CEAB
 Cedex
@@ -120,6 +123,7 @@ Ching
 Chytrý
 Ciencias
 CIRAD
+Climpact
 Cluj
 CN
 CNPq
@@ -132,7 +136,6 @@ Córdoba
 Corrado
 Coupure
 CoverPerc
-CRC
 cryptogams
 CSIC
 Csiky
@@ -150,7 +153,6 @@ dataset
 datasets
 dataset’s
 Dataveg
-Daunesse
 dbh
 Dengler
 d’Entreprises
@@ -281,6 +283,7 @@ Hongyan
 Hristo
 Hsieh
 HU
+Hubau
 IBMP
 IC
 iDiv
@@ -302,6 +305,7 @@ Ioannis
 ipbes
 iPlant
 IRD
+ISOFYS
 ISPRA
 Itziar
 IUNR
@@ -341,6 +345,7 @@ Karspüle
 Karsten
 Kattge
 Kavgac
+Kearsley
 Kessler
 Kew
 Kholodny
@@ -374,6 +379,7 @@ Lebedeva
 l’Espélidou
 Letcher
 Leuphana
+Leuvensesteenweg
 Levesley
 Liebig
 Lironde
@@ -390,6 +396,7 @@ Manaaki
 MARBEC
 Marcenò
 Marcin
+Marijn
 Mariya
 Markt
 Marticorena
@@ -440,7 +447,6 @@ PANAF
 Panayotis
 Papua
 Parastoo
-ParisTech
 Patras
 Patta
 Pauchard
@@ -488,13 +494,14 @@ Rasmus
 Rašomavičius
 RData
 Recursos
-releve
+Regus
+Releve
 Renata
 Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -562,7 +569,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subplotID
 subpolar
@@ -587,6 +594,7 @@ Technische
 Témiscamingue
 TeneKwetche
 Tereshchenkivska
+Tervuren
 Tien
 TJ
 TNRS
@@ -605,11 +613,12 @@ TW
 txt
 UA
 UFZ
+UGent
 ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -652,6 +661,7 @@ Wageningen
 Wakehurst
 Wana
 Wanja
+Wannes
 Warszawa
 Weg
 Wehrden
@@ -670,6 +680,7 @@ Wittenberg
 Wohlgemuth
 Wolfson
 Woodhouse
+WoodLab
 Wroc
 WSL
 Yamalov
