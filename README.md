@@ -22,9 +22,11 @@ Links to the rendered version of this manuscript:
 
 See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlot Open database is being constructed  
 
-Useful information on how to suggest edits to this manuscript are in the [dedicated tutorial](https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf). See also [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md).  
+### Editing the manuscript
++ The **PDF TUTORIAL on how to edit the manuscript** is at https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf
++ See also the [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md) for additional useful information
 
-
+### sPlot - The Global Vegetation-Plot Database
 _Below, a list of relevant papers describing, or using sPlot:_  
 - [Bruelheide et al. 2019 - sPlot – A new tool for global vegetation analyses - J Vegetation Science](https://onlinelibrary.wiley.com/doi/10.1111/jvs.12710)  
 - [Bruelheide et al. 2018 - Global trait–environment relationships of plant communities - NatEcoEvo](https://www.nature.com/articles/s41559-018-0699-8)  
