@@ -124,7 +124,6 @@ content/06.TechnicalValidation.md:8:Turboveg
 content/06.TechnicalValidation.md:9:dataset
 content/06.TechnicalValidation.md:9:datasets
 content/06.TechnicalValidation.md:10:datasets
-content/06.TechnicalValidation.md:10:Purschke
 content/06.TechnicalValidation.md:10:sPlot
 content/06.TechnicalValidation.md:10:sPlot’s
 content/06.TechnicalValidation.md:11:datasets
@@ -638,6 +637,7 @@ content/91.ManubotTables.md:125:midlatitudes
 content/91.ManubotTables.md:125:midlatitudes
 content/91.ManubotTables.md:125:subpolar
 content/91.ManubotTables.md:125:Subtrop
+content/91.ManubotTables.md:126:yyyy
 content/91.ManubotTables.md:132:cryptogams
 content/91.ManubotTables.md:132:dbh
 content/91.ManubotTables.md:132:dbh
@@ -647,4 +647,5 @@ content/91.ManubotTables.md:132:dbh
 content/91.ManubotTables.md:132:dbh
 content/91.ManubotTables.md:132:understory
 content/91.ManubotTables.md:138:ESY
-content/91.ManubotTables.md:141:Shrubland
+content/91.ManubotTables.md:140:Shrubland
+content/91.ManubotTables.md:144:Anthropogenic
