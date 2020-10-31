@@ -425,9 +425,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/0bb75b73d429dd78c9d6fa0696554a44d4e3f5a8/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/0bb75b73d429dd78c9d6fa0696554a44d4e3f5a8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/0bb75b73d429dd78c9d6fa0696554a44d4e3f5a8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/bbc116031626b52feaf88b5593f07e264d3311f2/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/bbc116031626b52feaf88b5593f07e264d3311f2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/bbc116031626b52feaf88b5593f07e264d3311f2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -449,9 +449,9 @@
 <p><em>This manuscript is still work in progress</em></p>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/0bb75b73d429dd78c9d6fa0696554a44d4e3f5a8/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/bbc116031626b52feaf88b5593f07e264d3311f2/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/0bb75b73d429dd78c9d6fa0696554a44d4e3f5a8">fmsabatini/sPlotOpen_Manuscript@0bb75b7</a>
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/bbc116031626b52feaf88b5593f07e264d3311f2">fmsabatini/sPlotOpen_Manuscript@bbc1160</a>
 on October 31, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -768,7 +768,7 @@ The eighteen plant functional traits were: (1) leaf area [mm<sup>2</sup>]; (2) s
 <p>Because missing values were particularly widespread in the species-trait matrix, we employed a gap-filling procedure based on hierarchical Bayesian modeling (R package ‘BHPMF’, <span class="citation" data-cites="hjYkCVfm"><a href="#ref-hjYkCVfm" role="doc-biblioref">41</a></span>; <span class="citation" data-cites="Jwoo53rF"><a href="#ref-Jwoo53rF" role="doc-biblioref">42</a></span>).
 Gap-filling was performed at the level of individual observations.
 We then log‐transformed all gap‐filled trait values and averaged each trait by taxon (i.e., at species, or genus level). Additional information on the gap-filling procedure is available in [<span class="citation" data-cites="1H3M9kGrz"><a href="#ref-1H3M9kGrz" role="doc-biblioref">26</a></span>].</p>
-<p>Community‐weighted means (CWM) and the variances (CWV) were calculated for every plant functional trait j and every vegetation plot k as follows (<span class="citation" data-cites="bU88kzBb"><a href="#ref-bU88kzBb" role="doc-biblioref">43</a></span>):</p>
+<p>Community‐weighted means (CWM) and variances (CWV) were calculated for every plant functional trait j and every vegetation plot k as follows (<span class="citation" data-cites="bU88kzBb"><a href="#ref-bU88kzBb" role="doc-biblioref">43</a></span>):</p>
 <p><span id="eq:Equation1" class="eqnos"><span class="math display">\[ CWM_{j,k} = \sum_{i}^{n_k} p_{i,k} t_{i,j}\]</span><span class="eqnos-number">(1)</span></span> <br />
 <span id="eq:Equation2" class="eqnos"><span class="math display">\[ CWV_{j,k} = \sum_{i}^{n_k} p_{i,k} (t_{i,j} - CWM_{j,k})^2\]</span><span class="eqnos-number">(2)</span></span> </p>
 <p>where n<sub>k</sub> is the number of species with trait information in vegetation plot k, p<sub>i,k</sub> is the relative abundance of species i in vegetation plot k calculated as the species’ fraction in cover or abundance of total cover or abundance, and t<sub>i,j</sub> is the mean value of species i for trait j.</p>
@@ -801,7 +801,7 @@ Plots in Europe are also classified according to the EUNIS habitat classificatio
 For each vegetation plot we further provide information on the dataset it stems from, based on the IDs used in the <a href="http://www.givd.info">Global Index of Vegetation-Plot Databases</a>.
 A brief description of all the 43 variables contained in the header matrix is provided in Table <a href="#tbl:Table2">2</a>.</p>
 <p>The <strong>‘DT’</strong> matrix contains data on the species composition of each plot. It is structured in a long format and contains 1,608,610 records, from 39,997 vascular plant taxa, mostly resolved at the species level.
-For each record we report both the taxon name as originally contributed by the data custodian (column <em>‘Original_scpecies’</em>), and the taxon name after taxonomic standardization (column <em>‘Species’</em>).
+For each record we report both the taxon name as originally contributed by the data custodian (column <em>‘Original_species’</em>), and the taxon name after taxonomic standardization (column <em>‘Species’</em>).
 For each entry, we report the species cover//abundance values. These follow different standards across the datasets constituting the sPlot database.
 We therefore provide both the cover//abundance value as reported in the original data (column <em>‘Original_abundance’</em>), together with the abundance scale that was originally used (column <em>‘Abundance_scale’</em>).
 This can take seven values: ‘CoverPerc’ = percentage cover, ‘pa’ = presence-absence, ‘x_BA’ = basal area (m<sup>2</sup>/ha, only for woody species), ‘x_IC’ = individual count, i.e., number of individuals in plot, ‘x_SC’ = stem count, i.e., number of stems in plot, ‘x_IV’ = importance value index, ‘x_PF’ = presence frequency. The great majority of entries, however, use the percentage cover scale (n= 1,397,109). Finally, for each entry we calculated a <em>‘Relative_cover’</em>, i.e., the cover//abundance of a given taxon divided by the total cover//abundance of all taxa in that vegetation plot.</p>
@@ -1411,7 +1411,7 @@ DOI: <a href="https://doi.org/10.1127/phyto/2016/0103">10.1127/phyto/2016/0103</
 <p>91. <strong>Conventional tree height–diameter relationships significantly overestimate aboveground carbon stocks in the Central Congo Basin</strong> <br />
 Elizabeth Kearsley, Thales de Haulleville, Koen Hufkens, Alidé Kidimbu, Benjamin Toirambe, Geert Baert, Dries Huygens, Yodit Kebede, Pierre Defourny, Jan Bogaert, … Hans Verbeeck<br />
 <em>Nature Communications</em> (2013-08-05) <a href="https://doi.org/ghgt8w">https://doi.org/ghgt8w</a> <br />
-DOI: <a href="https://doi.org/10.1038/ncomms3269">10.1038/ncomms3269</a></p>
+DOI: <a href="https://doi.org/10.1038/ncomms3269">10.1038/ncomms3269</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23912554">23912554</a></p>
 </div>
 <div id="ref-MsvKP6UK">
 <p>92. <strong>Responses of plant functional types to environmental gradients in the south-west Ethiopian highlands</strong> <br />
