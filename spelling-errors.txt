@@ -501,7 +501,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -531,7 +531,6 @@ SAZU
 Schaminée
 Schmiedel
 Schrodt
-scpecies
 sDiv
 Senckenberg
 Sergey
@@ -639,7 +638,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
