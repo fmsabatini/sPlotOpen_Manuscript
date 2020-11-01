@@ -501,7 +501,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -638,7 +638,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
