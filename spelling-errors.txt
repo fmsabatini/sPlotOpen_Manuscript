@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -215,7 +215,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -412,6 +412,7 @@ Montpellier
 Móstoles
 Mousa
 MPI
+MSc
 Müller
 Multidisciplinario
 Munkegade
