@@ -1,3 +1,7 @@
+## list of references for exclusive human use
+## Only meant to keep track of dois, so that they can be used more quickly.
+## This file is not used in anyway in the rendering of the manuscript
+
 Bar-On et al. 2018 @doi:10.1073/pnas.1711842115
 Baselga 2012 @doi:10.1111/j.1466-8238.2011.00756.x
 Boakes et al., 2010 @doi:10.1371/journal.pbio.1000385
@@ -16,6 +20,7 @@ Enquist et al. 2016 @doi:10.7287/peerj.preprints.2615v2
 Fazayeli, Banerjee, Kattge, Schrodt, & Reich, 2017 @doi:10.1109/ICMLA.2014.56
 Franklin, Serra‐Diaz, Syphard, & Regan, 2017 @doi:10.1111/geb.12501
 Hengl et al. 2017 @doi:10.1371/journal.pone.0169748 
+Hennekens & Schaminee 2001  @doi:10.2307/3237010 
 
 IPBES 2018 @isbn:9783947851133                  --> @ipbes2019
 iPlant Collaborative, 2015 @https://tnrs.iplantcollaborative.org/
@@ -38,6 +43,7 @@ Perring et al., 2018 @doi:10.1111/gcb.14030
 Peet, Lee, Boyle, et al., 2012;                 @PeetLeeBoyle2012
 Peet, Lee, Jennings, & Faber‐Langendoen, 2012   @peet2012
 Phillips et al. 2009 @doi:10.1890/07-2153.1
+Purschke 2013 @doi:10.5281/zenodo.845445
 
 Reich, 2014 @doi:10.1111/1365-2745.12211
 Schrodt et al., 2015 @doi:10.1111/geb.12335
