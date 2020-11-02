@@ -62,7 +62,20 @@ authors:
     name: Patrice De Ruffray
     email: patrice.de-ruffray@wanadoo.fr
     affiliations: 
-      - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France
+      - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France      
+  - github: 
+    name: Richard Field
+    orcid: 0000-0003-2613-2688
+    email: Richard.Field@nottingham.ac.uk
+    affiliations: 
+      - School of Geography, University of Nottingham, University Park, Nottingham, NG7 2RD, United Kingdom   
+  - github: 
+    name: Sylvia Haider
+    orcid: 0000-0002-2966-0534
+    email: sylvia.haider@botanik.uni-halle.de
+    affiliations: 
+      - Martin Luther University Halle‐Wittenberg, Institute of Biology/Geobotany and Botanical Garden, Halle (Saale), Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle‐Jena‐Leipzig, Leipzig, Germany 
   - github: 
     name: Stephan M. Hennekens
     email: stephan.hennekens@wur.nl
@@ -105,7 +118,13 @@ authors:
     name: Brody Sandel
     email: bsandel@scu.edu
     affiliations: 
-      - Aarhus University, Aarhus, Denmark
+      - Aarhus University, Aarhus, Denmark     
+  - github: 
+    name: Franziska Schrodt
+    orcid: 0000-0001-9053-8872
+    email: f.i.schrodt@gmail.com
+    affiliations:
+      - School of Geography, University of Nottingham, University Park, Nottingham, NG7 2RD, United Kingdom   
   - github: 
     name: Fahmida Sultana
     email: fahmida_nilukhan@yahoo.com
@@ -557,6 +576,12 @@ authors:
     email: milan.valachovic@savba.sk
     affiliations: 
       - Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia
+  - github: 
+    name: Peter van Bodegom
+    orcid: 0000-0003-0771-4500
+    email: p.m.van.bodegom@vu.nl
+    affiliations: 
+      - Institute of Environmental Sciences (CML), Leiden University, Leiden, The Netherlands
   - github: VigdisVandvik
     name: Vigdis Vandvik
     orcid: 0000-0003-4651-4798
@@ -598,7 +623,7 @@ authors:
     affiliations: 
       - University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland
       - Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany  
   - github: 
     name: Henrik von Wehrden
     email: henrik.von_wehrden@leuphana.de
