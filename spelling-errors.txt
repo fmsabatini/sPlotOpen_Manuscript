@@ -500,7 +500,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Rennweg
 Renovables
@@ -622,7 +622,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
