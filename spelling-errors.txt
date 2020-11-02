@@ -167,6 +167,7 @@ Deutscher
 DeWalt
 DFG
 Dickoré
+dimentional
 Dimopoulos
 DIVERSITAS
 DK
@@ -376,6 +377,7 @@ Landcare
 Landucci
 Laserna
 Lebedeva
+Lengyel
 l’Espélidou
 Letcher
 Leuphana
@@ -478,6 +480,7 @@ Pitman
 PlantHub
 Platz
 plotID
+PlotObservationID
 POB
 Praha
 Prawdziwka
@@ -496,6 +499,7 @@ Rašomavičius
 RData
 Recursos
 Regus
+relationally
 Releve
 Renata
 Rennweg
@@ -569,7 +573,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 subplotID
 subpolar
