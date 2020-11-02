@@ -62,7 +62,7 @@ authors:
     name: Patrice De Ruffray
     email: patrice.de-ruffray@wanadoo.fr
     affiliations: 
-      - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France
+      - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France      
   - github: 
     name: Stephan M. Hennekens
     email: stephan.hennekens@wur.nl
@@ -105,12 +105,12 @@ authors:
     name: Brody Sandel
     email: bsandel@scu.edu
     affiliations: 
-      - Aarhus University, Aarhus, Denmark
+      - Aarhus University, Aarhus, Denmark     
   - github: 
     name: Fahmida Sultana
     email: fahmida_nilukhan@yahoo.com
     affiliations: 
-      - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh
+      - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh  
   - github: 
     name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
@@ -121,7 +121,7 @@ authors:
     orcid: 0000-0003-2346-8346
     email: emiliano.agrillo@gmail.com
     affiliations: 
-      - Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy
+      - Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy  
   - github: 
     name: Miguel Alvarez
     orcid: 0000-0003-1500-1834
@@ -143,7 +143,7 @@ authors:
     name: Isabelle Aubin
     email: isabelle.aubin@canada.ca
     affiliations: 
-      - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada
+      - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada       
   - github: 
     name: Marijn Bauters
     email: marijn.bauters@ugent.be
@@ -172,7 +172,7 @@ authors:
     name: Anne D. Bjorkman
     email: annebj@gmail.com
     affiliations: 
-      - Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark
+      - Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark  
   - github: 
     name: Laura Casella
     orcid: 0000-0003-2550-3010
@@ -352,7 +352,7 @@ authors:
     name: Hongyan Liu
     email: lhy@urban.pku.edu.cn
     affiliations: 
-      - Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China
+      - Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China  
   - github: 
     name: Tatiana Lysenko
     email: ltm2000@mail.ru
@@ -497,7 +497,7 @@ authors:
     name: Anita Smyth
     email: anita.smyth@adelaide.edu.au
     affiliations: 
-      - University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia
+      - University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia  
   - github: 
     name: Zvjezdana Stančić
     email: zvjezdana.stancic@gfv.hr
@@ -552,7 +552,7 @@ authors:
     affiliations: 
       - University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland
       - Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103, Leipzig, Germany  
   - github: 
     name: Henrik von Wehrden
     email: henrik.von_wehrden@leuphana.de
