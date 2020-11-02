@@ -87,7 +87,6 @@ Blumenau
 BMBF
 Bolyai
 Bonchev
-Bondareva
 Bonifacino
 Bönisch
 Boreal
@@ -120,6 +119,7 @@ CHELSA
 Chemin
 Chepinoga
 Ching
+Chuvashov
 Chytrý
 Ciencias
 CIRAD
@@ -502,7 +502,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -618,7 +618,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade

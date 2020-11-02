@@ -447,10 +447,10 @@ content/91.ManubotTables.md:51:Dajić
 content/91.ManubotTables.md:51:Stevanović
 content/91.ManubotTables.md:51:Svetlana
 content/91.ManubotTables.md:51:Zora
-content/91.ManubotTables.md:52:Bondareva
+content/91.ManubotTables.md:52:Andrey
+content/91.ManubotTables.md:52:Chuvashov
 content/91.ManubotTables.md:52:Golub
 content/91.ManubotTables.md:52:Phytosociological
-content/91.ManubotTables.md:52:Viktoria
 content/91.ManubotTables.md:53:Tatiana
 content/91.ManubotTables.md:54:Kozhevnikova
 content/91.ManubotTables.md:54:Prokhorov
