@@ -110,7 +110,13 @@ authors:
     name: Fahmida Sultana
     email: fahmida_nilukhan@yahoo.com
     affiliations: 
-      - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh
+      - Shahjalal University of Science & Technology, Forestry & Environmental Science, 3114, Sylhet, Bangladesh  
+  - github: 
+    name: Tsipe Aavik
+    orcid: 0000-0001-5232-3950
+    email: tsipe.aavik@ut.ee
+    affiliations: 
+      - Institute of Ecology and Earth Sciences, University of artu, Tartu, Estonia
   - github: 
     name: Svetlana Aćić
     email: acic@agrif.bg.ac.rs
@@ -121,7 +127,13 @@ authors:
     orcid: 0000-0003-2346-8346
     email: emiliano.agrillo@gmail.com
     affiliations: 
-      - Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy
+      - Sapienza University of Rome, Department of Environmental Biology, P.le Aldo Moro 5, 00185, Rome, Italy  
+  - github: 
+    name: Inger G. Alsos
+    orcid: 0000-0002-8610-1085
+    email: inger.g.alsos@uit.no
+    affiliations: 
+      - Tromsø University Museum, UiT - The Arctic University of Norway, NO-9037 Tromsø, Norway
   - github: 
     name: Miguel Alvarez
     orcid: 0000-0003-1500-1834
@@ -143,7 +155,13 @@ authors:
     name: Isabelle Aubin
     email: isabelle.aubin@canada.ca
     affiliations: 
-      - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada
+      - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada      
+  - github: 
+    name: Gunnar Austrheim
+    orcid: 0000-0002-3909-6666
+    email: gunnar.austrheim@ntnu.no
+    affiliations: 
+      - Department of Natural History, University Museum Norwegian University of Science and Technology, N-7491 Trondheim, Norway 
   - github: 
     name: Marijn Bauters
     email: marijn.bauters@ugent.be
@@ -172,7 +190,14 @@ authors:
     name: Anne D. Bjorkman
     email: annebj@gmail.com
     affiliations: 
-      - Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark
+      - Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark  
+  - github: 
+    name: Jörg Brunet
+    orcid: 0000-0003-2667-4575
+    email: jorg.brunet@slu.se
+    affiliations: 
+      - Swedish University of Agricultural Sciences (SLU), Box 49, 230 53 Alnarp, Sweden
+      - Southern Swedish Forest Research Centre, Box 49, 230 53 Alnarp, Sweden
   - github: 
     name: Laura Casella
     orcid: 0000-0003-2550-3010
@@ -352,7 +377,13 @@ authors:
     name: Hongyan Liu
     email: lhy@urban.pku.edu.cn
     affiliations: 
-      - Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China
+      - Peking University, College of Urban and Environmental Sciences, Yiheyuan Rd. 5, 100871, Beijing, China  
+  - github: miskaluoto
+    name: Miska Luoto
+    orcid: 0000-0001-6203-5143
+    email: miska.luoto@helsinki.fi
+    affiliations:
+      - Department of Geosciences and Geography, University of Helsinki, Helsinki, Finland
   - github: 
     name: Tatiana Lysenko
     email: ltm2000@mail.ru
@@ -497,7 +528,15 @@ authors:
     name: Anita Smyth
     email: anita.smyth@adelaide.edu.au
     affiliations: 
-      - University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia
+      - University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia  
+  - github: 
+    name: Jens-Christian Svenning
+    orcid: 0000-0002-3415-0862
+    twitter: JCSvenning
+    email: svenning@bio.au.dk
+    affiliations:
+      - Section for Ecoinformatics and Biodiversity, Department of Biology, Aarhus University, Aarhus, 8000, Denmark
+      - Center for Biodiversity Dynamics in a Changing World (BIOCHANGE), Department of Biology, Aarhus University, Aarhus, 8000, Denmark
   - github: 
     name: Zvjezdana Stančić
     email: zvjezdana.stancic@gfv.hr
@@ -518,6 +557,13 @@ authors:
     email: milan.valachovic@savba.sk
     affiliations: 
       - Plant Science and Biodiversity Centre Slovak Academy of Sciences, Institute of Botany, Dubravska cesta 9, 84523, Bratislava, Slovakia
+  - github: VigdisVandvik
+    name: Vigdis Vandvik
+    orcid: 0000-0003-4651-4798
+    twitter: VVandvik
+    email: Vigdis.Vandvik@uib.no
+    affiliations:
+      - Department of Biological Sciences and Bjerknes Centre for Climate Research, Uniersity of Bergen, PObox 7801, N-2009 Bergen, Norway
   - github: 
     name: Kim André Vanselow
     email: kim.vanselow@fau.de
@@ -606,6 +652,12 @@ authors:
     email: yamalovsm@mail.ru
     affiliations: 
       - Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia
+  - github: 
+    name: Martin Zobel
+    orcid:  0000-0001-7957-6704
+    email: maryin.zobel@ut.ee
+    affiliations: 
+      - Institute of Ecology and Earth Sciences, University of artu, Tartu, Estonia
   - github: Bruelheide
     name: Helge Bruelheide
     initials: HB
