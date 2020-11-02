@@ -64,19 +64,6 @@ authors:
     affiliations: 
       - IBMP, 12, rue du Général-Zimmer, 67084, Strasburg, France      
   - github: 
-    name: Richard Field
-    orcid: 0000-0003-2613-2688
-    email: Richard.Field@nottingham.ac.uk
-    affiliations: 
-      - School of Geography, University of Nottingham, University Park, Nottingham, NG7 2RD, United Kingdom   
-  - github: 
-    name: Sylvia Haider
-    orcid: 0000-0002-2966-0534
-    email: sylvia.haider@botanik.uni-halle.de
-    affiliations: 
-      - Martin Luther University Halle‐Wittenberg, Institute of Biology/Geobotany and Botanical Garden, Halle (Saale), Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle‐Jena‐Leipzig, Leipzig, Germany 
-  - github: 
     name: Stephan M. Hennekens
     email: stephan.hennekens@wur.nl
     affiliations: 
@@ -119,12 +106,6 @@ authors:
     email: bsandel@scu.edu
     affiliations: 
       - Aarhus University, Aarhus, Denmark     
-  - github: 
-    name: Franziska Schrodt
-    orcid: 0000-0001-9053-8872
-    email: f.i.schrodt@gmail.com
-    affiliations:
-      - School of Geography, University of Nottingham, University Park, Nottingham, NG7 2RD, United Kingdom   
   - github: 
     name: Fahmida Sultana
     email: fahmida_nilukhan@yahoo.com
