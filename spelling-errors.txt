@@ -154,6 +154,7 @@ datasets
 dataset’s
 Dataveg
 dbh
+DBI
 Dengler
 d’Entreprises
 Departamento
@@ -506,7 +507,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -573,7 +574,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subplotID
 subpolar
