@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -149,7 +149,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -217,7 +217,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -507,7 +507,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -574,7 +574,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 subplotID
 subpolar
@@ -623,7 +623,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
