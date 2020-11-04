@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -217,7 +217,8 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
+FONDEN
 FORECOFUN
 ForestPlots
 Fotiadis
@@ -507,7 +508,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -574,7 +575,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 subplotID
 subpolar
@@ -655,6 +656,7 @@ Verbeeck
 Vibrans
 Viktor
 Viktoria
+VILLUM
 Vinobre
 Virtanen
 Vitaliano
