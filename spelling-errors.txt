@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -70,6 +70,7 @@ Biología
 Biológicas
 Biome
 biomes
+Biometrics
 BIONEOCAL
 Bioscience
 BIOTA
@@ -174,6 +175,7 @@ DIVERSITAS
 DK
 Dolezal
 Domas
+Droevendaalsesteeg
 DSV
 DT
 Dubravska
@@ -220,6 +222,7 @@ Florian
 Fondecyt
 FONDEN
 FORECOFUN
+Forestales
 ForestPlots
 Fotiadis
 Francesc
@@ -291,11 +294,13 @@ IBMP
 IC
 iDiv
 Idoia
+IEB
 IFFSC
 Ifjúság
 IFREMER
 Ilona
 IMBIV
+IMEBI
 INBO
 INBOVEG
 Indreica
@@ -394,6 +399,7 @@ LV
 Macanović
 Macaronesian
 macroclimatic
+Magdeburger
 Magistrat
 Mahdavi
 Manaaki
@@ -484,6 +490,7 @@ Platz
 plotID
 PlotObservationID
 POB
+Postbus
 Praha
 Prawdziwka
 Primatology
@@ -508,7 +515,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -523,6 +530,7 @@ Rua
 Ruffray
 Ruprecht
 Rūsiņa
+Saale
 Saara
 Sabatini
 SALVIAS
@@ -577,6 +585,7 @@ Stebler
 Stevanović
 Str
 Strasburg
+Straße
 subplotID
 subpolar
 Subtrop
@@ -645,7 +654,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
