@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -219,7 +219,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -515,7 +515,7 @@ Rennweg
 Renovables
 Republicii
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
