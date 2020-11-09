@@ -22,10 +22,15 @@ Links to the rendered version of this manuscript:
 
 See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlot Open database is being constructed  
 
-### Editing the manuscript
-+ The **TUTORIAL (PDF) on how to edit the manuscript** - https://raw.githubusercontent.com/fmsabatini/sPlotOpen_Manuscript/master/Tutorial_ManubotEditing.pdf
-+ Short Video - **Editing with Manubot** - https://manubot.org/docs/getting-started.html !!Don't forget to click 'commit changes' after your edits!!
-+ See also the [Manubot's Usage Guidelines](https://github.com/fmsabatini/sPlotOpen_Manuscript/blob/master/USAGE.md) for additional useful information
+### Wiki - How tos:
+Check the project's [Wiki](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki) for help on:  
+[1. Accessing the manuscript](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/1.-Accessing-the-manuscript)  
+[2. How to contribute edits using GitHub’s browser interface](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/2.-Editing-the-ms-using-GitHub%E2%80%99s-browser-interface)  
+[3. Alternative to using GitHub (not recommended)](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/3.-Alternative-to-using-GitHub-(not-recommended))  
+[4. Editing personal and affiliation information](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/4.-Editing-personal-and-affiliation-information)  
+[5. How to open issues, suggest ideas and discuss problems](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/5.-How-to-open-issues,-suggest-ideas-and-discuss-problems)  
+
+Or see this Short Video - (**Editing with Manubot**)[https://manubot.org/docs/getting-started.html]. Just, *don't forget to click 'commit changes' after your edits!!*
 
 ### sPlot - The Global Vegetation-Plot Database
 _Below, a list of relevant papers describing, or using sPlot:_  
