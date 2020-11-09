@@ -27,7 +27,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 arcmin
@@ -219,7 +219,7 @@ FITOGEOGRAFÍA
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -509,13 +509,13 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Rennweg
 Renovables
 Republicii
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -633,7 +633,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -654,7 +654,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
