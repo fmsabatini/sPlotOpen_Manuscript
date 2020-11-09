@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally resampled subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
+This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally-balanced subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
 
 Links to the rendered version of this manuscript:  
 + **HTML manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/
