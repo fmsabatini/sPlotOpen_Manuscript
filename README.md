@@ -30,7 +30,7 @@ Check the project's [Wiki](https://github.com/fmsabatini/sPlotOpen_Manuscript/wi
 [4. Editing personal and affiliation information](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/4.-Editing-personal-and-affiliation-information)  
 [5. How to open issues, suggest ideas and discuss problems](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/5.-How-to-open-issues,-suggest-ideas-and-discuss-problems)  
 
-Or see this Short Video - (**Editing with Manubot**)[https://manubot.org/docs/getting-started.html]. Just, *don't forget to click 'commit changes' after your edits!!*
+Or see this Short Video - [**Editing with Manubot**](https://manubot.org/docs/getting-started.html). Just, *don't forget to click 'commit changes' after your edits!!*
 
 ### sPlot - The Global Vegetation-Plot Database
 _Below, a list of relevant papers describing, or using sPlot:_  
