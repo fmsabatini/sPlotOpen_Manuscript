@@ -178,7 +178,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -291,7 +291,6 @@ Gerhard
 Gholizadeh
 Gianmaria
 Giessergasse
-GiHub
 Giorgis
 Girona
 giugno
@@ -592,7 +591,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -600,7 +599,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -717,7 +716,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf

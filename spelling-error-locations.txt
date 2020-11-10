@@ -295,7 +295,6 @@ content/07.Acknowledgements_et_al.md:31:Weiher
 content/07.Acknowledgements_et_al.md:33:Ching
 content/07.Acknowledgements_et_al.md:33:Feng
 content/07.Acknowledgements_et_al.md:36:FS
-content/07.Acknowledgements_et_al.md:36:GiHub
 content/07.Acknowledgements_et_al.md:36:HB
 content/07.Acknowledgements_et_al.md:36:HB
 content/07.Acknowledgements_et_al.md:36:iDiv
