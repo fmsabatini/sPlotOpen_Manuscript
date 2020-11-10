@@ -15,6 +15,7 @@ Akhalia
 Alegre
 aleja
 Alfaro
+Alireza
 Alnarp
 Alsos
 Alterra
@@ -81,6 +82,7 @@ Biome
 biomes
 Biometrics
 BIONEOCAL
+Bioresources
 Bioscience
 BIOTA
 biotic
@@ -501,6 +503,7 @@ Munkegade
 Münster
 Munzinger
 Napoca
+Naqinezhad
 Náquera
 NAS
 Natura
@@ -589,7 +592,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -674,7 +677,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -714,7 +717,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
