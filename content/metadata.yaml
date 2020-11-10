@@ -515,6 +515,11 @@ authors:
     affiliations: 
       - IRD, CIRAD, CNRS, INRA, Université Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France
   - github: 
+    name: Alireza Naqinezhad
+    email: anaqinezhad@gmail.com
+    affiliations: 
+      - University of Mazandaran, Department of Biology, P.O. Box: 47416-95447, Mazandaran, Iran
+  - github: 
     name: Jalil Noroozi
     email: noroozi.jalil@gmail.com
     affiliations: 
@@ -758,7 +763,7 @@ authors:
     name: Hua-Feng Wang
     email: wanghuafeng2012@foxmail.com
     affiliations: 
-      - Hainan University, Key Laboratory of Tropical Biological Resources of Ministry of Education, School of Life and Pharmaceutical Sciences, 58 Renmin Avenue, Meilan District, 570228, Haikou, China
+      - Hainan University, Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, College of Tropical Crops, 58 Renmin Avenue, Meilan District, 570228, Haikou, China
   - github: 
     name: Karsten Wesche
     email: karsten.wesche@senckenberg.de
@@ -806,5 +811,3 @@ authors:
     affiliations:
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
       - German Centre for Integrative Biodiversity Research (iDiv) - Halle-Jena-Leipzig. Germany  
-
-
