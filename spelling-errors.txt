@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -592,7 +592,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 Renata
 Renmin
 Rennweg
@@ -600,7 +600,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
