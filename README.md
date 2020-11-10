@@ -29,6 +29,7 @@ Check the project's [Wiki](https://github.com/fmsabatini/sPlotOpen_Manuscript/wi
 [3. Alternative to using GitHub (not recommended)](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/3.-Alternative-to-using-GitHub-(not-recommended))  
 [4. Editing personal and affiliation information](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/4.-Editing-personal-and-affiliation-information)  
 [5. How to open issues, suggest ideas and discuss problems](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/5.-How-to-open-issues,-suggest-ideas-and-discuss-problems)  
+[6. Approve Submission](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/6.-Approve-Submission)
 
 Or see this Short Video - [**Editing with Manubot**](https://manubot.org/docs/getting-started.html). Just, *don't forget to click 'commit changes' after your edits!!*
 
