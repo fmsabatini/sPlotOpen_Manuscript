@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -677,7 +677,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -739,7 +739,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -762,7 +762,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
