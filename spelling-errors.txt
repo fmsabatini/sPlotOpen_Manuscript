@@ -178,7 +178,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -519,6 +519,7 @@ Noroozi
 Novi
 Nowak
 OA
+occurence
 Ohnhorststr
 Okavango
 Onyshchenko
@@ -591,7 +592,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 Renata
 Renmin
 Rennweg
@@ -599,7 +600,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -676,7 +677,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -716,7 +717,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
@@ -738,7 +739,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade

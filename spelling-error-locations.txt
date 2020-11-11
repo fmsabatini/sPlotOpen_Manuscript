@@ -10,6 +10,7 @@ content/02.BackgroundSummary.md:5:anthropogenic
 content/02.BackgroundSummary.md:16:BIEN
 content/02.BackgroundSummary.md:16:gbif
 content/02.BackgroundSummary.md:16:GBIF
+content/02.BackgroundSummary.md:20:occurence
 content/02.BackgroundSummary.md:22:biotic
 content/02.BackgroundSummary.md:32:sPlot
 content/02.BackgroundSummary.md:33:datasets
