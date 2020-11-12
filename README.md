@@ -25,7 +25,7 @@ See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_
 ### Wiki - How tos:
 Check the project's [Wiki](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki) for help on:  
 [1. Accessing the manuscript](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/1.-Accessing-the-manuscript)  
-[2. How to contribute edits using GitHub’s browser interface](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/2.-Editing-the-ms-using-GitHub%E2%80%99s-browser-interface)  
+[2. How to contribute edits using GitHub’s browser interface](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/2.-Edit-the-manuscript-using-GitHub%E2%80%99s-browser-interface)  
 [3. Alternative to using GitHub (not recommended)](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/3.-Alternative-to-using-GitHub-(not-recommended))  
 [4. Editing personal and affiliation information](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/4.-Editing-personal-and-affiliation-information)  
 [5. How to open issues, suggest ideas and discuss problems](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki/5.-How-to-open-issues,-suggest-ideas-and-discuss-problems)  
