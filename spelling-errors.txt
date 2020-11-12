@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -717,7 +717,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf
