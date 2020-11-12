@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -458,6 +458,7 @@ Levesley
 Liebig
 Lironde
 Liu
+LTAUSA
 Lüneburg
 l’Université
 LV
@@ -495,6 +496,7 @@ Móstoles
 Mousa
 MPI
 MSc
+MSMT
 Mucina
 Müller
 Multidisciplinario
@@ -677,7 +679,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -717,7 +719,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
