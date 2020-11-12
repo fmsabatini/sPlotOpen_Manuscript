@@ -256,7 +256,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -679,7 +679,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -719,7 +719,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf
