@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -594,7 +594,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 Renata
 Renmin
 Rennweg
@@ -602,7 +602,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -679,7 +679,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -764,7 +764,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
