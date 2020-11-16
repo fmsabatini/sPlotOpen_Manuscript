@@ -78,10 +78,10 @@ content/03.Methods.md:54:CWV
 content/04.DataRecords.md:3:bryophytes
 content/04.DataRecords.md:3:dataset
 content/04.DataRecords.md:3:datasets
-content/04.DataRecords.md:3:sPlot
-content/04.DataRecords.md:7:overrepresentation
+content/04.DataRecords.md:7:overrepresented
 content/04.DataRecords.md:7:resampling
 content/04.DataRecords.md:8:biomes
+content/04.DataRecords.md:10:selectionwere
 content/04.DataRecords.md:11:biomes
 content/04.DataRecords.md:12:biomes
 content/04.DataRecords.md:12:biomes

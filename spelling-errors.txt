@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -178,7 +178,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -528,7 +528,6 @@ Onyshchenko
 ORSP
 Oulu
 Overbeck
-overrepresentation
 overrepresented
 Oviedo
 PaDeMoS
@@ -602,7 +601,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -637,6 +636,7 @@ Schmiedel
 Schrodt
 Scienze
 sDiv
+selectionwere
 Senckenberg
 Sergey
 Sète
@@ -679,7 +679,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -741,7 +741,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -764,7 +764,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
