@@ -7,13 +7,14 @@ content/01.abstract.md:8:resampled
 content/01.abstract.md:10:dataset
 content/01.abstract.md:10:truthing
 content/02.BackgroundSummary.md:5:anthropogenic
+content/02.BackgroundSummary.md:15:spatiotemporal
 content/02.BackgroundSummary.md:16:BIEN
 content/02.BackgroundSummary.md:16:gbif
 content/02.BackgroundSummary.md:16:GBIF
-content/02.BackgroundSummary.md:20:occurence
 content/02.BackgroundSummary.md:22:biotic
 content/02.BackgroundSummary.md:32:sPlot
 content/02.BackgroundSummary.md:33:datasets
+content/02.BackgroundSummary.md:33:georeferenced
 content/02.BackgroundSummary.md:34:sPlot
 content/02.BackgroundSummary.md:35:sPlot
 content/02.BackgroundSummary.md:38:sPlot

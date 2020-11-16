@@ -282,6 +282,7 @@ GDD
 Geish
 Général
 Geobotany
+georeferenced
 Georg
 Georgi
 Georgios
@@ -521,7 +522,6 @@ Noroozi
 Novi
 Nowak
 OA
-occurence
 Ohnhorststr
 Okavango
 Onyshchenko
@@ -593,7 +593,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 Renata
 Renmin
 Rennweg
@@ -669,6 +669,7 @@ SOPHY
 Sopotlieva
 sortings
 Soutwest
+spatiotemporal
 Sperandii
 sPlot
 sPlotOpen
@@ -719,7 +720,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf
@@ -741,7 +742,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
