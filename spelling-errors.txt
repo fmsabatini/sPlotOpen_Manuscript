@@ -593,7 +593,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -742,7 +742,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -765,7 +765,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
