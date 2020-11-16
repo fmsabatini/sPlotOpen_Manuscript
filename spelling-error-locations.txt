@@ -77,8 +77,8 @@ content/03.Methods.md:50:BHPMF
 content/03.Methods.md:54:CWM
 content/03.Methods.md:54:CWV
 content/04.DataRecords.md:3:bryophytes
-content/04.DataRecords.md:3:dataset
 content/04.DataRecords.md:3:datasets
+content/04.DataRecords.md:3:sPlot
 content/04.DataRecords.md:7:overrepresented
 content/04.DataRecords.md:7:resampling
 content/04.DataRecords.md:8:biomes
@@ -87,14 +87,13 @@ content/04.DataRecords.md:11:biomes
 content/04.DataRecords.md:12:biomes
 content/04.DataRecords.md:12:biomes
 content/04.DataRecords.md:12:biomes
-content/04.DataRecords.md:12:midlatitudes
 content/04.DataRecords.md:12:sPlot
 content/04.DataRecords.md:12:Whittaker
 content/04.DataRecords.md:14:biomes
 content/04.DataRecords.md:14:dimentional
 content/04.DataRecords.md:14:sPlot
 content/04.DataRecords.md:14:Whittaker
-content/04.DataRecords.md:16:dataset
+content/04.DataRecords.md:16:sPlot
 content/04.DataRecords.md:19:Bruelheide
 content/04.DataRecords.md:20:datasets
 content/04.DataRecords.md:20:sPlot
