@@ -193,7 +193,6 @@ des
 Desalegn
 Desertificación
 Desislava
-Deutscher
 DeWalt
 DFG
 Dickoré
@@ -228,6 +227,7 @@ Elmendorf
 Els
 Emiliano
 Engenharia
+enology
 Enquist
 ERC
 Erenskjold
@@ -295,6 +295,7 @@ GIVD
 GL
 Golub
 Gonçalves
+Gorica
 Görlitz
 Göttingen
 Grande
@@ -455,6 +456,7 @@ Levesley
 Liebig
 Lironde
 Liu
+Louvels
 LTAUSA
 Lüneburg
 l’Université
@@ -580,6 +582,7 @@ Prokhorov
 prospekt
 publ
 Purschke
+Puschstrasse
 Pushchino
 Qikiqtaruk
 Québec
@@ -656,7 +659,6 @@ Sirul
 SIVIM
 Sklenář
 Škvorc
-Slovenija
 SMH
 Smyth
 sobre
@@ -782,6 +784,7 @@ Viktoria
 VILLUM
 Vinobre
 Violle
+Vipavska
 Virtanen
 Vitaliano
 Vitaliy
