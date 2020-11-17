@@ -348,6 +348,11 @@ authors:
     affiliations: 
       - Universidad de Chile, Departamento de Ciencias Ambientales y Recursos Naturales Renovables, Facultad de Ciencias Agronomicas, Santa Rosa 11315, La Pintana, 8820808, Santiago, Chile
   - github: 
+    name: Sylvia Haider
+    email: sylvia.haider@botanik.uni-halle.de
+    affiliations: 
+      - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
+  - github: 
     name: Mohamed Z. Hatim
     orcid: 0000-0002-0872-5108
     email: mohamed.hatim@wur.nl
@@ -558,8 +563,8 @@ authors:
     orcid: 0000-0002-5974-7374
     email: aaronperez@ub.edu
     affiliations: 
+      - University of Vic-Central University of Catalonia, Department of Biosciences, Carrer de la Laura, 13, 08500, Vic, Barcelona, Spain
       - University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain
-      - Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d'accés a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain
   - github: 
     name: Tomáš Peterka
     email: peterkatomasek@seznam.cz
@@ -567,6 +572,7 @@ authors:
       - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
     name: Gwendolyn Peyre
+    orcid: 0000-0002-1977-7181
     email: gf.peyre@uniandes.edu.co
     affiliations: 
       - University of the Andes, Department of Civil and Environmental Engineering, Carrera 1 Este No. 19A-40, Edificio Mario Laserna, Piso 6 , 111711, Bogota, Colombia
@@ -629,6 +635,11 @@ authors:
     email: f.i.schrodt@gmail.com
     affiliations: 
       - University of Nottingham, School of Geography, University Park, NG7 2RD, Nottingham, UK
+  - github: 
+    name: Pavel Shirokikh
+    email: Shirpa@mail.ru
+    affiliations: 
+      - Ufa Institute of biology – Subdivision of the Ufa Federal Research Centre of Russian Academy of Science, prospekt Oktyabrya, 450054, Ufa, Russia
   - github: 
     name: Jozef Šibík
     orcid: 0000-0002-5949-862X
