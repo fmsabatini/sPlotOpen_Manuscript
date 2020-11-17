@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -175,7 +175,7 @@ Dajić
 Damanhour
 Daniëls
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -253,7 +253,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -475,6 +475,7 @@ Marijn
 Mariya
 Markt
 Marticorena
+Martynenko
 Mathar
 Mazandaran
 McLaren
@@ -599,7 +600,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -741,7 +742,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -762,6 +763,7 @@ Valerijus
 Valério
 Vanselow
 Varaždin
+Vasiliy
 Vassilev
 VegBank
 Vegetal
