@@ -84,6 +84,7 @@ Biometrics
 BIONEOCAL
 Bioresources
 Bioscience
+Biosciences
 BIOTA
 biotic
 BioTIME
@@ -94,7 +95,6 @@ Birmensdorf
 Birnbaum
 Biurrun
 Bjorkman
-Blanes
 Blumenau
 BMBF
 Boadilla
@@ -120,7 +120,6 @@ Bruelheide
 bryophytes
 Büsgenweg
 BVN
-Cala
 Caledonian
 Caquot
 Carlowitz
@@ -132,7 +131,6 @@ Casella
 Catarina
 CAVELab
 Cayuela
-CEAB
 Cedex
 CEFE
 Centre
@@ -172,7 +170,6 @@ Curran
 CWM
 CWV
 Cyrille
-d’accés
 d’Activités
 Dajić
 Damanhour
@@ -256,14 +253,13 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
 ForestPlots
 Forets
 Fotiadis
-Francesc
 Francesco
 Franziska
 Freising
@@ -293,7 +289,6 @@ Gholizadeh
 Gianmaria
 Giessergasse
 Giorgis
-Girona
 giugno
 Giuliano
 GIVD
@@ -315,6 +310,7 @@ GV
 GVID
 GVRD
 Haase
+Haider
 Haikou
 Hainan
 Halle
@@ -524,6 +520,7 @@ Nowak
 OA
 Ohnhorststr
 Okavango
+Oktyabrya
 Onyshchenko
 ORSP
 Oulu
@@ -579,6 +576,7 @@ Primatology
 Privada
 programme
 Prokhorov
+prospekt
 publ
 Purschke
 Pushchino
@@ -593,7 +591,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 Renata
 Renmin
 Rennweg
@@ -601,7 +599,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -643,6 +641,7 @@ Sète
 Shahjalal
 Shaltout
 Shan
+Shirokikh
 Shixun
 Shrubland
 Šibík
@@ -680,7 +679,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -720,7 +719,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf
@@ -742,7 +741,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -765,7 +764,7 @@ Vanselow
 Varaždin
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
