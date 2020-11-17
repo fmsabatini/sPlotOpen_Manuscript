@@ -682,7 +682,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -722,7 +722,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
@@ -744,7 +744,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -768,7 +768,7 @@ Varaždin
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
