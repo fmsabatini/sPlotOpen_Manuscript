@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-anthropogenic
+Anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -254,7 +254,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -606,7 +606,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -685,7 +685,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -771,7 +771,7 @@ Varaždin
 Vasiliy
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
