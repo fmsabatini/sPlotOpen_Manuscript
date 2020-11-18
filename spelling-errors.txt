@@ -606,7 +606,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -685,7 +685,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 Studi
@@ -725,7 +725,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-TRE
+Tre
 Trebon
 trg
 Triesdorf
