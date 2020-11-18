@@ -32,7 +32,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -78,6 +78,7 @@ Biogeochemistry
 Biogeography
 Biología
 Biológicas
+biologie
 Biome
 biomes
 Biometrics
@@ -342,7 +343,6 @@ Hsieh
 HU
 Hua
 Hubau
-IBMP
 IC
 iDiv
 Idoia
@@ -360,6 +360,7 @@ Inger
 INRA
 INRES
 Insitute
+Institut
 Instituto
 Invasiones
 Investigaciones
@@ -490,6 +491,7 @@ Mijangos
 Modelling
 Moeslund
 Mohammed
+moléculaire
 Moncada
 Montpellier
 Móstoles
@@ -567,6 +569,7 @@ Pintana
 PIPPN
 Piso
 Pitman
+plantes
 PlantHub
 Platz
 plotID
@@ -682,7 +685,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -768,7 +771,7 @@ Varaždin
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
