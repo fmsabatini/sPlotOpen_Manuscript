@@ -254,7 +254,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -606,7 +606,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -725,7 +725,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
