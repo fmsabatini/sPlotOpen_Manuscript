@@ -151,7 +151,7 @@
   <meta name="author" content="Sergey Yamalov" />
   <meta name="author" content="Martin Zobel" />
   <meta name="author" content="Helge Bruelheide" />
-  <meta name="dcterms.date" content="2020-11-18" />
+  <meta name="dcterms.date" content="2020-11-20" />
   <meta name="keywords" content="vegetation, database, plants, biodiversity, functional traits, big-data, manubot" />
   <title>sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots</title>
   <style>
@@ -174,8 +174,8 @@
   <meta name="citation_title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="og:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="twitter:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
-  <meta name="dc.date" content="2020-11-18" />
-  <meta name="citation_publication_date" content="2020-11-18" />
+  <meta name="dc.date" content="2020-11-20" />
+  <meta name="citation_publication_date" content="2020-11-20" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -563,9 +563,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6449888cc0e453a3b24e088fb8ac8756663b54c3/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6449888cc0e453a3b24e088fb8ac8756663b54c3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6449888cc0e453a3b24e088fb8ac8756663b54c3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f5d36e2bac91bb43da5051fe60e9a8ad3285691/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f5d36e2bac91bb43da5051fe60e9a8ad3285691/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f5d36e2bac91bb43da5051fe60e9a8ad3285691/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -587,10 +587,10 @@
 <p><em>This manuscript is still work in progress</em></p>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6449888cc0e453a3b24e088fb8ac8756663b54c3/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f5d36e2bac91bb43da5051fe60e9a8ad3285691/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/6449888cc0e453a3b24e088fb8ac8756663b54c3">fmsabatini/sPlotOpen_Manuscript@6449888</a>
-on November 18, 2020.
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/5f5d36e2bac91bb43da5051fe60e9a8ad3285691">fmsabatini/sPlotOpen_Manuscript@5f5d36e</a>
+on November 20, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <p><a href="https://orcid.org/0000-0002-7202-7697"><img src="images/orcid.svg" width="11" height="11" alt="ORCID icon" /></a>Francesco Maria Sabatini<sup>1,2,†</sup>,
@@ -960,9 +960,9 @@ This PC1-PC2 bidimensional space was subsequently used to balance our sampling e
 Before projecting vegetation plots from the sPlot database v2.1 onto this PC1-PC2 environmental space, we removed vegetation plots: from wetlands; from anthropogenic vegetation types; without geographical coordinates; and with a location uncertainty higher than 3 km for those having geographical coordinates.
 This led to a total of 799,400 out of the initial set of 1,121,244 vegetation plots.
 When projecting the 799,400 vegetation plots in the PC1-PC2 grid, we calculated how many vegetation plots occurred in each PC1-PC2 grid cell.
-For those grid cells with more than 50 vegetation plots (n = 858), we randomly selected up to 50 vegetation plots using the heterogeneity-constrained random resampling algorithm from Lengyel et al. (2011) [<span class="citation" data-cites="1696xA7Nc"><a href="#ref-1696xA7Nc" role="doc-biblioref">41</a></span>].
+For those grid cells with more than 50 vegetation plots (n = 858), we selected up to 50 vegetation plots using the heterogeneity-constrained random resampling algorithm from Lengyel et al. (2011) [<span class="citation" data-cites="1696xA7Nc"><a href="#ref-1696xA7Nc" role="doc-biblioref">41</a></span>].
 This approach optimizes the selection of a random subset of vegetation plots that encompasses the highest variability in species composition while avoiding peculiar and rare communities, which may represent outliers.
-We based the quantification of variability in plant species composition among the 50 randomly selected vegetation plots by computing the mean and the variance of the Jaccard’s dissimilarity index (<span class="citation" data-cites="ljgzJIj3"><a href="#ref-ljgzJIj3" role="doc-biblioref">42</a></span>) between all possible pairs of vegetation plots for a given random selection of 50 vegetation plots (n = 1225).
+We based the quantification of variability in plant species composition among the 50 randomly selected vegetation plots by computing the mean and the variance of the Jaccard’s dissimilarity index (<span class="citation" data-cites="lmizeS66"><a href="#ref-lmizeS66" role="doc-biblioref">42</a></span>) between all possible pairs of vegetation plots for a given random selection of 50 vegetation plots (n = 1225).
 More precisely, for a given PC1-PC2 grid cell containing more than 50 vegetation plots, we generated 1,000 random selections of 50 vegetation plots and ranked them according to the mean (ascending order) and variance (descending order) value.
 Ranks from both sortings were summed for each random selection, and the selection with the lowest summed rank was considered the most representative of the focal grid cell.
 In case a grid cell contained fewer than 50 plots, we retained all of them.
@@ -1338,11 +1338,11 @@ Attila Lengyel, Milan Chytrý, Lubomír Tichý<br />
 <em>Journal of Vegetation Science</em> (2011-02) <a href="https://doi.org/dvjzbz">https://doi.org/dvjzbz</a> <br />
 DOI: <a href="https://doi.org/10.1111/j.1654-1103.2010.01225.x">10.1111/j.1654-1103.2010.01225.x</a></p>
 </div>
-<div id="ref-ljgzJIj3">
-<p>42. <strong>The relationship between species replacement, dissimilarity derived from nestedness, and nestedness</strong> <br />
-Andrés Baselga<br />
-<em>Global Ecology and Biogeography</em> (2012-12) <a href="https://doi.org/gddc72">https://doi.org/gddc72</a> <br />
-DOI: <a href="https://doi.org/10.1111/j.1466-8238.2011.00756.x">10.1111/j.1466-8238.2011.00756.x</a></p>
+<div id="ref-lmizeS66">
+<p>42. <strong>THE DISTRIBUTION OF THE FLORA IN THE ALPINE ZONE.1</strong> <br />
+Paul Jaccard<br />
+<em>New Phytologist</em> (1912-02) <a href="https://doi.org/fvhsjd">https://doi.org/fvhsjd</a> <br />
+DOI: <a href="https://doi.org/10.1111/j.1469-8137.1912.tb05611.x">10.1111/j.1469-8137.1912.tb05611.x</a></p>
 </div>
 <div id="ref-kH3RyPni">
 <p>43. <strong>A leaf-height-seed (LHS) plant ecology strategy scheme</strong> <br />
