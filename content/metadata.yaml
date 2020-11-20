@@ -137,12 +137,14 @@ authors:
   - github: 
     name: Svetlana Aćić
     initials: SA
-    email: acic@agrif.bg.ac.rs
+    orcid: 0000-0001-6553-3797
+    email: acicsvetlana@gmail.com
     affiliations: 
-      - Faculty of Agriculture, Department of Agrobotany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia
+      - University of Belgrade, Faculty of Agriculture, Department of Botany, Nemanjina 6, 11080, Belgrade-Zemun, Serbia
   - github: 
-    name: Alicia Acosta
-    initials: AA
+    name: Alicia T.R. Acosta
+    initials: ATA
+    orcid: 0000-0001-6572-3187
     email: acosta@uniroma3.it
     affiliations: 
       - Roma Tre University, Department of Sciences, V.le Marconi 446, 00146, Rome, Italy
@@ -232,7 +234,7 @@ authors:
     initials: VB
     email: bondarevavictoria@yandex.ru
     affiliations: 
-      - Institute of Ecology of the Volga River Basin, Department of Phytodiversity Problems, Komzina, 10, 445003, Toljatty, Russia
+      - Institute of Ecology of the Volga River Basin, Department of Phytodiversity Problems, Komzina, 10, 445003, Toljatty, Russian Federation
   - github: 
     name: Jörg Brunet
     initials: JB
@@ -260,7 +262,7 @@ authors:
     orcid: 0000-0003-3562-2662
     email: luis.cayuela@urjc.es
     affiliations: 
-      - Universidad Rey Juan Carlos, Department of Biology and Geology, Physics and Inorganic Chemistry, c/ Tulipán s/n, 28933, Móstoles, Spain
+      - Universidad Rey Juan Carlos, Department of Biology and Geology, Physics and Inorganic Chemistry, c/ Tulipán s/n, 29833, Móstoles, Spain
   - github: 
     name: Tomáš Černý
     initials: TČ
@@ -292,6 +294,12 @@ authors:
     email: els.debie@inbo.be
     affiliations: 
       - Research Institute for Nature and Forest (INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium
+  - github: 
+    name: André Luis de Gasper
+    initials: ALDG
+    email: algasper@furb.br
+    affiliations: 
+      - Universidade Regional de Blumenau, Rua Antonio da Veiga, 140, Blumenau, 89030-903, Brazil
   - github: 
     name: Michele De Sanctis
     initials: MDS
@@ -366,13 +374,6 @@ authors:
     affiliations: 
       - Climpact Data Science (CDS), Nova Sophia - Regus Nova, 291 rue Albert Caquot, CS 40095, 06902, Sophia Antipolis Cedex, France
   - github: 
-    name: André Luis de Gasper
-    initials: ALDG
-    orcid: 0000-0002-1940-9581
-    email: algasper@furb.br
-    affiliations: 
-      - Regional University of Blumenau, Departament of Natural Science, Antonio da Veiga, 140, ​89030-903, Blumenau, Brazil
-  - github: 
     name: Hamid Gholizadeh
     initials: HG
     email: gholizadeh.hamid@gmail.com
@@ -390,7 +391,7 @@ authors:
     initials: VG
     email: vbgolub2000@mail.ru
     affiliations: 
-      - Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russia
+      - Institute of Ecology of the Volga River Basin, Laboratory of Phytocoenology, Komzina, 10, 445003, Toljatty, Russian Federation
   - github: 
     name: Inger Greve Alsos
     initials: IGA
@@ -425,12 +426,14 @@ authors:
       - Wageningen University, Plant Ecology and Nature Conservation Group - Environmental Sciences Department, P.O. Box Postbus 47, Droevendaalsesteeg 3, 6700 AA, Wageningen, The Netherlands
       - Tanta University, Botany and Microbiology Department - Faculty of Science, El Geish St., 31527, Tanta, Egypt
   - github: 
-    name: Bruno Herault
+    name: Bruno Hérault
     initials: BH
     orcid: 0000-0002-6950-7286
     email: bruno.herault@cirad.fr
     affiliations: 
-      - University of Montpellier, CIRAD, Forets et Sociétés, Montpellier, France
+      - CIRAD, UPR Forêts et Sociétés, Yamoussoukro, Ivory Coast
+      - University of Montpellier, Forêts et Sociétés, CIRAD, Montpellier, France
+      - INP-HB, Institut National Polytechnique Félix Houphouët-Boigny, Yamoussoukro, Côte d'Ivoire
   - github: 
     name: Guillermo Hinojos Mendoza
     initials: GHM
@@ -447,9 +450,10 @@ authors:
   - github: 
     name: Jürgen Homeier
     initials: JH
+    orcid: 0000-0001-5676-3267
     email: jhomeie@gwdg.de
     affiliations: 
-      - University of Göttingen, Plant Ecology and Ecosystems Research, Untere Karspüle 2, 37073, Göttingen, Germany
+      - University of Goettingen, Plant Ecology and Ecosystems Research, Untere Karspuele 2, 37073, Goettingen, Germany
   - github: 
     name: Wannes Hubau
     initials: WH
@@ -527,7 +531,7 @@ authors:
     orcid: 0000-0002-8937-5938
     email: khanina.larisa@gmail.com
     affiliations: 
-      - Institute of Mathematical Problems of Biology of Russian Academy of Sciences, Laboratory of Computational Ecology, Prof. Vitkevicha str., 142290, Pushchino, Russia
+      - Institute of Mathematical Problems of Biology of Russian Academy of Sciences, Laboratory of Computational Ecology, Prof. Vitkevicha str., 142290, Pushchino, Russian Federation
   - github: 
     name: Andrey Korolyuk
     initials: AK
@@ -570,9 +574,12 @@ authors:
   - github: 
     name: Tatiana Lysenko
     initials: TL
+    orcid: 0000-0001-6688-1590
     email: ltm2000@mail.ru
     affiliations: 
-      - Institute of Ecology of the Volga River Basin RAS, Dept. of the Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russia
+      - Komarov Botanical Institute RAS, Laboratory of Vegetation Science, Prof. Popov 2, 197376, Saint-Petersburg, Russian Federation
+      - Institute of Ecology of the Volga River Basin RAS - Branch of the Samara Scientific Center RAS, Laboratory of Phytodiversity Problems, Komzin str. 10, 445003, Togliatti, Russian Federation
+      - Tobolsk complex scientific station of Ural Branch RAS, Group of Ecology of Living Organisms, Academician Yu. Osipov str. 15, 626152, Tobolsk, Russian Federation
   - github: 
     name: Miguel D. Mahecha
     initials: MDM
@@ -591,7 +598,7 @@ authors:
     initials: VM
     email: vasmar@anrb.ru
     affiliations: 
-      - Ufa Institute of Biology of the Russian Academy of Sciences, October av. 69, 450054, Ufa, Russia
+      - Ufa Institute of Biology of the Russian Academy of Sciences, October av. 69, 450054, Ufa, Russian Federation
   - github: 
     name: Jesper Erenskjold Moeslund
     initials: JEM
@@ -618,7 +625,7 @@ authors:
     orcid: 0000-0001-5300-2702
     email: jerome.munzinger@ird.fr
     affiliations: 
-      - IRD, CIRAD, CNRS, INRA, Université Montpellier, AMAP - Botany and Modelling of Plant Architecture and Vegetation, Boulevard de la Lironde, 34398, Montpellier, France
+      - NA, AMAP, Université de Montpellier, CIRAD, CNRS, INRAE, IRD, 34000, Montpellier, France
   - github: 
     name: Alireza Naqinezhad
     initials: AN
@@ -637,7 +644,8 @@ authors:
     orcid: 0000-0001-8638-0208
     email: anowak@uni.opole.pl
     affiliations: 
-      - Polish Academy of Sciences, Botanical Garden - Center for Biological Diversity Conservation, Prawdziwka 2, 02-976, Warszawa, Poland
+      - Polish Academy of Sciences, Botanical Garden - Center for Biodiversity Conservation, Prawdziwka 2, 02-950, Warsaw, Poland
+      - University of Opole, Institute of Biology, Oleska St. 52, 45-052, Opole, Polska
   - github: 
     name: Viktor Onyshchenko
     initials: VO
@@ -657,7 +665,7 @@ authors:
     orcid: 0000-0003-1284-3163
     email: pauchard@udec.cl
     affiliations: 
-      - Universidad de Concepción, Laboratorio de Invasiones Biológicas (LIB). Facultad de Ciencias Forestales., Victoria 631, 4030000.0, Concepción, Chile
+      - Universidad de Concepción, Laboratorio de Invasiones Biológicas (LIB). Facultad de Ciencias Forestales., Victoria 631, 4030000, Concepción, Chile
       - Institute of Ecology and Biodiversity (IEB), Chile
   - github: 
     name: Robert K. Peet
@@ -698,7 +706,7 @@ authors:
     initials: VP
     email: vadim.prokhorov@gmail.com
     affiliations: 
-      - Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russia
+      - Kazan Federal University, Institute of Environmental Sciences, Kremlevskaya 18, 420008, Kazan, Russian Federation
   - github: 
     name: Valerijus Rašomavičius
     initials: VR
@@ -708,9 +716,11 @@ authors:
   - github: 
     name: Rasmus Revermann
     initials: RR
+    orcid: 0000-0002-7044-768X
     email: rasmus.revermann@posteo.de
     affiliations: 
-      - University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany
+      - University of Hamburg, Biodiversity, Ecology and Evolution of Plants/Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany
+      - Namibia University of Science and Technology, Faculty of Natural Resources and Spatial Sciences, Windhoek, Namibia
   - github: 
     name: Gonzalo Rivas-Torres
     initials: GR
@@ -733,9 +743,10 @@ authors:
   - github: 
     name: Solvita Rūsiņa
     initials: SR
+    orcid: 0000-0002-9580-4110
     email: rusina@lu.lv
     affiliations: 
-      - University of Latvia, Department of Geography, 1 Jelgavas Street, 1004, Riga, Latvia
+      - University of Latvia, Faculty of Geography and Earth Sciences, Jelgavas iela 1, LV 1004, Riga, Latvia
   - github: 
     name: Cyrus Samimi
     initials: CS
@@ -755,13 +766,13 @@ authors:
     orcid: 0000-0001-9053-8872
     email: f.i.schrodt@gmail.com
     affiliations: 
-      - University of Nottingham, School of Geography, University Park, NG7 2RD, Nottingham, UK
+      - University of Nottingham, School of Geography, University Park, NG7 2RD, Nottingham, United Kingdom
   - github: 
     name: Pavel Shirokikh
     initials: PS
     email: Shirpa@mail.ru
     affiliations: 
-      - Ufa Institute of biology – Subdivision of the Ufa Federal Research Centre of Russian Academy of Science, prospekt Oktyabrya, 450054, Ufa, Russia
+      - Ufa Institute of biology – Subdivision of the Ufa Federal Research Centre of Russian Academy of Science, prospekt Oktyabrya, 450054, Ufa, Russian Federation
   - github: 
     name: Jozef Šibík
     initials: JŠ
@@ -773,7 +784,7 @@ authors:
     name: Urban Šilc
     initials: UŠ
     orcid: 0000-0002-3052-699X
-    email: urban@zrc-sazu.si
+    email: urban.silc@zrc-sazu.si
     affiliations: 
       - Research Centre of Slovenian Academy of Sciences and Arts (ZRC SAZU), Institute of Biology, Novi trg 2, 1000, Ljubljana, Slovenia
   - github: 
@@ -807,7 +818,7 @@ authors:
     email: martagaia.sperandii@uniroma3.it
     affiliations: 
       - Università degli Studi Roma TRE, Dipartimento di Scienze, viale G.Marconi 446, 00146, Rome, Italy
-      - Centro de Investigaciones sobre Desertificación (CSIC‐UV‐GV), Carretera Moncada‒Náquera km 4.5, 46113.0, Moncada (Valencia), Spain
+      - Centro de Investigaciones sobre Desertificación (CSIC‐UV‐GV), Carretera Moncada‒Náquera km 4.5, 46113, Moncada (Valencia), Spain
   - github: 
     name: Zvjezdana Stančić
     initials: ZS
@@ -939,9 +950,10 @@ authors:
   - github: 
     name: Wolfgang Willner
     initials: WW
-    email: wolfgang.willner@vinca.at
+    orcid: 0000-0003-1591-8386
+    email: wolfgang.willner@univie.ac.at
     affiliations: 
-      - Vienna Institute for Nature Conservation & Analyses, Giessergasse 6/7, 1090, Vienna, Austria
+      - University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria
   - github: 
     name: Susan Wiser
     initials: SW
@@ -960,7 +972,7 @@ authors:
     initials: SY
     email: yamalovsm@mail.ru
     affiliations: 
-      - Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russia
+      - Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russian Federation
   - github: 
     name: Martin Zobel
     initials: MZ
