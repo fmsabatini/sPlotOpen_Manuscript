@@ -359,6 +359,13 @@ authors:
     affiliations: 
       - University of Hamburg, Biodiversity, Ecology and Evolution of Plants, Institute for Plant Science & Microbiology, Ohnhorststr. 18, 22609, Hamburg, Germany
   - github: 
+    name: Sophie Gachet
+    initials: SG
+    orcid: 0000-0002-3599-5189
+    email: sophie.gachet@imbe.fr
+    affiliations: 
+      - NA, Aix Marseille Univ, Avignon Université, CNRS, IRD, IMBE, Campus St-Jérôme Etoile, 13397.0, Marseille, France
+  - github: 
     name: Antonio Galán-de-Mera
     initials: AG
     orcid: 0000-0002-1652-5931
@@ -404,6 +411,13 @@ authors:
     email: grytnes@uib.no
     affiliations: 
       - University of Bergen, Department of Biological Sciences, Postbox 7803
+  - github: 
+    name: Gregory Richard Guerin
+    initials: GRG
+    orcid: 0000-0002-2104-6695
+    email: greg.guerin@adelaide.edu.au
+    affiliations: 
+      - University of Adelaide, School of Biological Sciences, North Terrace, 5005.0, Adelaide, Australia
   - github: 
     name: Alvaro G. Gutierrez
     initials: AGG
@@ -505,6 +519,13 @@ authors:
     affiliations: 
       - Norwegian Institute of Bioeconomy Research, Holtvegen, 66, Tromsø, 9016, Norway
   - github: 
+    name: Dirk Nikolaus Karger
+    initials: DNK
+    orcid: 0000-0001-7770-6229
+    email: dirk.karger@wsl.ch
+    affiliations: 
+      - Swiss Federal Institute for Forest, Snow and Landscape Research WSL , Biodiversity and Conservation Biology, Zürcherstrasse 111, 8903.0, Birmensdorf, Switzerland
+  - github: 
     name: Ali Kavgacı
     initials: AK
     orcid: 0000-0002-4549-3668
@@ -565,6 +586,13 @@ authors:
     email: flavia.landucci@gmail.com
     affiliations: 
       - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
+  - github: 
+    name: Attila Lengyel
+    initials: AL
+    orcid: 0000-0002-1712-6748
+    email: lengyel.attila@ecolres.hu
+    affiliations: 
+      - Centre for Ecological Research, Institute of Ecology and Botany, Alkotmány u. 2-4., 2163.0, Vácrátót, Hungary
   - github: 
     name: Hongyan Liu
     initials: HL
@@ -660,6 +688,13 @@ authors:
     affiliations: 
       - Universidade Federal do Rio Grande do Sul, Department of Botany, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil
   - github: 
+    name: Meelis Pärtel
+    initials: MP
+    orcid: 0000-0002-5874-0138
+    email: meelis.partel@ut.ee
+    affiliations: 
+      - University of Tartu, Institute of Ecology and Earth Sciences, Lai 40, 51005.0, Tartu, Estonia
+  - github: 
     name: Aníbal Pauchard
     initials: AP
     orcid: 0000-0003-1284-3163
@@ -673,6 +708,14 @@ authors:
     email: peet@unc.edu
     affiliations: 
       - University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States
+  - github: 
+    name: Josep Penuela
+    initials: JP
+    orcid: 0000-0002-7215-0150
+    email: josep.penuelas@uab.cat
+    affiliations: 
+      - CSIC, Global Ecology Unit CSIC-CREAF-UAB, Edifici C, Campus UAB, 08193, Bellaterra, Spain
+      - CREAF, Edifici C, 08193, Cerdanyola del Valles, Espanya
   - github: 
     name: Aaron Pérez-Haase
     initials: AP
