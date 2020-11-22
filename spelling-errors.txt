@@ -755,7 +755,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
@@ -805,7 +805,7 @@ Varaždin
 Vasiliy
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
