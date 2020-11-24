@@ -75,6 +75,7 @@ Bie
 BIEN
 bioclimatic
 BIOCON
+Biodiversa
 Bioeconomy
 Biogeochemistry
 Biogeography
@@ -153,6 +154,7 @@ Chuvashov
 Chytrý
 Ciencias
 CIRAD
+ClimEx
 Climpact
 Cluj
 CN
@@ -160,6 +162,8 @@ CNPq
 CNRS
 COCIBA
 CoenoDat
+COFUND
+COMECO
 Concepción
 CONICET
 CONICYT
@@ -249,11 +253,13 @@ Etoile
 EUNIS
 Evapotranspiration
 Ewald
+exCHELSA
 Ezeru
 Fabio
 Facultad
 Fahmida
 Fanelli
+FeedBaCks
 Félix
 Feng
 Fengjun
@@ -278,6 +284,7 @@ FS
 Fu
 Fundación
 fundings
+Futureweb
 FVDT
 FZT
 Gachet
@@ -624,10 +631,11 @@ RAS
 Rasmus
 Rašomavičius
 RData
+recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -635,7 +643,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -704,6 +712,7 @@ Sopotlieva
 sortings
 Soutwest
 spatiotemporal
+SPEEDMIND
 Sperandii
 sPlot
 sPlotOpen
@@ -714,7 +723,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 Studi
@@ -755,7 +764,7 @@ Togliatti
 Toljatty
 Tomáš
 Transilvania
-Tre
+TRE
 Trebon
 trg
 Triesdorf
@@ -778,7 +787,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -805,7 +814,7 @@ Varaždin
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
