@@ -364,7 +364,7 @@ authors:
     orcid: 0000-0002-3599-5189
     email: sophie.gachet@imbe.fr
     affiliations: 
-      - NA, Aix Marseille Univ, Avignon Université, CNRS, IRD, IMBE, Campus St-Jérôme Etoile, 13397.0, Marseille, France
+      - Aix Marseille Univ, Avignon Université, CNRS, IRD, IMBE, Campus St-Jérôme Etoile, 13397, Marseille, France
   - github: 
     name: Antonio Galán-de-Mera
     initials: AG
@@ -417,7 +417,7 @@ authors:
     orcid: 0000-0002-2104-6695
     email: greg.guerin@adelaide.edu.au
     affiliations: 
-      - University of Adelaide, School of Biological Sciences, North Terrace, 5005.0, Adelaide, Australia
+      - University of Adelaide, School of Biological Sciences, North Terrace, 5005, Adelaide, Australia
   - github: 
     name: Alvaro G. Gutierrez
     initials: AGG
@@ -428,9 +428,11 @@ authors:
   - github: 
     name: Sylvia Haider
     initials: SH
+    orcid: 0000-0002-2966-0534
     email: sylvia.haider@botanik.uni-halle.de
     affiliations: 
-      - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
+      - Martin Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Mohamed Z. Hatim
     initials: MZH
@@ -524,7 +526,7 @@ authors:
     orcid: 0000-0001-7770-6229
     email: dirk.karger@wsl.ch
     affiliations: 
-      - Swiss Federal Institute for Forest, Snow and Landscape Research WSL , Biodiversity and Conservation Biology, Zürcherstrasse 111, 8903.0, Birmensdorf, Switzerland
+      - Swiss Federal Institute for Forest, Snow and Landscape Research WSL , Biodiversity and Conservation Biology, Zürcherstrasse 111, 8903, Birmensdorf, Switzerland
   - github: 
     name: Ali Kavgacı
     initials: AK
@@ -552,7 +554,7 @@ authors:
     orcid: 0000-0002-8937-5938
     email: khanina.larisa@gmail.com
     affiliations: 
-      - Institute of Mathematical Problems of Biology of Russian Academy of Sciences, Laboratory of Computational Ecology, Prof. Vitkevicha str., 142290, Pushchino, Russian Federation
+      - branch of the M.V. Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Institute of Mathematical Problems of Biology of RAS, 1 Prof. Vitkevich, 142290.0, Pushchino, Russia
   - github: 
     name: Andrey Korolyuk
     initials: AK
@@ -576,9 +578,10 @@ authors:
   - github: 
     name: Anna Kuzemko
     initials: AK
+    orcid: 0000-0002-9425-2756
     email: anyameadow.ak@gmail.com
     affiliations: 
-      - M.G. Kholodny Institute of Botany NAS of Ukraine, Geobotany and Ecology, Tereshchenkivska 2, 01601, Kyiv, Ukraine
+      - M.G. Kholodny Institute of Botany of the National Academy of Sciences of Ukraine, Department of Geobotany and Ecology, 2, Tereshchenkivska str., 01601, Kyiv, Ukraine
   - github: 
     name: Flavia Landucci
     initials: FL
@@ -592,7 +595,14 @@ authors:
     orcid: 0000-0002-1712-6748
     email: lengyel.attila@ecolres.hu
     affiliations: 
-      - Centre for Ecological Research, Institute of Ecology and Botany, Alkotmány u. 2-4., 2163.0, Vácrátót, Hungary
+      - Centre for Ecological Research, Institute of Ecology and Botany, Alkotmány u. 2-4., 2163, Vácrátót, Hungary
+  - github: 
+    name: Frederic Lens
+    initials: FL
+    orcid: 0000-0002-5001-0149
+    email: frederic.lens@naturalis.nl
+    affiliations: 
+      - Naturalis Biodiversity Center, Research Group Functional Traits, Darwinweg 2, 2333 CR, Leiden, The Netherlands
   - github: 
     name: Hongyan Liu
     initials: HL
@@ -653,7 +663,7 @@ authors:
     orcid: 0000-0001-5300-2702
     email: jerome.munzinger@ird.fr
     affiliations: 
-      - NA, AMAP, Université de Montpellier, CIRAD, CNRS, INRAE, IRD, 34000, Montpellier, France
+      - AMAP, Université de Montpellier, CIRAD, CNRS, INRAE, IRD, 34000, Montpellier, France
   - github: 
     name: Alireza Naqinezhad
     initials: AN
@@ -693,7 +703,7 @@ authors:
     orcid: 0000-0002-5874-0138
     email: meelis.partel@ut.ee
     affiliations: 
-      - University of Tartu, Institute of Ecology and Earth Sciences, Lai 40, 51005.0, Tartu, Estonia
+      - University of Tartu, Institute of Ecology and Earth Sciences, Lai 40, 51005, Tartu, Estonia
   - github: 
     name: Aníbal Pauchard
     initials: AP
@@ -776,7 +786,7 @@ authors:
     initials: JSR
     email: johnrodwell@tiscali.co.uk
     affiliations: 
-      - NA, 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
+      - 7 Derwent Road, LA1 3ES, Lancaster, United Kingdom
   - github: 
     name: Eszter Ruprecht
     initials: ER
@@ -860,8 +870,8 @@ authors:
     orcid: 0000-0002-2507-5928
     email: martagaia.sperandii@uniroma3.it
     affiliations: 
-      - Università degli Studi Roma TRE, Dipartimento di Scienze, viale G.Marconi 446, 00146, Rome, Italy
-      - Centro de Investigaciones sobre Desertificación (CSIC‐UV‐GV), Carretera Moncada‒Náquera km 4.5, 46113, Moncada (Valencia), Spain
+      - Roma Tre University, Department of Sciences, V.le Marconi 446, 00146, Rome, Italy
+      - CSIC‐UV‐GV, Centro de Investigaciones sobre Desertificación, Carretera Moncada‒Náquera km 4.5, 46113.0, Moncada (Valencia), Spain
   - github: 
     name: Zvjezdana Stančić
     initials: ZS
