@@ -187,7 +187,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -483,6 +483,7 @@ Liebig
 Liu
 Louvels
 LTAUSA
+Luís
 Lüneburg
 l’Université
 LV
@@ -809,6 +810,7 @@ Valério
 Valles
 Vanselow
 Varaždin
+Vashenyak
 Vasiliy
 Vassilev
 VegBank
@@ -864,6 +866,7 @@ WSL
 Yamalov
 Yiheyuan
 Yu
+Yulia
 yyyy
 Zaliuju
 Željko
