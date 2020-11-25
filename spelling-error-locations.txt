@@ -58,6 +58,8 @@ content/03.Methods.md:17:SOILGRIDS
 content/03.Methods.md:20:PCA
 content/03.Methods.md:21:arcmin
 content/03.Methods.md:21:sPlot
+content/03.Methods.md:22:limitedly
+content/03.Methods.md:22:PCA
 content/03.Methods.md:23:bidimensional
 content/03.Methods.md:24:anthropogenic
 content/03.Methods.md:24:sPlot

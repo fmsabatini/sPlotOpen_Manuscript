@@ -187,7 +187,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -480,6 +480,7 @@ Leuphana
 Leuvensesteenweg
 Levesley
 Liebig
+limitedly
 Liu
 Louvels
 LTAUSA
@@ -636,7 +637,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -644,7 +645,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -723,7 +724,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -786,7 +787,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -814,7 +815,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
