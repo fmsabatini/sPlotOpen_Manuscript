@@ -82,7 +82,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -506,6 +506,7 @@ Marseille
 Marticorena
 Martynenko
 Mathar
+maximises
 Mazandaran
 McLaren
 Meelis
@@ -636,7 +637,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 Renata
 Renmin
 Rennweg
@@ -723,7 +724,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
