@@ -33,7 +33,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -83,7 +83,7 @@ Biología
 Biológicas
 biologie
 Biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -449,6 +449,7 @@ Kolomiychuk
 Komarov
 Komzin
 Komzina
+Körner
 Korolyuk
 Kotlářská
 Kozhevnikova
@@ -546,7 +547,6 @@ Nikolaus
 NL
 Nobis
 nomenclatural
-nonforest
 Noranda
 Noroozi
 Novi
@@ -645,7 +645,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -787,7 +787,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -815,7 +815,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
