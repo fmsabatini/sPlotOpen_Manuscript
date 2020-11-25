@@ -336,6 +336,7 @@ content/07.Acknowledgements_et_al.md:42:JK
 content/07.Acknowledgements_et_al.md:42:JL
 content/07.Acknowledgements_et_al.md:42:JL
 content/07.Acknowledgements_et_al.md:42:resampling
+content/07.Acknowledgements_et_al.md:42:resampling
 content/07.Acknowledgements_et_al.md:42:SMH
 content/07.Acknowledgements_et_al.md:42:sPlot
 content/07.Acknowledgements_et_al.md:42:sPlot
