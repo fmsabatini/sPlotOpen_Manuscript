@@ -158,7 +158,7 @@
   <meta name="author" content="Sergey Yamalov" />
   <meta name="author" content="Martin Zobel" />
   <meta name="author" content="Helge Bruelheide" />
-  <meta name="dcterms.date" content="2020-11-24" />
+  <meta name="dcterms.date" content="2020-11-25" />
   <meta name="keywords" content="vegetation, database, plants, biodiversity, functional traits, big-data, manubot" />
   <title>sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots</title>
   <style>
@@ -181,8 +181,8 @@
   <meta name="citation_title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="og:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="twitter:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
-  <meta name="dc.date" content="2020-11-24" />
-  <meta name="citation_publication_date" content="2020-11-24" />
+  <meta name="dc.date" content="2020-11-25" />
+  <meta name="citation_publication_date" content="2020-11-25" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -607,9 +607,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/06a37cc977cec76ce7cf0a14dfe297d6bda71dfc/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/06a37cc977cec76ce7cf0a14dfe297d6bda71dfc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/06a37cc977cec76ce7cf0a14dfe297d6bda71dfc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f378da745c6550412ab5c04f4c6aa9b0189ba8e/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f378da745c6550412ab5c04f4c6aa9b0189ba8e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f378da745c6550412ab5c04f4c6aa9b0189ba8e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -631,10 +631,10 @@
 <p><em>This manuscript is still work in progress</em></p>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/06a37cc977cec76ce7cf0a14dfe297d6bda71dfc/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5f378da745c6550412ab5c04f4c6aa9b0189ba8e/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/06a37cc977cec76ce7cf0a14dfe297d6bda71dfc">fmsabatini/sPlotOpen_Manuscript@06a37cc</a>
-on November 24, 2020.
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/5f378da745c6550412ab5c04f4c6aa9b0189ba8e">fmsabatini/sPlotOpen_Manuscript@5f378da</a>
+on November 25, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <p><a href="https://orcid.org/0000-0002-7202-7697"><img src="images/orcid.svg" width="11" height="11" alt="ORCID icon" /></a>Francesco Maria Sabatini<sup>1,2,†</sup>,
@@ -957,13 +957,16 @@ Martin Zobel<sup>159</sup>,
 </ol>
 <p></small></p>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
-<p>Vegetation provides the foundation of life on Earth.
-Assessing biodiversity status and trends in plant communities is therefore critical to understand, quantify and predict the effects of global change on ecosystems.
-Here, we present the largest open-access dataset of vegetation plots (i.e. plant species co-occurrence or community composition data) ever released.
-It contains information on 91,205 vegetation plots recording the cover or abundance of each vascular plant species that occurs in a plot of a given surface area at the date of the inventory.
-Plots were aggregated from 104 local to regional datasets. To improve the representation of Earth’s environmental conditions, plots were resampled from a larger pool of 1.1 million vegetation plots using an environmentally stratified sampling design.
-Each vegetation plot comes with data on species composition, environmental information and plant functional traits.<br />
-Our open-access dataset can be used to explore global patterns of diversity at the plant community level, as ground truthing data in remote sensing applications or as a baseline for biodiversity monitoring.</p>
+<p>Assessing biodiversity status and trends in plant communities is critical for understanding, quantifying and predicting effects of global change on ecosystems.
+Vegetation plots record plant species occurrence or abundance (community composition) data – including both absences and presences, allowing analyses not possible with presence-only data.
+Recently the first global vegetation plot database was compiled (‘sPlot’).
+However, this large dataset is environmentally and spatially unbalanced, and not open-access.
+We address both issues by (a) resampling the vegetation plots using a novel algorithm;
+(b) securing permission to openly release data from the holders of 104 specific datasets.
+We present the largest open-access vegetation plot dataset ever released: 91,205 plots globally, recording abundance of each vascular plant species (total 39,997 taxa).
+Values for 18 traits are provided per species, and community-weighted mean and variance per plot.
+Plot-level data include location, date, size, biome, elevation, aspect, vegetation type and naturalness.
+The dataset can be used to explore plant community diversity patterns globally, as ground truthing data in remote sensing applications or as baselines for biodiversity monitoring.</p>
 <h2 class="page_break_before" id="background-summary">Background &amp; Summary</h2>
 <p>Biodiversity is facing a global crisis.
 As many as 1 million species are currently threatened with extinction, the vast majority due to anthropogenic impacts such as land-use and climate change (<span class="citation" data-cites="ujOAXFXq"><a href="#ref-ujOAXFXq" role="doc-biblioref">1</a></span>, <span class="citation" data-cites="132jf8ZRt"><a href="#ref-132jf8ZRt" role="doc-biblioref">2</a></span>).
