@@ -33,7 +33,7 @@ Anke
 ANR
 Antalya
 Anthropisés
-Anthropogenic
+anthropogenic
 Antipolis
 Apostolova
 AQP
@@ -187,7 +187,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -268,7 +268,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -724,7 +724,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -787,7 +787,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -815,7 +815,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
