@@ -637,7 +637,8 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
+relevés
 Renata
 Renmin
 Rennweg
@@ -645,7 +646,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -787,7 +788,7 @@ ukasz
 Ulan
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
