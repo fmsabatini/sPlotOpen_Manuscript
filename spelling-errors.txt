@@ -186,7 +186,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -221,7 +221,6 @@ Dukelska
 Dynamique
 Dziuba
 Eckert
-Ecoinformatics
 ECOLOGÍA
 Ecologie
 Ecotone
@@ -289,6 +288,7 @@ Galán
 Garbolino
 García
 Gasper
+gata
 GBIF
 GDD
 Geish
@@ -313,6 +313,7 @@ Golub
 Gonçalves
 Gorica
 Görlitz
+Gothenburg
 Göttingen
 Grande
 Grandpré
@@ -702,6 +703,7 @@ Silviculture
 Sirul
 SIVIM
 Sklenář
+Skottsbergs
 Škvorc
 SMH
 Smyth
@@ -727,7 +729,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -795,6 +797,7 @@ Unité
 Universidad
 Universidade
 Università
+Universitaetsstr
 Universität
 Universitätsallee
 Universitätsstr
@@ -818,7 +821,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
