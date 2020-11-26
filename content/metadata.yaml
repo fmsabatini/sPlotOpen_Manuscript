@@ -741,6 +741,12 @@ authors:
     affiliations: 
       - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
+    name: Petr Petřík
+    initials: PP
+    email: petr.petrik@ibot.cas.cz
+    affiliations: 
+      - The Czech Academy of Sciences, Department of GIS and Remote Sensing, Institute of Botany, Zámek 1, 252 43, Průhonice, Czech Republic
+  - github: 
     name: Gwendolyn Peyre
     initials: GP
     orcid: 0000-0002-1977-7181
