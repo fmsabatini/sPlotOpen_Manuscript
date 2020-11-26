@@ -470,9 +470,8 @@ content/91.ManubotTables.md:42:Landucci
 content/91.ManubotTables.md:42:VegItaly
 content/91.ManubotTables.md:42:Venanzoni
 content/91.ManubotTables.md:43:Angelini
-content/91.ManubotTables.md:43:BVN
 content/91.ManubotTables.md:43:Casella
-content/91.ManubotTables.md:43:ISPRA
+content/91.ManubotTables.md:43:HabItAlp
 content/91.ManubotTables.md:43:Pierangela
 content/91.ManubotTables.md:44:Agrillo
 content/91.ManubotTables.md:44:Attorre

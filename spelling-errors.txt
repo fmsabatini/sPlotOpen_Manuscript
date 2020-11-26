@@ -124,7 +124,6 @@ Brody
 Bruelheide
 bryophytes
 Büsgenweg
-BVN
 Caledonian
 Caquot
 Carlowitz
@@ -305,7 +304,6 @@ Gerhard
 Gholizadeh
 Gianmaria
 Giorgis
-GIS
 giugno
 Giuliano
 GIVD
@@ -330,6 +328,7 @@ GV
 GVID
 GVRD
 Haase
+HabItAlp
 Haider
 Haikou
 Hainan
@@ -597,7 +596,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -728,7 +727,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
