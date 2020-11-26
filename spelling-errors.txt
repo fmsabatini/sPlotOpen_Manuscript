@@ -187,7 +187,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -305,6 +305,7 @@ Gerhard
 Gholizadeh
 Gianmaria
 Giorgis
+GIS
 giugno
 Giuliano
 GIVD
@@ -592,10 +593,11 @@ Perugia
 Peterka
 Petersburg
 Petr
+Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -620,6 +622,7 @@ Privada
 programme
 Prokhorov
 prospekt
+Průhonice
 publ
 Purschke
 Puschstrasse
@@ -637,7 +640,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 Renmin
@@ -646,7 +649,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -725,7 +728,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -871,6 +874,7 @@ Yu
 Yulia
 yyyy
 Zaliuju
+Zámek
 Željko
 Zemun
 Zhao
