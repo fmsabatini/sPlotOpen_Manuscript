@@ -640,7 +640,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 Renmin
@@ -649,7 +649,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -728,7 +728,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -819,7 +819,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
