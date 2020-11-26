@@ -76,7 +76,7 @@ authors:
     initials: SMH
     email: stephan.hennekens@wur.nl
     affiliations: 
-      - Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands
+      - Wageningen Environmental Research, P.O.Box 47, 6700 AA, Wageningen, Netherlands
   - github: 
     name: Ute Jandt
     initials: UJ
@@ -743,9 +743,10 @@ authors:
   - github: 
     name: Petr Petřík
     initials: PP
+    orcid: 0000-0001-8518-6737
     email: petr.petrik@ibot.cas.cz
     affiliations: 
-      - The Czech Academy of Sciences, Department of GIS and Remote Sensing, Institute of Botany, Zámek 1, 252 43, Průhonice, Czech Republic
+      - Czech Academy of Sciences, Department of vegetation ecology, Institute of Botany, Zámek 1, 25243, Průhonice, Czech Republic
   - github: 
     name: Gwendolyn Peyre
     initials: GP
