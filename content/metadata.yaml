@@ -219,9 +219,11 @@ authors:
   - github: 
     name: Anne D. Bjorkman
     initials: ADB
+    orcid: 0000-0003-2174-7800
     email: annebj@gmail.com
     affiliations: 
-      - Aarhus University, Section for Ecoinformatics & Biodiversity, Department of Bioscience, Ny Munkegade 114, 8000, Aarhus C, Denmark
+      - University of Gothenburg, Department of Biological and Environmental Sciences, Carl Skottsbergs gata 22B, 41319, Gothenburg, Sweden
+      - Gothenburg Global Biodiversity Centre, Carl Skottsbergs gata 22B, 41319, Gothenburg, Sweden
   - github: 
     name: Gianmaria Bonari
     initials: GB
@@ -498,9 +500,10 @@ authors:
   - github: 
     name: Anke Jentsch
     initials: AJ
+    orcid: 0000-0002-2345-8300
     email: anke.jentsch@uni-bayreuth.de
     affiliations: 
-      - University of Bayreuth, Department of Disturbance Ecology, Universitätsstr. 30, 95447, Bayreuth, Germany
+      - University of Bayreuth, Disturbance Ecology, Bayreuth Center of Ecology and Environmental Research, Universitaetsstr. 30, 95447, Bayreuth, Germany
   - github: 
     name: Norbert Jürgens
     initials: NJ
