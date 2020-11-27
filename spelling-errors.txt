@@ -186,7 +186,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -266,7 +266,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -597,7 +597,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -649,7 +649,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
