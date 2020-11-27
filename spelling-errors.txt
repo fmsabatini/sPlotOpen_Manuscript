@@ -82,7 +82,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -640,7 +640,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 Renmin
@@ -683,7 +683,6 @@ Schaminée
 Schmiedel
 Schrodt
 sDiv
-selectionwere
 Senckenberg
 Sergey
 Sète
@@ -729,7 +728,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
