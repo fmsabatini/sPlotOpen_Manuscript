@@ -1,12 +1,10 @@
 Aarhus
 Aavik
-Ababa
 Abd
 Abitibi
 Acad
 Aćić
 Acknowledgements
-Addis
 AEKOS
 Agrillo
 Agronomicas
@@ -31,7 +29,6 @@ Angelini
 Aníbal
 Anke
 ANR
-Antalya
 Anthropisés
 anthropogenic
 Antipolis
@@ -43,7 +40,6 @@ Arfin
 Arhimedova
 Arkadiusz
 Armin
-Arnst
 Arvid
 ASES
 Attorre
@@ -51,7 +47,6 @@ Aubenas
 Aubin
 Babolsar
 BACI
-Batorskaya
 Bauters
 BayCEER
 BBVA
@@ -83,7 +78,7 @@ Biología
 Biológicas
 biologie
 Biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -237,6 +232,7 @@ Emiliano
 Engenharia
 enology
 Enquist
+EPHE
 ERC
 Erenskjold
 Erlangen
@@ -266,11 +262,12 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
 ForestPlots
+Foresty
 Forêts
 Fotiadis
 Francesco
@@ -381,7 +378,6 @@ Inger
 INP
 INRAE
 INRES
-Insitute
 Institut
 Instituto
 Invasiones
@@ -426,10 +422,13 @@ Jutta
 Kącki
 Kaitoväylä
 Kamal
+Kampüsü
 Kamýcká
 Kapfer
+Karabuk
 Karger
 Karlrobert
+Karsi
 Karspuele
 Karspüle
 Karsten
@@ -441,6 +440,7 @@ Kessler
 Kew
 Khanina
 Kholodny
+Kilavuzlar
 Killeen
 Kirchtor
 Kiril
@@ -453,6 +453,7 @@ Komzina
 Körner
 Korolyuk
 Kotlářská
+Köyü
 Kozhevnikova
 Kozub
 Kreft
@@ -516,6 +517,7 @@ Meelis
 Meilan
 Mende
 Mera
+Merkez
 midlatitudes
 Mieres
 Mijangos
@@ -561,6 +563,7 @@ Onyshchenko
 Opole
 ORSP
 Osipov
+Öte
 Oulu
 Overbeck
 overrepresented
@@ -610,7 +613,6 @@ PlantHub
 Platz
 plotID
 PlotObservationID
-POB
 Polska
 Polytechnique
 Popov
@@ -693,7 +695,6 @@ Shirokikh
 Shixun
 Shrubland
 Šibík
-Sidist
 Sieg
 Sienkiewicza
 Siesmayerstraße
@@ -707,7 +708,6 @@ Skottsbergs
 SMH
 Smyth
 sobre
-Sochava
 Sociétés
 Socotra
 SOILGRIDS
@@ -715,7 +715,6 @@ Solvita
 SOPHY
 Sopotlieva
 sortings
-Soutwest
 spatiotemporal
 SPEEDMIND
 Sperandii
@@ -788,10 +787,9 @@ UFZ
 UGent
 UiT
 ukasz
-Ulan
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -801,6 +799,7 @@ Universität
 Universitätsallee
 Universitätsstr
 Université
+Üniversite
 Untere
 UO
 Uogintas
@@ -813,6 +812,7 @@ Vadim
 Valachovič
 Valerijus
 Valério
+Valéry
 Valles
 Vanselow
 Varaždin
@@ -820,7 +820,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
