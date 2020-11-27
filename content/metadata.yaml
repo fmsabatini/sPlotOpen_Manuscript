@@ -38,12 +38,6 @@ authors:
     affiliations: 
       - MARBEC, University of Montpellier, CNRS, IFREMER and IRD, Sète, France
   - github: 
-    name: Elise Arnst
-    initials: EA
-    email: nvs@landcareresearch.co.nz
-    affiliations: 
-      - Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
-  - github: 
     name: Milan Chytrý
     initials: MC
     orcid: 0000-0002-8122-3075
@@ -277,7 +271,7 @@ authors:
     orcid: 0000-0003-3809-7453
     email: victor.chepinoga@gmail.com
     affiliations: 
-      - V.B. Sochava Insitute of Geography SB RAS, Laboratory of Physical Geography and Biogeography, Ulan-Batorskaya, 1, 664033, Irkutsk, Russian Federation
+      - Central Siberian Botanical Garden SB RAS, Zolotodolinskaya Str. 101, 630090, Novosibirsk, Russian Federation
   - github: 
     name: János Csiky
     initials: JC
@@ -536,7 +530,7 @@ authors:
     orcid: 0000-0002-4549-3668
     email: alikavgaci1977@yahoo.com
     affiliations: 
-      - Soutwest Anatolia Forest Research Institute, Silviculture and Forest Botany, POB 264, 07002, Antalya, Turkey
+      - Karabuk University, Faculty of Foresty, Kilavuzlar Köyü Öte Karsi Üniversite Kampüsü Merkez, 78050, Karabuk, Turkey
   - github: 
     name: Elizabeth Kearsley
     initials: EK
@@ -639,7 +633,7 @@ authors:
     initials: VM
     email: vasmar@anrb.ru
     affiliations: 
-      - Ufa Institute of Biology of the Russian Academy of Sciences, October av. 69, 450054, Ufa, Russian Federation
+      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
   - github: 
     name: Jesper Erenskjold Moeslund
     initials: JEM
@@ -835,7 +829,7 @@ authors:
     initials: PS
     email: Shirpa@mail.ru
     affiliations: 
-      - Ufa Institute of biology – Subdivision of the Ufa Federal Research Centre of Russian Academy of Science, prospekt Oktyabrya, 450054, Ufa, Russian Federation
+      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
   - github: 
     name: Jozef Šibík
     initials: JŠ
@@ -956,7 +950,7 @@ authors:
     initials: CV
     email: cyrille.violle@cefe.cnrs.fr
     affiliations: 
-      - CNRS, UMR 5175 CEFE, 1919 route de Mende, 34293, Montpellier, France
+      - Univ Montpellier, CNRS, EPHE, IRD, Univ Paul Valéry Montpellier 3, CEFE, 1919 route de Mende, 34293, Montpellier, France
   - github: 
     name: Risto Virtanen
     initials: RV
@@ -985,12 +979,6 @@ authors:
     affiliations: 
       - University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States
   - github: 
-    name: Desalegn Wana
-    initials: DW
-    email: deswana2002@yahoo.com
-    affiliations: 
-      - Addis Ababa University, Department of Geography & Environmental Studies, Sidist Kilo SQ, 150178, Addis Ababa, Ethiopia
-  - github: 
     name: Hua-Feng Wang
     initials: HW
     email: wanghuafeng2012@foxmail.com
@@ -1018,8 +1006,8 @@ authors:
     affiliations: 
       - University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria
   - github: 
-    name: Susan Wiser
-    initials: SW
+    name: Susan K. Wiser
+    initials: SKW
     orcid: 0000-0002-8938-8181
     email: wisers@landcareresearch.co.nz
     affiliations: 
@@ -1027,9 +1015,10 @@ authors:
   - github: 
     name: Thomas Wohlgemuth
     initials: TW
+    orcid: 0000-0002-4623-0894
     email: thomas.wohlgemuth@wsl.ch
     affiliations: 
-      - Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Research Unit Forest Dynamics, Zürcherstrasse 111, 8903, Birmensdorf, Switzerland
+      - Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Forest Dynamics, Zürcherstrasse 111, CH-8909, Birmensdorf, Switzerland
   - github: 
     name: Sergey Yamalov
     initials: SY
