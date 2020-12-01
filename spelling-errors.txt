@@ -45,6 +45,8 @@ ASES
 Attorre
 Aubenas
 Aubin
+Autonoma
+Autónoma
 Babolsar
 BACI
 Bauters
@@ -76,8 +78,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
-Biomes
+biome
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -97,6 +99,7 @@ Blumenau
 BMBF
 Boadilla
 Boigny
+Bolognesi
 Bolyai
 Bolzano
 Bonari
@@ -108,6 +111,7 @@ Boreal
 Borgo
 Borja
 Botánica
+Botánico
 Botta
 boul
 Bozen
@@ -200,6 +204,7 @@ DeWalt
 DFG
 Dickoré
 Dimopoulos
+Dirección
 DIVERSITAS
 d’Ivoire
 DK
@@ -345,6 +350,7 @@ Herbario
 Herbarium
 Herzog
 Hinojos
+Historia
 Hjalmar
 Hochschule
 Holger
@@ -395,6 +401,7 @@ Jalil
 Jandt
 János
 Janssen
+Jardín
 Jedrzejek
 Jelgavas
 Jena
@@ -435,6 +442,7 @@ Kattge
 Kavgac
 Kearsley
 Keldysh
+Kempff
 Kessler
 Kew
 Khanina
@@ -488,6 +496,7 @@ LTAUSA
 Luís
 Lüneburg
 l’Université
+Luzmila
 LV
 Macanović
 Macaronesian
@@ -506,6 +515,7 @@ Mariya
 Markt
 Marseille
 Marticorena
+Martínez
 Martynenko
 Mathar
 maximises
@@ -523,6 +533,7 @@ Moeslund
 Mohammed
 moléculaire
 Moncada
+Monteagudo
 Montpellier
 Móstoles
 Mousa
@@ -535,6 +546,8 @@ Multidisciplinario
 Munkegade
 Münster
 Munzinger
+Museo
+Mz
 Napoca
 Naqinezhad
 Náquera
@@ -566,6 +579,7 @@ Oulu
 Overbeck
 overrepresented
 Oviedo
+Oxapampa
 PaDeMoS
 PAI
 Palmengarten
@@ -574,6 +588,7 @@ Panayotis
 Papua
 Parastoo
 Pärtel
+Pasco
 Patras
 Patta
 Paucarpata
@@ -598,7 +613,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -643,13 +658,14 @@ relationally
 Releve
 relevés
 Renata
+René
 Renmin
 Rennweg
 Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -816,6 +832,7 @@ Vanselow
 Varaždin
 Vashenyak
 Vasiliy
+Vásquez
 Vassilev
 VegBank
 VEGETAL
@@ -860,6 +877,7 @@ Whenua
 Whitfeld
 Whittaker
 Willner
+Wiscsonsin
 Wittenberg
 Wohlgemuth
 Wolfson
