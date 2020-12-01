@@ -170,6 +170,12 @@ authors:
     affiliations: 
       - Shahjalal University of Science & Technology, Forestry & Environmental Science, Akhalia, 3114, Sylhet, Bangladesh
   - github: 
+    name: Luzmila Arroyo
+    initials: LA
+    email: luzmilaarroyo@hotmail.com
+    affiliations: 
+      - Universidad Autónoma Gabriel René Moreno, Dirección de la Carrera de Biología, Santa Cruz de la Sierra, Bolivia
+  - github: 
     name: Fabio Attorre
     initials: FA
     orcid: 0000-0002-7744-2195
@@ -553,6 +559,12 @@ authors:
     affiliations: 
       - branch of the M.V. Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Institute of Mathematical Problems of Biology of RAS, 1 Prof. Vitkevich, 142290.0, Pushchino, Russia
   - github: 
+    name: Timothy Killeen
+    initials: TK
+    email: timothy.j.killeen@gmail.com
+    affiliations: 
+      - Universidad Autonoma Gabriel Rene Moreno, Museo de Historia Natural Noel Kempff Mercado, Santa Cruz de la Sierra, Bolivia
+  - github: 
     name: Andrey Korolyuk
     initials: AK
     email: akorolyuk@rambler.ru
@@ -641,6 +653,12 @@ authors:
     email: jesper.moeslund@bios.au.dk
     affiliations: 
       - Aarhus University, Department of Bioscience, Grenaavej 14, 8410, Roende, Denmark
+  - github: 
+    name: Abel Monteagudo Mendoza
+    initials: AMM
+    email: amonteagudomendoza@gmail.com
+    affiliations: 
+      - Jardín Botánico de Missouri Oxapampa, Bolognesi Mz-E-6, Oxapampa, Pasco, Peru
   - github: 
     name: Ladislav Mucina
     initials: LM
@@ -920,6 +938,12 @@ authors:
     affiliations: 
       - University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany
   - github: 
+    name: Rodolfo Vásquez Martínez
+    initials: RVM
+    email: neotaxon@yahoo.com
+    affiliations: 
+      - Jardín Botánico de Missouri Oxapampa, Bolognesi Mz-E-6, Oxapampa, Pasco, Peru
+  - github: 
     name: Kiril Vassilev
     initials: KV
     email: kiril5914@abv.bg
@@ -978,6 +1002,12 @@ authors:
     email: dawalker@alaska.edu
     affiliations: 
       - University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States
+  - github: 
+    name: Donald Waller
+    initials: DW
+    email: dmwaller@wisc.edu
+    affiliations: 
+      - University of Wiscsonsin-Madison, Botany, 430 Lincoln Drive, 53706, Madison, United States
   - github: 
     name: Hua-Feng Wang
     initials: HW
