@@ -40,7 +40,7 @@ authors:
   - github: 
     name: Elise Arnst
     initials: EA
-    email: nvs@landcareresearch.co.nz
+    email: arnste@landcareresearch.co.nz
     affiliations: 
       - Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
   - github: 
@@ -410,6 +410,7 @@ authors:
   - github: 
     name: Inger Greve Alsos
     initials: IGA
+    orcid: 0000-0002-8610-1085
     email: inger.g.alsos@uit.no
     affiliations: 
       - The Arctic University Museum of Norway, UiT - The Arctic University of Norway, Tromsø, Norway
@@ -418,7 +419,7 @@ authors:
     initials: JG
     email: grytnes@uib.no
     affiliations: 
-      - University of Bergen, Department of Biological Sciences, Postbox 7803
+      - University of Bergen, Department of Biological Sciences, Postbox 7803, Bergen, Norway
   - github: 
     name: Gregory Richard Guerin
     initials: GRG
