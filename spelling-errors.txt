@@ -79,7 +79,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 Biomes
 Biometrics
 BIONEOCAL
@@ -614,7 +614,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -656,7 +656,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -802,7 +802,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
