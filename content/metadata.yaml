@@ -38,11 +38,12 @@ authors:
     affiliations: 
       - MARBEC, University of Montpellier, CNRS, IFREMER and IRD, Sète, France
   - github: 
-    name: Elise Arnst
-    initials: EA
+    name: Elise Aimee Arnst
+    initials: EAA
+    orcid: 0000-0003-2388-7428
     email: arnste@landcareresearch.co.nz
     affiliations: 
-      - Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
+      - Manaaki Whenua - Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
   - github: 
     name: Milan Chytrý
     initials: MC
@@ -299,9 +300,10 @@ authors:
   - github: 
     name: Els De Bie
     initials: EDB
+    orcid: 0000-0001-7679-743X
     email: els.debie@inbo.be
     affiliations: 
-      - Research Institute for Nature and Forest (INBO), Departement of Biodiversity and Natural Environment, Havenlaan 88, bus 73, 1000, Brussels, Belgium
+      - Research Institute for Nature and Forest (INBO), Biotope Diversity, Havenlaan 88, bus 73, 1000, Brussels, Belgium
   - github: 
     name: André Luis de Gasper
     initials: ALDG
@@ -1042,7 +1044,7 @@ authors:
     orcid: 0000-0002-8938-8181
     email: wisers@landcareresearch.co.nz
     affiliations: 
-      - Manaaki Whenua -- Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
+      - Manaaki Whenua - Landcare Research, PO Box 69040, 7640, Lincoln, New Zealand
   - github: 
     name: Thomas Wohlgemuth
     initials: TW
