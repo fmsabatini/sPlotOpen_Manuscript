@@ -185,7 +185,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -614,7 +614,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -666,7 +666,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -787,7 +787,6 @@ Trebon
 trg
 Triesdorf
 Tromsø
-truthing
 Tsipe
 Tsiripidis
 Tulipán
