@@ -180,7 +180,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -725,7 +725,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -787,7 +787,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -818,7 +818,7 @@ Vashenyak
 Vasiliy
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
