@@ -80,7 +80,7 @@ Biología
 Biológicas
 biologie
 Biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -666,7 +666,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -721,7 +721,6 @@ Sklenář
 Skottsbergs
 Škvorc
 SMH
-Smyth
 sobre
 Sociétés
 Socotra
@@ -742,7 +741,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
