@@ -80,7 +80,7 @@ Biología
 Biológicas
 biologie
 Biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -614,7 +614,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -804,7 +804,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
