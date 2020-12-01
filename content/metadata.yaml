@@ -320,7 +320,7 @@ authors:
     initials: PD
     email: pdimopoulos@upatras.gr
     affiliations: 
-      - University of Patras, Institute of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece
+      - University of Patras, Laboratory of Botany, Division of Plant Biology, Department of Biology, University Campus, 26504, Patras, Greece
   - github: 
     name: Jiri Dolezal
     initials: JD
@@ -881,12 +881,6 @@ authors:
     email: skvorc@sumfak.hr
     affiliations: 
       - University of Zagreb, Faculty of Forestry, Svetošimunska 25, 10000, Zagreb, Croatia
-  - github: 
-    name: Anita Smyth
-    initials: AS
-    email: anita.smyth@adelaide.edu.au
-    affiliations: 
-      - University of Adelaide, TERN, North Terrace, 5005, Adelaide, Australia
   - github: 
     name: Ben Sparrow
     initials: BS
