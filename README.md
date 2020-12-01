@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://fmsabatini.github.io/sPlotOpen_Manuscript/>.
-The permalink for this webpage version is <https://fmsabatini.github.io/sPlotOpen_Manuscript/v/9168041604d65b2da520a61dee7b8725c9137070/>.
+The permalink for this webpage version is <https://fmsabatini.github.io/sPlotOpen_Manuscript/v/5041d26f73b9be3ab1edc5bfacc6dfb73c2d386a/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://fmsabatini.github.io/sPlotOpen_Manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9168041604d65b2da520a61dee7b8725c9137070`](https://github.com/fmsabatini/sPlotOpen_Manuscript/commit/9168041604d65b2da520a61dee7b8725c9137070).
+[`5041d26f73b9be3ab1edc5bfacc6dfb73c2d386a`](https://github.com/fmsabatini/sPlotOpen_Manuscript/commit/5041d26f73b9be3ab1edc5bfacc6dfb73c2d386a).
