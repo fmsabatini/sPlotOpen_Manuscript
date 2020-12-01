@@ -65,7 +65,6 @@ BHPMF
 Biblioreference
 BibTex
 BIBTEXKEY
-bidimensional
 Bie
 BIEN
 bioclimatic
@@ -181,7 +180,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -262,7 +261,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -483,7 +482,6 @@ Leuphana
 Leuvensesteenweg
 Levesley
 Liebig
-limitedly
 Liu
 Louvels
 LTAUSA
@@ -651,7 +649,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -727,7 +725,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
