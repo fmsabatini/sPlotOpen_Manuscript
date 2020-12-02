@@ -80,7 +80,7 @@ Biología
 Biológicas
 biologie
 Biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -266,7 +266,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -831,7 +831,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
