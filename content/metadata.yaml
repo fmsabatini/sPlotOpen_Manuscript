@@ -61,12 +61,6 @@ authors:
       - University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany
       - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
-    name: Valério De Patta Pillar
-    initials: VDPP
-    email: vpillar@ufrgs.br
-    affiliations: 
-      - Federal University of Rio Grande do Sul, Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, Brazil
-  - github: 
     name: Patrice De Ruffray
     initials: PDR
     email: patrice.de-ruffray@wanadoo.fr
@@ -110,6 +104,13 @@ authors:
     email: a.levesley@leeds.ac.uk
     affiliations: 
       - University of Leeds, School of Geography, Woodhouse Lane, LS2 9JT, Leeds, United Kingdom
+  - github: 
+    name: Valério D. Pillar
+    initials: VDP
+    orcid: 0000-0001-6408-2891
+    email: vpillar@ufrgs.br
+    affiliations: 
+      - Universidade Federal do Rio Grande do Sul, Department of Ecology, Av. Bento Gonçalves 9500, 91501-970, Porto Alegre, RS, Brazil
   - github: 
     name: Oliver Purschke
     initials: OP
@@ -430,7 +431,7 @@ authors:
     affiliations: 
       - University of Adelaide, School of Biological Sciences, North Terrace, 5005, Adelaide, Australia
   - github: 
-    name: Alvaro G. Gutierrez
+    name: Alvaro G. Gutiérrez
     initials: AGG
     orcid: 0000-0001-8928-3198
     email: bosqueciencia@gmail.com
