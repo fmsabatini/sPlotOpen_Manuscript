@@ -79,8 +79,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-Biomes
+Biome
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -185,7 +185,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -589,7 +589,6 @@ Parastoo
 Pärtel
 Pasco
 Patras
-Patta
 Paucarpata
 Pauchard
 Paulo
@@ -612,7 +611,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -739,7 +738,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -832,7 +831,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV

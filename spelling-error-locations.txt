@@ -682,15 +682,14 @@ content/91.ManubotTables.md:109:Luís
 content/91.ManubotTables.md:109:Vibrans
 content/91.ManubotTables.md:109:Vibrans
 content/91.ManubotTables.md:110:Grande
-content/91.ManubotTables.md:110:Patta
 content/91.ManubotTables.md:110:Sul
 content/91.ManubotTables.md:110:Valério
 content/91.ManubotTables.md:110:Vélez
 content/91.ManubotTables.md:111:Gerhard
 content/91.ManubotTables.md:111:Overbeck
-content/91.ManubotTables.md:111:Patta
 content/91.ManubotTables.md:111:Sulinos
 content/91.ManubotTables.md:111:Valério
+content/91.ManubotTables.md:112:Gutiérrez
 content/91.ManubotTables.md:113:Aníbal
 content/91.ManubotTables.md:113:Fondecyt
 content/91.ManubotTables.md:113:Marticorena
