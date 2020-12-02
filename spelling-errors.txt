@@ -185,12 +185,13 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
 dbh
 DBI
+Débora
 Dengler
 d’Entreprises
 Departamento
@@ -266,7 +267,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -490,6 +491,7 @@ Leuphana
 Leuvensesteenweg
 Levesley
 Liebig
+Lingner
 Liu
 Louvels
 LTAUSA
@@ -653,7 +655,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
