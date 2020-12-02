@@ -235,11 +235,9 @@ content/07.Acknowledgements_et_al.md:17:RAINFOR
 content/07.Acknowledgements_et_al.md:17:Saara
 content/07.Acknowledgements_et_al.md:17:SALVIAS
 content/07.Acknowledgements_et_al.md:17:sPlot
-content/07.Acknowledgements_et_al.md:18:CONICYT
 content/07.Acknowledgements_et_al.md:18:FONDECYT
 content/07.Acknowledgements_et_al.md:18:FORECOFUN
 content/07.Acknowledgements_et_al.md:18:Gutiérrez
-content/07.Acknowledgements_et_al.md:18:PAI
 content/07.Acknowledgements_et_al.md:18:PIEF
 content/07.Acknowledgements_et_al.md:19:Hatim
 content/07.Acknowledgements_et_al.md:19:Joop

@@ -80,7 +80,7 @@ Biología
 Biológicas
 biologie
 biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -165,7 +165,6 @@ COFUND
 COMECO
 Concepción
 CONICET
-CONICYT
 Córdoba
 Corrado
 Côte
@@ -582,7 +581,6 @@ overrepresented
 Oviedo
 Oxapampa
 PaDeMoS
-PAI
 Palmengarten
 PANAF
 Panayotis
@@ -614,7 +612,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -741,7 +739,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -834,7 +832,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
