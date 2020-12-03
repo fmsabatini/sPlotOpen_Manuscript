@@ -80,7 +80,7 @@ Biología
 Biológicas
 biologie
 Biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -268,7 +268,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -496,7 +496,6 @@ Liebig
 Lingner
 Liu
 Louvels
-LTAUSA
 Luís
 Lüneburg
 l’Université
@@ -543,7 +542,6 @@ Móstoles
 Mousa
 MPI
 MSc
-MSMT
 Mucina
 Müller
 Multidisciplinario
@@ -615,7 +613,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -667,7 +665,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -682,6 +680,7 @@ Rua
 Ruffray
 Ruprecht
 Rūsiņa
+RVO
 Saale
 Saara
 Sabatini
