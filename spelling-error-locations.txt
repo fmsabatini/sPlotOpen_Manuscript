@@ -65,9 +65,11 @@ content/30.Methods.md:11:sPlot
 content/30.Methods.md:12:overrepresented
 content/30.Methods.md:13:resampling
 content/30.Methods.md:15:bioclimatic
-content/30.Methods.md:15:bioclimatic
 content/30.Methods.md:15:CHELSA
 content/30.Methods.md:15:CHELSA
+content/30.Methods.md:15:CHELSA's
+content/30.Methods.md:16:CGIAR
+content/30.Methods.md:16:CSI
 content/30.Methods.md:16:Evapotranspiration
 content/30.Methods.md:17:SOILGRIDS
 content/30.Methods.md:20:PCA
