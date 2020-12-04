@@ -374,7 +374,6 @@ content/91.ManubotTables.md:3:GVID
 content/91.ManubotTables.md:3:sPlot
 content/91.ManubotTables.md:8:Dataset
 content/91.ManubotTables.md:8:GIVD
-content/91.ManubotTables.md:8:OA
 content/91.ManubotTables.md:10:ForestPlots
 content/91.ManubotTables.md:10:Levesley
 content/91.ManubotTables.md:11:Enquist
@@ -737,7 +736,6 @@ content/91.ManubotTables.md:127:Boreal
 content/91.ManubotTables.md:127:midlatitudes
 content/91.ManubotTables.md:127:midlatitudes
 content/91.ManubotTables.md:127:subpolar
-content/91.ManubotTables.md:127:Subtrop
 content/91.ManubotTables.md:128:yyyy
 content/91.ManubotTables.md:133:dbh
 content/91.ManubotTables.md:133:dbh

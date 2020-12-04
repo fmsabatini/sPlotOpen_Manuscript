@@ -189,7 +189,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -271,7 +271,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -570,7 +570,6 @@ Noranda
 Noroozi
 Novi
 Nowak
-OA
 Ohnhorststr
 Okavango
 Oktyabrya
@@ -668,7 +667,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -744,12 +743,11 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
 subpolar
-Subtrop
 Suchdol
 Sul
 Sulinos
@@ -838,7 +836,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
