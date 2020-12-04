@@ -163,7 +163,7 @@
   <meta name="author" content="Sergey Yamalov" />
   <meta name="author" content="Martin Zobel" />
   <meta name="author" content="Helge Bruelheide" />
-  <meta name="dcterms.date" content="2020-12-03" />
+  <meta name="dcterms.date" content="2020-12-04" />
   <meta name="keywords" content="vegetation, database, plants, biodiversity, functional traits, big-data, manubot" />
   <title>sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots</title>
   <style>
@@ -186,8 +186,8 @@
   <meta name="citation_title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="og:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
   <meta property="twitter:title" content="sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots" />
-  <meta name="dc.date" content="2020-12-03" />
-  <meta name="citation_publication_date" content="2020-12-03" />
+  <meta name="dc.date" content="2020-12-04" />
+  <meta name="citation_publication_date" content="2020-12-04" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -632,9 +632,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6ed3aa41adfbebf7b02cc71342a8c79eafc29ff1/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6ed3aa41adfbebf7b02cc71342a8c79eafc29ff1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6ed3aa41adfbebf7b02cc71342a8c79eafc29ff1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/3713f6128a9dd7151c19d103af736bb373fa0484/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/3713f6128a9dd7151c19d103af736bb373fa0484/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/3713f6128a9dd7151c19d103af736bb373fa0484/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -656,10 +656,10 @@
 <p><em>This manuscript is still work in progress</em></p>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/6ed3aa41adfbebf7b02cc71342a8c79eafc29ff1/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/3713f6128a9dd7151c19d103af736bb373fa0484/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/6ed3aa41adfbebf7b02cc71342a8c79eafc29ff1">fmsabatini/sPlotOpen_Manuscript@6ed3aa4</a>
-on December 3, 2020.
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/3713f6128a9dd7151c19d103af736bb373fa0484">fmsabatini/sPlotOpen_Manuscript@3713f61</a>
+on December 4, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <p><a href="https://orcid.org/0000-0002-7202-7697"><img src="images/orcid.svg" width="11" height="11" alt="ORCID icon" /></a>Francesco Maria Sabatini<sup>1,2,†</sup>,
@@ -1091,7 +1091,7 @@ This resulted in a total of 799,400 out of the initial set of 1,121,244 vegetati
 When projecting the 799,400 vegetation plots in the PC1-PC2 grid, we calculated how many vegetation plots occurred in each PC1-PC2 grid cell.
 For those grid cells with more than 50 vegetation plots (n = 858), we selected up to 50 vegetation plots using the heterogeneity-constrained random resampling algorithm from Lengyel et al. (2011) [<span class="citation" data-cites="1696xA7Nc"><a href="#ref-1696xA7Nc" role="doc-biblioref">41</a></span>].
 This approach optimizes the selection of a random subset of vegetation plots that encompasses the highest variability in species composition while avoiding peculiar and rare communities, which may represent outliers.
-We based the quantification of variability in plant species composition among the 50 randomly selected vegetation plots by computing the mean and the variance of the Jaccard’s dissimilarity index (<span class="citation" data-cites="lmizeS66"><a href="#ref-lmizeS66" role="doc-biblioref">42</a></span>) between all possible pairs of these 50 vegetation plots (n = 1,225).
+We quantified the variability in plant species composition among the 50 randomly selected vegetation plots by computing the mean and the variance of the Jaccard’s dissimilarity index (<span class="citation" data-cites="lmizeS66"><a href="#ref-lmizeS66" role="doc-biblioref">42</a></span>) between all possible pairs of these 50 vegetation plots (n = 1,225).
 More precisely, for a given PC1-PC2 grid cell containing more than 50 vegetation plots, we generated 1,000 random selections of 50 vegetation plots and ranked them according to the mean (ascending order) and variance (descending order) value.
 Ranks from both sortings were summed for each random selection, and the selection with the lowest summed rank was considered to provide the most balanced/even representation of vegetation types within the focal grid cell.
 Where a grid cell contained less than 50 plots, we retained all of them.
@@ -1197,14 +1197,14 @@ Jens Kattge acknowledges support by the Max Planck Institute for Biogeochemistry
 <p>Isabelle Aubin was funded through Natural Sciences and Engineering Research Council of Canada and Ontario Ministry of Natural Resources and Forestry.
 Yves Bergeron was funded through Natural Sciences and Engineering Research Council of Canada.
 Idoia Biurrun was funded by the Basque Government (IT936-16).
-Anne Bjorkman thank the Herschel Island-Qikiqtaruk Territorial Park management, Catherine Kennedy, Dorothy Cooley, Jill F. Johnstone, Cameron Eckert and Richard Gordon for establishing the ecological monitoring programme. Funding was provided by Herschel Island-Qikiqtaruk Territorial Park.
+Anne Bjorkman thanks the Herschel Island-Qikiqtaruk Territorial Park management, Catherine Kennedy, Dorothy Cooley, Jill F. Johnstone, Cameron Eckert and Richard Gordon for establishing the ecological monitoring programme. Funding was provided by Herschel Island-Qikiqtaruk Territorial Park.
 Luis Cayuela was supported by project BIOCON08_044 funded by Fundación BBVA.
 Milan Chytrý, Flavia Landucci, Corrado Marcenò and Tomáš Peterka were supported by the Czech Science Foundation (project no. 19-28491X).
 Brian Enquist thanks the following individuals and institutions for contributing data to sPlot via the SALVIAS database: Mauricio Bonifacino, Saara DeWalt, Timothy Killeen, Susan Letcher, Nigel Pitman, Cam Webb, The Missouri Botanical Garden, RAINFOR and the Amazon Forest Inventory Network.
-Alvaro G. Gutiérrez was funded by Project FORECOFUN-SSA PIEF-GA-2010–274798 and FONDECYT 1200468
+Alvaro G. Gutiérrez was funded by Project FORECOFUN-SSA PIEF-GA-2010–274798 and FONDECYT 1200468.
 Mohamed Z. Hatim thanks Kamal Shaltout and Joop Schaminée for supervision of the MSc thesis, and Joop Schaminée for support and funding from the Prince Bernard Culture Fund Prize for Nature Conservation.
 Jürgen Homeier received funding from BMBF (Federal Ministry of Education and Science of Germany) and the German Research Foundation (DFG Ho3296-2, DFG Ho3296-4).
-Borja Jiménez-Alfaro was funded by the Spanish Research Agency through grant AEI/10.13039/501100011033
+Borja Jiménez-Alfaro was funded by the Spanish Research Agency through grant AEI/10.13039/501100011033.
 Dirk N. Karger recieved funding from: The WSL internal grant exCHELSA and ClimEx, the Joint Biodiversa COFUND project ‘FeedBaCks’ and ‘Futureweb’, the Swiss Data Science Projects: SPEEDMIND, and COMECO, and the Swiss National Science Foundation (20BD21_184131).
 Attila Lengyel was supported by the National Research, Development and Innovation Office, Hungary (PD-123997).
 Tatiana Lysenko was funded by Russian Foundation for Basic Research (grant No. 16-04-00747a).
@@ -1212,7 +1212,7 @@ Jérôme Munzinger was supported by the French National Research Agency (ANR) wi
 Arkadiusz Nowak received support from the National Science Centre, Poland, grant no. 2017/25/B/NZ8/00572.
 Gerhard E. Overbeck acknowledges support from Brazil’s National Council of Scientific and Technological Development (CNPq, grant 310022/2015-0).
 Robert Peet acknowledges the support from the National Center for Ecological Analysis and Synthesis, the North Carolina Ecosystem Enhancement Program, the U.S. Forest Service, and the U.S. National Science Foundation (DBI-9905838, DBI-0213794).
-Josep Peñuelas would like to acknowledge the financial support from the European Research Council Synergy grant ERC-SyG-2013-610028 IMBALANCE-P
+Josep Peñuelas would like to acknowledge the financial support from the European Research Council Synergy grant ERC-SyG-2013-610028 IMBALANCE-P.
 Petr Petřík and Jiri Dolezal acknowledge the support of the long-term research development project No. RVO 67985939 of the Czech Academy of Sciences.
 Oliver Phillips was funded by an ERC Advanced Grant (291585, “T-FORCES”) and a Royal Society-Wolfson Research Merit Award.
 Valério D. Pillar has been supported by the Brazil’s National Council of Scientific and Technological Development (CNPq, grant 307689/2014-0).
@@ -1221,7 +1221,7 @@ Franziska Schrodt was supported by a University of Minnesota Institute on the En
 Jens Christian Svenning considers this work a contribution to his VILLUM Investigator project “Biodiversity Dynamics in a Changing World” funded by VILLUM FONDEN (grant 16549).
 Kim André Vanselow would like to thank W. Bernhard Dickoré for the help in the identification of plant species and acknowledge the financial support from the Volkswagen Foundation (AZ I/81 976) and the German Research Foundation (DFG VA 749/1-1, DFG VA 749/4-1).
 Evan Weiher was funded by NSF DEB-0415383, UWEC-ORSP, and UWEC-BCDT.
-Work by Karsten Wesche was supported by the German Research Foundation (DFG WE 2601/3-1,3-2, 4-1,4-2) and by the German Ministry for Science and Education (BMBF, CAME 03G0808A)
+Work by Karsten Wesche was supported by the German Research Foundation (DFG WE 2601/3-1,3-2, 4-1,4-2) and by the German Ministry for Science and Education (BMBF, CAME 03G0808A).
 Susan Wiser was funded by the NZ Ministry for Business, Innovation and Employment’s Strategic Science Investment Fund.</p>
 <p>This paper is dedicated to the memory of Dr. Ching-Feng (Woody) Li.</p>
 <h2 id="author-contributions">Author contributions</h2>
@@ -1371,7 +1371,7 @@ DOI: <a href="https://doi.org/10.1111/j.1654-1103.2011.01318.x">10.1111/j.1654-1
 <div id="ref-1H3M9kGrz">
 <p>24. <strong>sPlot – A new tool for global vegetation analyses</strong> <br />
 Helge Bruelheide, Jürgen Dengler, Borja Jiménez‐Alfaro, Oliver Purschke, Stephan M. Hennekens, Milan Chytrý, Valério D. Pillar, Florian Jansen, Jens Kattge, Brody Sandel, … Andrei Zverev<br />
-<em>Journal of Vegetation Science</em> (2019-03) <a href="https://doi.org/gfvhkm">https://doi.org/gfvhkm</a> <br />
+<em>Journal of Vegetation Science</em> (2019-04-08) <a href="https://doi.org/gfvhkm">https://doi.org/gfvhkm</a> <br />
 DOI: <a href="https://doi.org/10.1111/jvs.12710">10.1111/jvs.12710</a></p>
 </div>
 <div id="ref-ifq523bf">
@@ -1508,7 +1508,7 @@ DOI: <a href="https://doi.org/10.1111/geb.12335">10.1111/geb.12335</a></p>
 <p>47. <strong>Scaling from Traits to Ecosystems</strong> <br />
 Brian J. Enquist, Jon Norberg, Stephen P. Bonser, Cyrille Violle, Colleen T. Webb, Amanda Henderson, Lindsey L. Sloat, Van M. Savage<br />
 <em>Advances in Ecological Research</em> (2015) <a href="https://doi.org/ghfnsw">https://doi.org/ghfnsw</a> <br />
-DOI: <a href="https://doi.org/10.1016/bs.aecr.2015.02.001">10.1016/bs.aecr.2015.02.001</a> · ISBN: <a href="https://worldcat.org/isbn/9780128024454">9780128024454</a></p>
+DOI: <a href="https://doi.org/10.1016/bs.aecr.2015.02.001">10.1016/bs.aecr.2015.02.001</a></p>
 </div>
 <div id="ref-L1taSHwv">
 <p>48. <strong>Communities and Ecosystems</strong> <br />
