@@ -116,7 +116,10 @@ content/40.DataRecords.md:16:GBIF
 content/40.DataRecords.md:16:resampling
 content/40.DataRecords.md:16:sPlot
 content/40.DataRecords.md:16:Whittaker
+content/40.DataRecords.md:18:biome
 content/40.DataRecords.md:18:biomes
+content/40.DataRecords.md:18:biomes
+content/40.DataRecords.md:18:Körner
 content/40.DataRecords.md:18:sPlot
 content/40.DataRecords.md:18:Whittaker
 content/40.DataRecords.md:20:sPlot
