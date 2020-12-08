@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -281,7 +281,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -628,7 +628,7 @@ Petřík
 Peyre
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -680,7 +680,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -756,7 +756,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -818,7 +818,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -851,7 +851,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
