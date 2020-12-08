@@ -22,6 +22,7 @@ AMAP
 Ambientales
 Amiens
 Ammophiletea
+Amphitheatre
 Andraž
 André
 Andrey
@@ -38,6 +39,7 @@ arcmin
 Ardingly
 Arfin
 Arhimedova
+Arindam
 Arkadiusz
 Armin
 Arnst
@@ -50,6 +52,7 @@ Autonoma
 Autónoma
 Babolsar
 BACI
+Banerjee
 Bauters
 BayCEER
 BBVA
@@ -79,7 +82,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -145,6 +148,7 @@ Cerro
 cesta
 CEU
 CGIAR
+Champaign
 CHELSA
 CHELSA’s
 Chemin
@@ -260,6 +264,8 @@ Fabio
 Facultad
 Fahmida
 Fanelli
+Farideh
+Fazayeli
 FeedBaCks
 Félix
 Feng
@@ -271,7 +277,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -498,6 +504,7 @@ Levesley
 Liebig
 Lingner
 Liu
+LLC
 Louvels
 Luís
 Lüneburg
@@ -657,7 +664,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -804,7 +811,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -820,6 +827,7 @@ UO
 Uogintas
 UPR
 UPV
+Urbana
 Urrelo
 UWEC
 Vácrátót
@@ -836,7 +844,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
