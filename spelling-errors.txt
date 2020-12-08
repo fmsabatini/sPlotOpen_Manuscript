@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -160,6 +160,7 @@ Ching
 Chuvashov
 Chytrý
 Ciencias
+Científica
 CIRAD
 ClimEx
 Climpact
@@ -173,6 +174,7 @@ COFUND
 COMECO
 Concepción
 CONICET
+Consultoria
 Córdoba
 Corrado
 Côte
@@ -279,7 +281,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -386,6 +388,7 @@ iela
 IFFSC
 Ifjúság
 IFREMER
+ILEX
 Ilona
 IMBE
 IMBIV
@@ -778,6 +781,7 @@ Tatarstan
 Tatiana
 TAVA
 Technische
+Telles
 Témiscamingue
 TeneKwetche
 Tereschenkivska
