@@ -197,6 +197,12 @@ authors:
     affiliations: 
       - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada
   - github: 
+    name: Arindam Banerjee
+    initials: AB
+    email: arindamb@illinois.edu
+    affiliations: 
+      - University of Illinois Urbana Champaign, Department of Computer Science, 201 North Goodwin Avenue MC 258, Urbana, IL 61801, 61801.0, Urbana, USA
+  - github: 
     name: Marijn Bauters
     initials: MB
     email: marijn.bauters@ugent.be
@@ -356,6 +362,13 @@ authors:
     email: joerg.ewald@hswt.de
     affiliations: 
       - Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany
+  - github: 
+    name: Farideh Fazayeli
+    initials: FF
+    email: faridehfazayeli@gmail.com
+    affiliations: 
+      - Google LLC, 1600 Amphitheatre Pkwy, 94043.0, Mountain View, USA
+      - University of Minnesota  - Twin Cities, USA
   - github: 
     name: Richard Field
     initials: RF
@@ -701,7 +714,7 @@ authors:
     initials: AN
     email: anaqinezhad@gmail.com
     affiliations: 
-      - University of Mazandaran, Department of Biology, P.O. Box 47416-95447, Mazandaran, Iran
+      - University of Mazandaran, Department of Plant Biology, P.O. Box 47416-95447, Mazandaran, Iran
   - github: 
     name: Jalil Noroozi
     initials: JN
@@ -1036,7 +1049,7 @@ authors:
   - github: 
     name: Timothy Whitfeld
     initials: TW
-    email: timothy_whitfeld@brown.edu
+    email: whitf015@umn.edu
     affiliations: 
       - Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States
   - github: 
