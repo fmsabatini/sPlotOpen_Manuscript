@@ -97,10 +97,10 @@ content/30.Methods.md:44:datasets
 content/30.Methods.md:44:dataset’s
 content/30.Methods.md:44:sPlot
 content/30.Methods.md:53:macroclimatic
-content/30.Methods.md:56:BHPMF
-content/30.Methods.md:56:geb
-content/30.Methods.md:60:CWM
-content/30.Methods.md:60:CWV
+content/30.Methods.md:57:BHPMF
+content/30.Methods.md:57:geb
+content/30.Methods.md:61:CWM
+content/30.Methods.md:61:CWV
 content/40.DataRecords.md:3:sPlot
 content/40.DataRecords.md:4:datasets
 content/40.DataRecords.md:5:bryophytes
