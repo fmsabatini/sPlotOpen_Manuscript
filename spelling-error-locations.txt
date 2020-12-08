@@ -1,13 +1,6 @@
 content/00.front-matter.md:36:francesco
 content/00.front-matter.md:36:halle
 content/00.front-matter.md:36:sabatini
-content/01.abstract.md:6:sPlot
-content/01.abstract.md:7:dataset
-content/01.abstract.md:8:resampling
-content/01.abstract.md:9:datasets
-content/01.abstract.md:10:dataset
-content/01.abstract.md:11:biome
-content/01.abstract.md:13:dataset
 content/02.AlternativeAbstract.md:1:GEB
 content/02.AlternativeAbstract.md:6:datasets
 content/02.AlternativeAbstract.md:8:sPlot
