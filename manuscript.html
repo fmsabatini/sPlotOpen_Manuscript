@@ -639,9 +639,9 @@
   <meta name="citation_fulltext_html_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/" />
   <meta name="citation_pdf_url" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/8b9fc3ed7a4d04d12a7c5622e97dc6125c17031c/" />
-  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/8b9fc3ed7a4d04d12a7c5622e97dc6125c17031c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/8b9fc3ed7a4d04d12a7c5622e97dc6125c17031c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/9f76f3c01769c2814158ab006ce8ff445252d3b4/" />
+  <meta name="manubot_html_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/9f76f3c01769c2814158ab006ce8ff445252d3b4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/9f76f3c01769c2814158ab006ce8ff445252d3b4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -663,9 +663,9 @@
 <p><em>This manuscript is still work in progress</em></p>
 <p><small><em>
 This manuscript
-(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/8b9fc3ed7a4d04d12a7c5622e97dc6125c17031c/">permalink</a>)
+(<a href="https://fmsabatini.github.io/sPlotOpen_Manuscript/v/9f76f3c01769c2814158ab006ce8ff445252d3b4/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/8b9fc3ed7a4d04d12a7c5622e97dc6125c17031c">fmsabatini/sPlotOpen_Manuscript@8b9fc3e</a>
+from <a href="https://github.com/fmsabatini/sPlotOpen_Manuscript/tree/9f76f3c01769c2814158ab006ce8ff445252d3b4">fmsabatini/sPlotOpen_Manuscript@9f76f3c</a>
 on December 8, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -1165,10 +1165,10 @@ For instance, the data from New Zealand only include plots collected in non-fore
 We urge potential users to carefully read the description of each individual dataset in <a href="http://www.givd.info">GIVD</a>, or to contact the custodians of each dataset before using sPlot Open.</p>
 <h2 class="page_break_before" id="database-organization">Database Organization</h2>
 <p>sPlot Open is organized into three main matrices, relationally linked through the key column <em>‘PlotObservationID’</em>.</p>
-<p>The <strong>‘header’</strong> matrix contains plot-level information for the 91,205 vegetation plots provided in sPlot Open, including: metadata (e.g., plot ID, ownership, sampling date, geographical location, positional accuracy); sampling design information (e.g., the total surface area used during the vegetation survey); and a plot-level description of vegetation structure (e.g., vegetation type, percentage cover of each vegetation layer) and vegetation type.
+<p>The <strong>‘header’</strong> matrix contains plot-level information for the 91,205 vegetation plots provided in sPlot Open, including: metadata (e.g., plot ID, ownership, sampling date, geographical location, positional accuracy); sampling design information (e.g., the total surface area used during the vegetation survey); and a plot-level description of vegetation structure (e.g., vegetation type, percentage cover of each vegetation layer), vegetation type, and naturalness level (i.e., whether a plot belongs to the same formation that would occupy the site without human interference).
 Plots in Europe are also classified according to the EUNIS habitat classification (column <em>‘ESY’</em>), based on the habitat classification expert system described in Chytrý et al. (2020) (<span class="citation" data-cites="15fj3WANI"><a href="#ref-15fj3WANI" role="doc-biblioref">51</a></span>).
 For each vegetation plot, we further provide information on the dataset it originates from, based on the IDs used in <a href="http://www.givd.info">GIVD</a>.
-A brief description of all the 43 variables in the header matrix is provided in Table <a href="#tbl:Table2">2</a>.</p>
+A brief summary of all the 43 variables in the header matrix is provided in Table <a href="#tbl:Table2">2</a>.</p>
 <p>The <strong>‘DT’</strong> matrix contains data on the species composition of each plot. It is structured in a long format and contains 1,608,610 records from 39,997 vascular plant taxa, mostly resolved at the species level.
 For each record, we report both the taxon name as originally contributed by the data custodian (column <em>‘Original_species’</em>), and the taxon name after taxonomic standardization (column <em>‘Species’</em>).
 For each record, we report the species cover/abundance values. These follow different standards across the datasets constituting the sPlot database.
