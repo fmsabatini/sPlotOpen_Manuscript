@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -201,7 +201,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -285,7 +285,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -635,7 +635,7 @@ Peyre
 PHIHOX
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -677,7 +677,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -687,7 +687,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Risto
@@ -765,7 +765,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -827,7 +827,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
