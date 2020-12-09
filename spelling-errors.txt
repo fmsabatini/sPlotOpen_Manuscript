@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -102,6 +102,7 @@ Birmensdorf
 Birnbaum
 Biurrun
 Bjorkman
+BLDFIE
 Blumenau
 BMBF
 Boadilla
@@ -140,6 +141,7 @@ Casella
 Catarina
 CAVELab
 Cayuela
+CECSOL
 Cedex
 CEFE
 Centre
@@ -165,6 +167,7 @@ CIRAD
 ClimEx
 Climpact
 Cluj
+CLYPPT
 CN
 CNPq
 CNRS
@@ -181,6 +184,7 @@ Côte
 Coupure
 CoverPerc
 CREAF
+CRFVOL
 cryptogams
 CSI
 CSIC
@@ -197,7 +201,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -409,6 +413,7 @@ ipbes
 iPlant
 IRD
 ISOFYS
+Isothermality
 ISPRA
 Itziar
 IUNR
@@ -588,6 +593,7 @@ Oktyabrya
 Oleska
 Onyshchenko
 Opole
+ORCDRC
 orded
 ORSP
 Osipov
@@ -626,6 +632,7 @@ Petersburg
 Petr
 Petřík
 Peyre
+PHIHOX
 Phytocoenology
 Phytodiversity
 Phytosociological
@@ -670,7 +677,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -680,7 +687,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Risto
@@ -735,7 +742,9 @@ SIVIM
 Sklenář
 Skottsbergs
 Škvorc
+SLTPPT
 SMH
+SNDPPT
 sobre
 Sociétés
 Socotra
@@ -818,7 +827,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
