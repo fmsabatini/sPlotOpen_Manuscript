@@ -84,8 +84,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
-biomes
+biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -197,7 +197,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -281,7 +281,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -756,7 +756,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -851,7 +851,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
