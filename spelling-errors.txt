@@ -84,7 +84,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -635,7 +635,7 @@ Peyre
 PHIHOX
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -678,7 +678,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -864,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
