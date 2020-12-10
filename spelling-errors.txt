@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -240,6 +240,7 @@ Eckert
 ECOLOGÍA
 Ecologie
 Ecotone
+ecozones
 Edifici
 Edificio
 EDYSAN
@@ -285,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -311,7 +312,6 @@ Gasper
 gata
 GBIF
 GDD
-GEB
 Geish
 Général
 Geobotany
@@ -646,6 +646,7 @@ Pitman
 plantes
 PlantHub
 Platz
+plotbiomes
 plotID
 PlotObservationID
 Polska
@@ -677,7 +678,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -690,6 +691,7 @@ resampled
 resampling
 Revermann
 Rey
+Rickleff
 Risto
 RO
 Rodwell
@@ -718,6 +720,7 @@ Sársfield
 Saud
 Sault
 SAZU
+sBiomes
 Schaminée
 Schmiedel
 Schrodt
@@ -748,6 +751,7 @@ SNDPPT
 sobre
 Sociétés
 Socotra
+SoilClim
 SOILGRIDS
 Solvita
 SOPHY
@@ -860,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
