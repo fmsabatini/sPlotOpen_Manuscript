@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -678,7 +678,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -769,7 +769,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -831,7 +831,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
