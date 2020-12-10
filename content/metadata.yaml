@@ -509,8 +509,8 @@ authors:
     affiliations: 
       - Transilvania University of Brasov, Department of Silviculture, Sirul Beethoven 1, 500123, Brasov, Romania
   - github: 
-    name: John Janssen
-    initials: JJ
+    name: John A.M. Janssen
+    initials: JAJ
     email: john.janssen@wur.nl
     affiliations: 
       - Wageningen University and Research, Wageningen Environmental Research (Alterra), P.O.Box 47, 6700 AA, Wageningen, Netherlands
@@ -1078,7 +1078,7 @@ authors:
     initials: SY
     email: yamalovsm@mail.ru
     affiliations: 
-      - Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russian Federation
+      - Ufa Scientific Centre, Russian Academy of Sciences, Laboratory of Wild-Growing Flora, South-Ural Botanical Garden-Institute, Mendeleev str., 195/3, 450080, Ufa, Russian Federation
   - github: 
     name: Martin Zobel
     initials: MZ
