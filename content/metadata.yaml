@@ -601,13 +601,6 @@ authors:
     affiliations: 
       - University of Göttingen, Department of Biodiversity, Macroecology and Biogeography, Büsgenweg 1, 37077, Göttingen, Germany
   - github: 
-    name: Hjalmar Kühl
-    initials: HK
-    email: kuehl@eva.mpg.de
-    affiliations: 
-      - Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Puschstrasse 4, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
-  - github: 
     name: Anna Kuzemko
     initials: AK
     orcid: 0000-0002-9425-2756
@@ -873,6 +866,12 @@ authors:
     affiliations: 
       - University of Nottingham, School of Geography, University Park, NG7 2RD, Nottingham, United Kingdom
   - github: 
+    name: Hanhuai Shan
+    initials: HS
+    email: hanhuai.shan@gmail.com
+    affiliations: 
+      - Microsoft, One Microsoft Way, 98052.0, Redmond, WA, United States
+  - github: 
     name: Pavel Shirokikh
     initials: PS
     email: Shirpa@mail.ru
@@ -1041,11 +1040,12 @@ authors:
       - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
       - Technische Universität Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany
   - github: 
-    name: Timothy Whitfeld
-    initials: TW
+    name: Timothy J.S. Whitfeld
+    initials: TJW
+    orcid: 0000-0003-1850-6432
     email: whitf015@umn.edu
     affiliations: 
-      - Brown University, Department of Ecology and Evolutionary Biology/Brown University Herbarium, 34 Olive Street, 02912, Providence, United States
+      - University of Minnesota, Bell Museum, 1445 Gortner Avenue, 55108.0, St. Paul, USA
   - github: 
     name: Wolfgang Willner
     initials: WW
