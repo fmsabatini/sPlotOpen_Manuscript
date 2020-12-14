@@ -84,7 +84,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 biomes
 Biometrics
 BIONEOCAL
@@ -678,7 +678,7 @@ recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -688,7 +688,7 @@ Renovables
 Republicii
 Repunlic
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -769,7 +769,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -864,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
