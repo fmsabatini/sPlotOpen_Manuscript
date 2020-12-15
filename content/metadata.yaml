@@ -601,6 +601,13 @@ authors:
     affiliations: 
       - University of Göttingen, Department of Biodiversity, Macroecology and Biogeography, Büsgenweg 1, 37077, Göttingen, Germany
   - github: 
+    name: Hjalmar Kühl
+    initials: HK
+    email: kuehl@eva.mpg.de
+    affiliations: 
+      - Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+  - github: 
     name: Anna Kuzemko
     initials: AK
     orcid: 0000-0002-9425-2756
