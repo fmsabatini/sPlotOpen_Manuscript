@@ -84,7 +84,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -334,6 +334,7 @@ Golub
 Gonçalves
 Gorica
 Görlitz
+Gortner
 Gothenburg
 Göttingen
 Grande
@@ -357,6 +358,7 @@ Hainan
 Halle
 Hallerova
 Hamid
+Hanhuai
 Hatim
 Hattab
 Havenlaan
@@ -367,11 +369,9 @@ HelNatVeg
 Hennekens
 Hérault
 Herbario
-Herbarium
 Herzog
 Hinojos
 Historia
-Hjalmar
 Hochschule
 Holger
 Holtvegen
@@ -490,7 +490,6 @@ Kreiten
 Kremlevskaya
 KRITI
 Krstonošić
-Kühl
 Kuzemko
 Küzmič
 Kyiv
@@ -560,7 +559,6 @@ Monteagudo
 Montpellier
 Móstoles
 Mousa
-MPI
 MSc
 Mucina
 Müller
@@ -594,7 +592,6 @@ Oleska
 Onyshchenko
 Opole
 ORCDRC
-orded
 ORSP
 Osipov
 Öte
@@ -605,7 +602,6 @@ Oviedo
 Oxapampa
 PaDeMoS
 Palmengarten
-PANAF
 Panayotis
 Papua
 Parastoo
@@ -655,7 +651,6 @@ Popov
 Postbus
 Praha
 Prawdziwka
-Primatology
 Privada
 programme
 Prokhorov
@@ -687,8 +682,10 @@ Rennweg
 Renovables
 Republicii
 Repunlic
+Resample
 resampled
 resampling
+resamplings
 Revermann
 Rey
 Rickleff
@@ -796,7 +793,6 @@ TAVA
 Technische
 Telles
 Témiscamingue
-TeneKwetche
 Tereschenkivska
 Tereshchenkivska
 Tervuren
