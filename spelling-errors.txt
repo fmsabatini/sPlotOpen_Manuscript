@@ -372,6 +372,7 @@ Herbario
 Herzog
 Hinojos
 Historia
+Hjalmar
 Hochschule
 Holger
 Holtvegen
@@ -490,6 +491,7 @@ Kreiten
 Kremlevskaya
 KRITI
 Krstonošić
+Kühl
 Kuzemko
 Küzmič
 Kyiv
@@ -559,6 +561,7 @@ Monteagudo
 Montpellier
 Móstoles
 Mousa
+MPI
 MSc
 Mucina
 Müller
@@ -602,6 +605,7 @@ Oviedo
 Oxapampa
 PaDeMoS
 Palmengarten
+PANAF
 Panayotis
 Papua
 Parastoo
@@ -631,7 +635,7 @@ Peyre
 PHIHOX
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -651,6 +655,7 @@ Popov
 Postbus
 Praha
 Prawdziwka
+Primatology
 Privada
 programme
 Prokhorov
@@ -766,7 +771,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -793,6 +798,7 @@ TAVA
 Technische
 Telles
 Témiscamingue
+TeneKwetche
 Tereschenkivska
 Tereshchenkivska
 Tervuren
@@ -860,7 +866,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
