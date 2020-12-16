@@ -84,8 +84,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-biomes
+Biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -131,6 +131,7 @@ Bruelheide
 bryophytes
 Büsgenweg
 Caledonian
+Camino
 Caquot
 Carlowitz
 Čarni
@@ -286,7 +287,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -679,7 +680,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -772,7 +773,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -834,7 +835,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -909,7 +910,6 @@ Whenua
 Whitfeld
 Whittaker
 Willner
-Wiscsonsin
 Wittenberg
 Wohlgemuth
 Wolfson
