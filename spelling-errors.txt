@@ -91,6 +91,7 @@ BIONEOCAL
 Bioresources
 Bioscience
 Biosciences
+Biosketch
 BIOTA
 biotic
 BioTIME
@@ -637,7 +638,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 Picardie
 PIEF
 Pierangela
@@ -680,7 +681,7 @@ recieved
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
