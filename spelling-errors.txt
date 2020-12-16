@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -633,9 +633,10 @@ Petr
 Petřík
 Peyre
 PHIHOX
+phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -689,7 +690,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 resamplings
 Revermann
 Rey
@@ -771,7 +772,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -866,7 +867,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV

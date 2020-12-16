@@ -100,8 +100,9 @@ content/30.Methods.md:45:dataset’s
 content/30.Methods.md:45:sPlot
 content/30.Methods.md:55:macroclimatic
 content/30.Methods.md:59:BHPMF
-content/30.Methods.md:63:CWM
-content/30.Methods.md:63:CWV
+content/30.Methods.md:61:phylogenetic
+content/30.Methods.md:66:CWM
+content/30.Methods.md:66:CWV
 content/40.DataRecords.md:3:sPlotOpen
 content/40.DataRecords.md:4:datasets
 content/40.DataRecords.md:5:resampling
