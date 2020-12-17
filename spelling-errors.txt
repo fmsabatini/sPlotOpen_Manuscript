@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -203,7 +203,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -219,6 +219,7 @@ des
 Desalegn
 Desertificación
 Desislava
+Deutscher
 DeWalt
 DFG
 Dickoré
@@ -288,7 +289,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -564,7 +565,6 @@ Monteagudo
 Montpellier
 Móstoles
 Mousa
-MPI
 MSc
 Mucina
 Müller
@@ -659,7 +659,6 @@ Popov
 Postbus
 Praha
 Prawdziwka
-Primatology
 Privada
 programme
 Prokhorov
@@ -681,7 +680,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
