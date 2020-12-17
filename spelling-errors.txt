@@ -45,7 +45,6 @@ Armin
 Arnst
 Arvid
 ASES
-Atter
 Attorre
 Aubenas
 Aubin
@@ -203,7 +202,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -268,7 +267,7 @@ ESY
 Eszter
 Etoile
 EUNIS
-Evapotranspiration
+evapotranspiration
 Ewald
 exCHELSA
 Ezeru
@@ -289,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -403,6 +402,7 @@ IMBIV
 IMEBI
 INBO
 INBOVEG
+independant
 Indreica
 Inger
 INP
@@ -640,6 +640,7 @@ phylogenetic
 Phytocoenology
 Phytodiversity
 phytosociological
+phytosociologists
 Picardie
 PIEF
 Pierangela
@@ -691,8 +692,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
-resamplings
+resampling
 Revermann
 Rey
 Rickleff
@@ -756,7 +756,7 @@ sobre
 Sociétés
 Socotra
 SoilClim
-SOILGRIDS
+SoilGrids
 Solvita
 SOPHY
 Sopotlieva
@@ -773,7 +773,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -868,7 +868,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
