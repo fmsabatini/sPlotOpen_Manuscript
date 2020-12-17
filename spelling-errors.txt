@@ -84,8 +84,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
-biomes
+biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -288,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -836,7 +836,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -869,7 +869,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
