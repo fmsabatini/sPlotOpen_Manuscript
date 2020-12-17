@@ -85,7 +85,7 @@ Biología
 Biológicas
 biologie
 Biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -681,7 +681,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -774,7 +774,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -836,7 +836,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -869,7 +869,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
