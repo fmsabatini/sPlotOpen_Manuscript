@@ -84,8 +84,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-biomes
+Biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -203,7 +203,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -288,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -490,6 +490,7 @@ Kozhevnikova
 Kozub
 Kreft
 Kreiten
+Krekeler
 Kremlevskaya
 KRITI
 Krstonošić
@@ -638,7 +639,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 Picardie
 PIEF
 Pierangela
@@ -677,11 +678,10 @@ RAS
 Rasmus
 Rašomavičius
 RData
-recieved
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -692,7 +692,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 resamplings
 Revermann
 Rey
@@ -836,7 +836,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -869,7 +869,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
