@@ -78,7 +78,7 @@ authors:
     email: ute.jandt@botanik.uni-halle.de
     affiliations: 
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
-      - Puschstrasse 4, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
     name: Florian Jansen
     initials: FJ
@@ -602,12 +602,13 @@ authors:
     affiliations: 
       - University of Göttingen, Department of Biodiversity, Macroecology and Biogeography, Büsgenweg 1, 37077, Göttingen, Germany
   - github: 
-    name: Hjalmar Kühl
-    initials: HK
+    name: Hjalmar S. Kühl
+    initials: HSK
+    orcid: 0000-0002-4440-9161
     email: kuehl@eva.mpg.de
     affiliations: 
-      - Max Planck Institute for Evolutionary Anthropology (MPI-EVA), Primatology, Puschstrasse 4, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig), Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
     name: Anna Kuzemko
     initials: AK
@@ -661,9 +662,11 @@ authors:
   - github: 
     name: Miguel D. Mahecha
     initials: MDM
+    orcid: 0000-0003-3031-613X
     email: miguel.mahecha@uni-leipzig.de
     affiliations: 
-      - Leipzig University, Remote Sensing Centre for Earth System Research, Talstr. 6b, 07745, Leipzig, Germany
+      - University of Leipzig, Remote Sensing Centre for Earth System Research, Talstr. 35, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig), Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
     name: Corrado Marcenò
     initials: CM
