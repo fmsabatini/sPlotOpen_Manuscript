@@ -203,7 +203,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -680,7 +680,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -691,7 +691,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 resamplings
 Revermann
 Rey
@@ -773,7 +773,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -868,7 +868,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV

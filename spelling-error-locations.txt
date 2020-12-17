@@ -35,6 +35,7 @@ content/20.BackgroundSummary.md:44:dataset
 content/20.BackgroundSummary.md:44:resampled
 content/20.BackgroundSummary.md:44:sPlotOpen
 content/20.BackgroundSummary.md:49:dataset
+content/20.BackgroundSummary.md:49:dataset
 content/20.BackgroundSummary.md:49:datasets
 content/20.BackgroundSummary.md:49:Eckert
 content/20.BackgroundSummary.md:49:resampling
@@ -87,11 +88,13 @@ content/30.Methods.md:38:resampling
 content/30.Methods.md:39:dataset
 content/30.Methods.md:39:dataset’s
 content/30.Methods.md:41:arcmin
+content/30.Methods.md:41:dataset
 content/30.Methods.md:41:PCA
 content/30.Methods.md:41:PCA
 content/30.Methods.md:41:PCA
 content/30.Methods.md:41:PCA
 content/30.Methods.md:41:PCA
+content/30.Methods.md:41:resampling
 content/30.Methods.md:41:sPlotOpen
 content/30.Methods.md:44:resampling
 content/30.Methods.md:44:resamplings
