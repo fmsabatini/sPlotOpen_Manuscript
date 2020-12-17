@@ -433,7 +433,6 @@ content/70.Acknowledgements_et_al.md:55:sPlot
 content/70.Acknowledgements_et_al.md:55:sPlot’s
 content/91.ManubotTables.md:3:dataset
 content/91.ManubotTables.md:3:GVID
-content/91.ManubotTables.md:3:sPlot
 content/91.ManubotTables.md:3:sPlotOpen
 content/91.ManubotTables.md:8:Dataset
 content/91.ManubotTables.md:8:GIVD
