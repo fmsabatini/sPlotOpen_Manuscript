@@ -83,7 +83,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 biomes
 Biometrics
 BIONEOCAL
@@ -202,7 +202,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -287,7 +287,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -692,7 +692,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -818,7 +818,6 @@ Trebon
 trg
 Triesdorf
 Tromsø
-truthing
 Tsipe
 Tsiripidis
 Tulipán
@@ -835,7 +834,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
