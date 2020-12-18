@@ -83,8 +83,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-biomes
+Biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -867,7 +867,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+VEGETAL
 VegetWeb
 VegItaly
 VegMV
