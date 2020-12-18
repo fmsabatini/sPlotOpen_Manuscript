@@ -417,7 +417,7 @@ authors:
     orcid: 0000-0001-6126-6660
     email: mgiorgis@imbiv.unc.edu.ar
     affiliations: 
-      - Instituto Multidisciplinario de Biología Vegetal (IMBIV-CONICET), ECOLOGÍA VEGETAL Y FITOGEOGRAFÍA, Av. Vélez Sársfield 1611, 5000, Córdoba, Argentina
+      - Instituto Multidisciplinario de Biología Vegetal (IMBIV-CONICET), Ecología vegetal y fitogeografía, Av. Vélez Sársfield 1611, 5000, Córdoba, Argentina
   - github: 
     name: Valentin Golub
     initials: VG
@@ -465,7 +465,7 @@ authors:
     orcid: 0000-0002-0872-5108
     email: mohamed.hatim@wur.nl
     affiliations: 
-      - Wageningen University, Plant Ecology and Nature Conservation Group - Environmental Sciences Department, P.O. Box Postbus 47, Droevendaalsesteeg 3, 6700 AA, Wageningen, The Netherlands
+      - Wageningen University, Plant Ecology and Nature Conservation Group - Environmental Sciences Department, P.O. Box Postbus 47, Droevendaalsesteeg 3, 6700 AA, Wageningen, Netherlands
       - Tanta University, Botany and Microbiology Department - Faculty of Science, El Geish St., 31527, Tanta, Egypt
   - github: 
     name: Bruno Hérault
@@ -608,7 +608,7 @@ authors:
     email: kuehl@eva.mpg.de
     affiliations: 
       - Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig), Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
     name: Anna Kuzemko
     initials: AK
@@ -666,7 +666,7 @@ authors:
     email: miguel.mahecha@uni-leipzig.de
     affiliations: 
       - University of Leipzig, Remote Sensing Centre for Earth System Research, Talstr. 35, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig), Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
   - github: 
     name: Corrado Marcenò
     initials: CM
@@ -759,7 +759,7 @@ authors:
     orcid: 0000-0003-1284-3163
     email: pauchard@udec.cl
     affiliations: 
-      - Universidad de Concepción, Laboratorio de Invasiones Biológicas (LIB). Facultad de Ciencias Forestales., Victoria 631, 4030000, Concepción, Chile
+      - Universidad de Concepción, Laboratorio de Invasiones Biológicas (LIB), Facultad de Ciencias Forestales, Victoria 631, 4030000, Concepción, Chile
       - Institute of Ecology and Biodiversity (IEB), Chile
   - github: 
     name: Robert K. Peet
