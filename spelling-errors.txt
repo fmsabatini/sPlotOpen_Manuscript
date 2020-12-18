@@ -83,8 +83,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
-Biomes
+biome
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -639,7 +639,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -692,7 +692,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -835,7 +835,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
