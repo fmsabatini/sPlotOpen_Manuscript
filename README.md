@@ -1,4 +1,4 @@
-# sPlot open - An environmentally-balanced, open-access, global dataset of vegetation plots
+# sPlotOpen – An environmentally-balanced, open-access, global dataset of vegetation plots
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript describes the construction of sPlot Open. sPlot Open is an environmentally-balanced subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
+This manuscript describes the construction of sPlotOpen. sPlotOpen is an environmentally-balanced subset of [sPlot - The Global Vegetation-Plot Database](https://www.idiv.de/en/splot.html) (version 2.1), which will be released as open-access. 
 
 Links to the rendered version of this manuscript:  
 + **HTML manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/
@@ -20,7 +20,7 @@ Links to the rendered version of this manuscript:
 
 **This manuscript is under construction**  
 
-See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlot Open database is being constructed  
+See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlotOpen database is being constructed  
 
 ### Wiki - How tos:
 Check the project's [Wiki](https://github.com/fmsabatini/sPlotOpen_Manuscript/wiki) for help on:  
