@@ -83,7 +83,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 biomes
 Biometrics
 BIONEOCAL
@@ -260,7 +260,6 @@ EPHE
 ERC
 Erenskjold
 Erlangen
-Espanya
 Este
 Estudios
 ESY
@@ -288,7 +287,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -692,7 +691,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -773,7 +772,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -835,7 +834,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
