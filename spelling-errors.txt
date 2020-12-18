@@ -83,8 +83,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
-Biomes
+biome
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -638,7 +638,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -680,7 +680,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -691,7 +691,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -772,7 +772,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -834,7 +834,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -867,7 +867,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-VEGETAL
+Vegetal
 VegetWeb
 VegItaly
 VegMV
