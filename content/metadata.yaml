@@ -17,7 +17,7 @@ authors:
     twitter: sPlot_iDiv
     email: francesco.sabatini@botanik.uni-halle.de
     affiliations: 
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
     correspondence: true
     symbol_str: "†"
@@ -59,7 +59,7 @@ authors:
     affiliations: 
       - Zurich University of Applied Sciences (ZHAW), Vegetation Ecology Group, Institute of Natural Resource Sciences (IUNR), Grüentalstr. 14, 8820, Wädenswil, Switzerland
       - University of Bayreuth, Plant Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), Universitätsstr. 30, 95447, Bayreuth, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Patrice De Ruffray
     initials: PDR
@@ -78,7 +78,7 @@ authors:
     email: ute.jandt@botanik.uni-halle.de
     affiliations: 
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Florian Jansen
     initials: FJ
@@ -608,7 +608,7 @@ authors:
     email: kuehl@eva.mpg.de
     affiliations: 
       - Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Anna Kuzemko
     initials: AK
@@ -666,7 +666,7 @@ authors:
     email: miguel.mahecha@uni-leipzig.de
     affiliations: 
       - University of Leipzig, Remote Sensing Centre for Earth System Research, Talstr. 35, 04103, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Corrado Marcenò
     initials: CM
@@ -1011,7 +1011,7 @@ authors:
     affiliations: 
       - University of Oulu, Ecology and Genetics Research Unit, Biodiversity Unit, Kaitoväylä 5, 90014, Oulu, Finland
       - Helmholtz Center for Environmental Research - UFZ, Department of Physiological Diversity, Permoserstr. 15, 04318, Leipzig, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
   - github: 
     name: Henrik von Wehrden
     initials: HVW
@@ -1048,7 +1048,7 @@ authors:
     email: karsten.wesche@senckenberg.de
     affiliations: 
       - Senckenberg Museum of Natural History Görlitz, Botany Department, PO Box 300 154, 02806, Görlitz, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
       - Technische Universität Dresden, International Institute Zittau, Markt 23, 02763, Zittau, Germany
   - github: 
     name: Timothy J.S. Whitfeld
@@ -1098,4 +1098,4 @@ authors:
     email: helge.bruelheide@botanik.uni-halle.de
     affiliations: 
       - Martin-Luther University Halle-Wittenberg, Institute of Biology, Am Kirchtor 1, 06108, Halle, Germany
-      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstrasse 4, 04103, Leipzig, Germany
+      - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Puschstraße 4, 04103, Leipzig, Germany
