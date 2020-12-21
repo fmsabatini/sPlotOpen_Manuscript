@@ -202,7 +202,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -287,7 +287,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -638,7 +638,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -771,7 +771,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
