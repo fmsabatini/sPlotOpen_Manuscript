@@ -84,7 +84,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -202,7 +202,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -638,7 +638,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -690,7 +690,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -771,7 +771,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -865,7 +865,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-vegetal
+Vegetal
 VegetWeb
 VegItaly
 VegMV
