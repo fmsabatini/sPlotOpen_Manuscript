@@ -33,7 +33,6 @@ content/20.BackgroundSummary.md:36:sPlot
 content/20.BackgroundSummary.md:40:dataset
 content/20.BackgroundSummary.md:40:sPlot
 content/20.BackgroundSummary.md:41:sPlot
-content/20.BackgroundSummary.md:42:dataset
 content/20.BackgroundSummary.md:42:maximises
 content/20.BackgroundSummary.md:44:dataset
 content/20.BackgroundSummary.md:44:resampled
