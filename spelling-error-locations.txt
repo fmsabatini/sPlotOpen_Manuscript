@@ -417,7 +417,7 @@ content/70.Acknowledgements_et_al.md:45:sPlot
 content/70.Acknowledgements_et_al.md:45:sPlot
 content/70.Acknowledgements_et_al.md:45:Turboveg
 content/70.Acknowledgements_et_al.md:50:Biosketch
-content/70.Acknowledgements_et_al.md:51:dataset
+content/70.Acknowledgements_et_al.md:51:datasets
 content/70.Acknowledgements_et_al.md:51:sPlot
 content/70.Acknowledgements_et_al.md:52:biomes
 content/70.Acknowledgements_et_al.md:52:sDiv
