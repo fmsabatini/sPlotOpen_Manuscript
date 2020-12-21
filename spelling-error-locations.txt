@@ -117,6 +117,7 @@ content/30.Methods.md:53:dataset
 content/30.Methods.md:54:resampling
 content/30.Methods.md:61:macroclimatic
 content/30.Methods.md:65:BHPMF
+content/30.Methods.md:66:priori
 content/30.Methods.md:67:phylogenetic
 content/30.Methods.md:72:CWM
 content/30.Methods.md:72:CWV

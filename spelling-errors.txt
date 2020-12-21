@@ -659,6 +659,7 @@ Popov
 Postbus
 Praha
 Prawdziwka
+priori
 Privada
 programme
 Prokhorov
@@ -832,7 +833,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
