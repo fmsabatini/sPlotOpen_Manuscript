@@ -170,7 +170,6 @@ content/40.DataRecords.md:33:GIVD
 content/50.DatabaseOrganization.md:3:PlotObservationID
 content/50.DatabaseOrganization.md:3:relationally
 content/50.DatabaseOrganization.md:3:sPlotOpen
-content/50.DatabaseOrganization.md:5:sPlotOpen
 content/50.DatabaseOrganization.md:6:Chytrý
 content/50.DatabaseOrganization.md:6:ESY
 content/50.DatabaseOrganization.md:6:EUNIS
