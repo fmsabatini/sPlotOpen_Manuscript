@@ -83,7 +83,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 Biomes
 Biometrics
 BIONEOCAL
@@ -202,7 +202,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -865,7 +865,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
