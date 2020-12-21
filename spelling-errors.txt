@@ -83,7 +83,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
+Biome
 biomes
 Biometrics
 BIONEOCAL
@@ -401,7 +401,6 @@ IMBIV
 IMEBI
 INBO
 INBOVEG
-independant
 Indreica
 Inger
 INP
@@ -772,7 +771,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID

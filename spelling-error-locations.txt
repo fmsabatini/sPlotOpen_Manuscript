@@ -95,7 +95,6 @@ content/30.Methods.md:41:resampled
 content/30.Methods.md:41:sPlot
 content/30.Methods.md:42:resampled
 content/30.Methods.md:42:resampling
-content/30.Methods.md:43:independant
 content/30.Methods.md:43:resampling
 content/30.Methods.md:45:arcmin
 content/30.Methods.md:45:dataset
