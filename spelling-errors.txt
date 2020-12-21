@@ -52,7 +52,6 @@ Autonoma
 Autónoma
 Babolsar
 BACI
-backone
 Banerjee
 Bauters
 BayCEER
@@ -202,7 +201,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -412,7 +411,6 @@ Invasiones
 Investigaciones
 Ioannis
 ipbes
-iPlant
 IRD
 ISOFYS
 Isothermality
@@ -638,7 +636,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -866,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
