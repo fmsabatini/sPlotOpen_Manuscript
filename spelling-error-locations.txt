@@ -770,7 +770,6 @@ content/91.ManubotTables.md:109:Gasper
 content/91.ManubotTables.md:109:IFFSC
 content/91.ManubotTables.md:109:Luís
 content/91.ManubotTables.md:109:Vibrans
-content/91.ManubotTables.md:109:Vibrans
 content/91.ManubotTables.md:110:Grande
 content/91.ManubotTables.md:110:Sul
 content/91.ManubotTables.md:110:Valério
