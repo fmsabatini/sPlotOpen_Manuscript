@@ -82,7 +82,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 biomes
 Biometrics
 BIONEOCAL
@@ -678,7 +678,7 @@ RData
 Recursos
 Regus
 relationally
-Releve
+releve
 relevés
 Renata
 René
@@ -864,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
