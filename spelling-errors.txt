@@ -201,7 +201,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 datasets
 dataset’s
 Dataveg
@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -338,7 +338,6 @@ Gortner
 Gothenburg
 Göttingen
 Grande
-Grandpré
 Grenaavej
 Greve
 Grüentalstr
@@ -533,6 +532,7 @@ Mahecha
 Manaaki
 MARBEC
 Marcenò
+Marchand
 Marcin
 Marijn
 Mariya
@@ -636,7 +636,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -678,7 +678,7 @@ RData
 Recursos
 Regus
 relationally
-releve
+Releve
 relevés
 Renata
 René
@@ -831,7 +831,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -864,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-vegetal
+Vegetal
 VegetWeb
 VegItaly
 VegMV
