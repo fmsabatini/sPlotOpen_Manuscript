@@ -201,7 +201,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 datasets
 dataset’s
 Dataveg
@@ -636,7 +636,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -689,7 +689,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -770,7 +770,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -831,7 +831,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -864,7 +864,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
