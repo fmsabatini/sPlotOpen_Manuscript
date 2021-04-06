@@ -202,8 +202,8 @@ Daniëls
 Darwinweg
 Databank
 dataset
-datasets
 dataset’s
+datasets
 Dataveg
 dbh
 DBI
@@ -286,7 +286,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -353,7 +353,6 @@ Haase
 HabItAlp
 Haider
 Haikou
-Hainan
 Halle
 Hallerova
 Hamid
@@ -636,7 +635,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -668,6 +667,7 @@ Purschke
 Puschstraße
 Pushchino
 Qikiqtaruk
+quadrat
 Québec
 Quirós
 RAINFOR
@@ -679,12 +679,13 @@ Recursos
 Regus
 relationally
 Releve
-relevés
+relevé
 Renata
 René
 Renmin
 Rennweg
 Renovables
+representativeness
 Republicii
 Repunlic
 Resample
@@ -702,6 +703,7 @@ Rostock
 Rouf
 Rouyn
 Rua
+ruderal
 Ruffray
 Ruprecht
 Rūsiņa
@@ -831,7 +833,7 @@ UiT
 ukasz
 ULTRABIO
 UMR
-understory
+Understory
 Unité
 Universidad
 Universidade
