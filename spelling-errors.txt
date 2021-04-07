@@ -24,7 +24,6 @@ Ambientales
 Amiens
 Ammophiletea
 Amphitheatre
-analysing
 Andraž
 André
 Andrey
@@ -289,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-Fondecyt
+FONDECYT
 FONDEN
 FORECOFUN
 Forestales
@@ -694,7 +693,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -778,7 +777,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -873,7 +872,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-vegetal
+Vegetal
 VegetWeb
 VegItaly
 VegMV
