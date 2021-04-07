@@ -266,6 +266,7 @@ content/60.TechnicalValidation.md:42:dataset
 content/60.TechnicalValidation.md:42:sPlot
 content/60.TechnicalValidation.md:45:sPlot
 content/60.TechnicalValidation.md:45:sPlotOpen
+content/60.TechnicalValidation.md:46:sPlotOpen
 content/70.Acknowledgements_et_al.md:1:Acknowledgements
 content/70.Acknowledgements_et_al.md:3:DFG
 content/70.Acknowledgements_et_al.md:3:Francesco

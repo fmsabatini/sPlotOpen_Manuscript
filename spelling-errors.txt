@@ -777,7 +777,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -839,7 +839,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-understory
+Understory
 Unité
 Universidad
 Universidade
