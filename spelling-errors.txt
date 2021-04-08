@@ -83,7 +83,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 biomes
 Biometrics
 BIONEOCAL
@@ -203,7 +203,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 dataset’s
 datasets
 Dataveg
@@ -288,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -639,7 +639,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -839,7 +839,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -872,7 +872,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-vegetal
+Vegetal
 VegetWeb
 VegItaly
 VegMV
