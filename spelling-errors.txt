@@ -639,7 +639,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -693,7 +693,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -777,7 +777,7 @@ Stadt
 Stančić
 Stebler
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -839,7 +839,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-Understory
+understory
 Unité
 Universidad
 Universidade
@@ -872,7 +872,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
