@@ -1,6 +1,7 @@
 AAAA
 Aarhus
 Aavik
+Abad
 Abd
 Abitibi
 Acad
@@ -84,7 +85,7 @@ Biología
 Biológicas
 biologie
 biome
-biomes
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -192,7 +193,9 @@ CSI
 CSIC
 Csiky
 csv
+Cultura
 Curran
+Cusco
 Ćušterevska
 CWM
 CWV
@@ -203,7 +206,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 dataset’s
 datasets
 Dataveg
@@ -574,6 +577,7 @@ Münster
 Munzinger
 Museo
 Mz
+Nacional
 Napoca
 Naqinezhad
 Náquera
@@ -640,7 +644,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-Phytosociological
+phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -694,7 +698,7 @@ Republicii
 Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -795,6 +799,7 @@ Swacha
 SWEA
 SyG
 Sylhet
+Sylviusweg
 Systèmes
 Talstr
 Tanta
@@ -874,7 +879,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
