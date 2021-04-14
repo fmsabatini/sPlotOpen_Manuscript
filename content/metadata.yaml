@@ -36,7 +36,7 @@ authors:
     orcid: 0000-0002-1420-5758
     email: Tarek.Hattab@ifremer.fr
     affiliations: 
-      - MARBEC, University of Montpellier, CNRS, IFREMER and IRD, Sète, France
+      - MARBEC, Univ Montpellier, CNRS, IFREMER and IRD, Sète, France
   - github: 
     name: Elise Aimee Arnst
     initials: EAA
@@ -258,6 +258,7 @@ authors:
   - github: 
     name: Jörg Brunet
     initials: JB
+    orcid: 0000-0003-2667-4575
     email: jorg.brunet@slu.se
     affiliations: 
       - Southern Swedish Forest Research Centre, Swedish University of Agricultural Sciences, Sundsvägen 3, 230 53 Alnarp, Sweden
@@ -644,6 +645,7 @@ authors:
     email: frederic.lens@naturalis.nl
     affiliations: 
       - Naturalis Biodiversity Center, Research Group Functional Traits, Darwinweg 2, 2333 CR, Leiden, The Netherlands
+      - Leiden University, Institute of Biology Leiden, Sylviusweg 72, 2333 BE, Leiden, The Netherlands
   - github: 
     name: Débora Vanessa Lingner
     initials: DVL
@@ -699,9 +701,11 @@ authors:
   - github: 
     name: Abel Monteagudo Mendoza
     initials: AMM
+    orcid: 0000-0002-1047-845X
     email: amonteagudomendoza@gmail.com
     affiliations: 
       - Jardín Botánico de Missouri Oxapampa, Bolognesi Mz-E-6, Oxapampa, Pasco, Peru
+      - Universidad Nacional de San Antonio Abad del Cusco, Av. de la Cultura 733, Cusco, Peru
   - github: 
     name: Ladislav Mucina
     initials: LM
@@ -1102,6 +1106,7 @@ authors:
   - github: 
     name: Martin Zobel
     initials: MZ
+    orcid: 0000-0001-7957-6704
     email: martin.zobel@ut.ee
     affiliations: 
       - University of Tartu, Institute of Ecology and Earth Sciences, Lai st 40, 51005, Tartu, Estonia
