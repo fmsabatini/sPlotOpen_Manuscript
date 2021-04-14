@@ -36,6 +36,7 @@ Anthropisés
 anthropogenic
 Antipolis
 Apostolova
+APVV
 AQP
 arcmin
 Ardingly
@@ -85,7 +86,7 @@ Biología
 Biológicas
 biologie
 biome
-Biomes
+biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -206,7 +207,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 dataset’s
 datasets
 Dataveg
@@ -846,7 +847,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-understory
+Understory
 Unité
 Universidad
 Universidade
