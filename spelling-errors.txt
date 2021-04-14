@@ -288,7 +288,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -544,6 +544,7 @@ Marticorena
 Martínez
 Martynenko
 Mathar
+Matieland
 maximises
 Mazandaran
 McLaren
@@ -639,7 +640,7 @@ PHIHOX
 phylogenetic
 Phytocoenology
 Phytodiversity
-phytosociological
+Phytosociological
 phytosociologists
 Picardie
 PIEF
@@ -693,7 +694,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -776,8 +777,9 @@ SSAForests
 Stadt
 Stančić
 Stebler
+Stellenbosch
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -872,7 +874,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-vegetal
+Vegetal
 VegetWeb
 VegItaly
 VegMV
