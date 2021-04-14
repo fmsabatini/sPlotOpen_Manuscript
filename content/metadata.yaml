@@ -69,6 +69,7 @@ authors:
   - github: 
     name: Stephan M. Hennekens
     initials: SMH
+    orcid: 0000-0003-1221-0323
     email: stephan.hennekens@wur.nl
     affiliations: 
       - Wageningen Environmental Research, P.O.Box 47, 6700 AA, Wageningen, Netherlands
@@ -194,9 +195,10 @@ authors:
   - github: 
     name: Isabelle Aubin
     initials: IA
+    orcid: 0000-0002-5953-1012
     email: isabelle.aubin@canada.ca
     affiliations: 
-      - Canadian Forest Service, Natural Resources Canada, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie (Ontario), Canada
+      - Natural Resources Canada, Canadian Forest Service, Great Lakes Forestry Centre, 1219 Queen St. East, P6A 2E5, Sault Ste Marie, ON, Canada
   - github: 
     name: Arindam Banerjee
     initials: AB
@@ -249,9 +251,10 @@ authors:
   - github: 
     name: Viktoria Bondareva
     initials: VB
+    orcid: 0000-0002-6676-5722
     email: bondarevavictoria@yandex.ru
     affiliations: 
-      - Institute of Ecology of the Volga River Basin, Department of Phytodiversity Problems, Komzina, 10, 445003, Toljatty, Russian Federation
+      - Institute of Ecology of the Volga River Basin, Laboratory of Phytodiversity Problem and of Phytocoenology, Komzina, 10, 445003, Toljatty, Russian Federation
   - github: 
     name: Jörg Brunet
     initials: JB
@@ -296,6 +299,7 @@ authors:
   - github: 
     name: János Csiky
     initials: JC
+    orcid: 0000-0002-7920-5070
     email: moon@ttk.pte.hu
     affiliations: 
       - University of Pécs, Department of Ecology, Ifjúság u. 6., 7624, Pécs, Hungary
@@ -360,6 +364,7 @@ authors:
   - github: 
     name: Jörg Ewald
     initials: JE
+    orcid: 0000-0002-2758-9324
     email: joerg.ewald@hswt.de
     affiliations: 
       - Hochschule Weihenstephan-Triesdorf, University of Applied Sciences, Hans-Carl-von-Carlowitz-Platz 3, 85354, Freising, Germany
@@ -402,15 +407,17 @@ authors:
   - github: 
     name: Emmanuel Garbolino
     initials: EG
+    orcid: 0000-0002-4954-6069
     email: emmanuel.garbolino@asessc.net
     affiliations: 
       - Climpact Data Science (CDS), Nova Sophia - Regus Nova, 291 rue Albert Caquot, CS 40095, 06902, Sophia Antipolis Cedex, France
   - github: 
     name: Hamid Gholizadeh
     initials: HG
+    orcid: 0000-0002-3694-368X
     email: gholizadeh.hamid@gmail.com
     affiliations: 
-      - University of Mazandaran, Department of Biology, Babolsar, Iran
+      - University of Mazandaran, Department of Plant Biology, Babolsar, Iran
   - github: 
     name: Melisa Giorgis
     initials: MG
@@ -674,12 +681,14 @@ authors:
     email: marcenocorrado@libero.it
     affiliations: 
       - University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain
+      - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
     name: Vasiliy Martynenko
     initials: VM
+    orcid: 0000-0002-9071-3789
     email: vasmar@anrb.ru
     affiliations: 
-      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
+      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Ufa Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
   - github: 
     name: Jesper Erenskjold Moeslund
     initials: JEM
@@ -699,10 +708,12 @@ authors:
     orcid: 0000-0003-0317-8886
     email: Ladislav.Mucina@murdoch.edu.au
     affiliations: 
-      - Murdoch University, Harry Butler Institute, 90 South Street,  Building 390, 6150, Murdoch, Australia
+      - Murdoch University, Harry Butler Institute, 90 South Street, Building 390, Murdoch 6150, Perth, Australia
+      - Stellenbosch University, Dept. of Geography & Environmental Studies, Private Bag X1, Matieland 7602, Stellenbosch, South Africa
   - github: 
     name: Jonas V. Müller
     initials: JVM
+    orcid: 0000-0001-7049-3048
     email: j.mueller@kew.org
     affiliations: 
       - Royal Botanic Gardens, Kew, Conservation Science, Wakehurst Place, RH17 6TN, Ardingly, West Sussex, United Kingdom
@@ -764,6 +775,7 @@ authors:
   - github: 
     name: Robert K. Peet
     initials: RKP
+    orcid: 0000-0003-2823-6587
     email: peet@unc.edu
     affiliations: 
       - University of North Carolina, Department of Biology, CB3280, South Road, 27599-3280, Chapel Hill, NC, United States
@@ -885,9 +897,10 @@ authors:
   - github: 
     name: Pavel Shirokikh
     initials: PS
+    orcid: 0000-0003-1864-4878
     email: Shirpa@mail.ru
     affiliations: 
-      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
+      - Ufa Federal Scientific Center of the Russian Academy of Sciences, Ufa Institute of Biology, prospekt Oktyabrya, 69, 450054, Ufa, Russian Federation
   - github: 
     name: Jozef Šibík
     initials: JŠ
@@ -911,9 +924,10 @@ authors:
   - github: 
     name: Željko Škvorc
     initials: ŽŠ
+    orcid: 0000-0002-2848-1454
     email: skvorc@sumfak.hr
     affiliations: 
-      - University of Zagreb, Faculty of Forestry, Svetošimunska 25, 10000, Zagreb, Croatia
+      - University of Zagreb, Faculty of Forestry and Wood Technology, Svetošimunska 25, 10000, Zagreb, Croatia
   - github: 
     name: Ben Sparrow
     initials: BS
@@ -983,7 +997,7 @@ authors:
     orcid: 0000-0001-8028-8953
     email: evelezmartin@gmail.com
     affiliations: 
-      - ILEX Consultoria Científica, Amelia Telles 184, 9.046007E7, Porto Alegre, Brazil
+      - ILEX Consultoria Científica, Amelia Telles 184, 90.460-070, Porto Alegre, Brazil
   - github: 
     name: Roberto Venanzoni
     initials: RV
@@ -1031,8 +1045,9 @@ authors:
     affiliations: 
       - University of Alaska, Institute of Arctic Biology, P. O. Box 7570000, 99775, Fairbanks, United States
   - github: 
-    name: Donald Waller
-    initials: DW
+    name: Donald M. Waller
+    initials: DMW
+    orcid: 0000-0001-5377-3929
     email: dmwaller@wisc.edu
     affiliations: 
       - University of Wisconsin-Madison, Botany, 430 Lincoln Drive, 53706, Madison, United States
