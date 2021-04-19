@@ -698,10 +698,9 @@ Rennweg
 Renovables
 representativeness
 Republicii
-Repunlic
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
@@ -849,7 +848,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-Understory
+understory
 Unité
 Universidad
 Universidade
