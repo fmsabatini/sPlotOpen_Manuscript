@@ -405,7 +405,7 @@ authors:
     email: agalmer@ceu.es
     affiliations: 
       - Universidad CEU San Pablo, Laboratorio de Botánica, P.O. Box 67, 28660, Boadilla del Monte, Madrid, Spain
-      - Universidad Privada Antonio Guillermo Urrelo, Laboratorio de Botánica, Jr. José Sabogal #913, Cajamarca, Peru
+      - Universidad Privada Antonio Guillermo Urrelo, Laboratorio de Botánica, Jr. José Sabogal 913, Cajamarca, Peru
       - Estudios Fitogeográficos del Perú, Herbario AQP, Sánchez Cerro 219, Manuel Prado, Paucarpata, Arequipa, Peru
   - github: 
     name: Emmanuel Garbolino
@@ -1116,7 +1116,7 @@ authors:
     orcid: 0000-0001-7957-6704
     email: martin.zobel@ut.ee
     affiliations: 
-      - University of Tartu, Institute of Ecology and Earth Sciences, Lai st 40, 51005, Tartu, Estonia
+      - University of Tartu, Institute of Ecology and Earth Sciences, Lai 40, 51005, Tartu, Estonia
   - github: Bruelheide
     name: Helge Bruelheide
     initials: HB
