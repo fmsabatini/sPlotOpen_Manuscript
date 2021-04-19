@@ -85,8 +85,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-biomes
+Biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -244,6 +244,7 @@ Dukelska
 Dynamique
 Dziuba
 Eckert
+EcolChange
 Ecología
 Ecologie
 Ecotone
@@ -292,7 +293,7 @@ Fitogeográficos
 Flavia
 Florestal
 Florian
-FONDECYT
+Fondecyt
 FONDEN
 FORECOFUN
 Forestales
@@ -665,6 +666,7 @@ Popov
 Postbus
 Praha
 Prawdziwka
+PRG
 priori
 Privada
 programme
@@ -699,7 +701,7 @@ Republicii
 Repunlic
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -847,7 +849,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-understory
+Understory
 Unité
 Universidad
 Universidade
@@ -880,7 +882,7 @@ Vasiliy
 Vásquez
 Vassilev
 VegBank
-Vegetal
+vegetal
 VegetWeb
 VegItaly
 VegMV
