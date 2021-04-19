@@ -85,8 +85,8 @@ Biogeography
 Biología
 Biológicas
 biologie
-biome
-biomes
+Biome
+Biomes
 Biometrics
 BIONEOCAL
 Bioresources
@@ -132,6 +132,7 @@ Brody
 Bruelheide
 bryophytes
 Büsgenweg
+Cajamarca
 Caledonian
 Camino
 Caquot
@@ -207,7 +208,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-dataset
+Dataset
 dataset’s
 datasets
 Dataveg
@@ -700,7 +701,7 @@ representativeness
 Republicii
 Resample
 resampled
-Resampling
+resampling
 Revermann
 Rey
 Rickleff
@@ -785,7 +786,7 @@ Stančić
 Stebler
 Stellenbosch
 Stevanović
-str
+Str
 Strasburg
 Straße
 subplotID
@@ -848,7 +849,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-understory
+Understory
 Unité
 Universidad
 Universidade
