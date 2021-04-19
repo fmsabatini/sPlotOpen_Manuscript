@@ -136,9 +136,10 @@ authors:
   - github: 
     name: Tsipe Aavik
     initials: TA
+    orcid: 0000-0001-5232-3950
     email: tsipe.aavik@ut.ee
     affiliations: 
-      - University of Tartu, Department of Ecology and Earth Sciences, Department of Botany, Lai 40, Tartu 51005, Estonia
+      - University of Tartu, Institute of Ecology and Earth Sciences, Lai 40, 51005, Tartu, Estonia
   - github: 
     name: Svetlana Aćić
     initials: SA
@@ -738,6 +739,7 @@ authors:
   - github: 
     name: Jalil Noroozi
     initials: JN
+    orcid: 0000-0003-4124-2359
     email: noroozi.jalil@gmail.com
     affiliations: 
       - University of Vienna, Department of Botany and Biodiversity Research, Rennweg 14, 1030, Vienna, Austria
@@ -982,6 +984,7 @@ authors:
   - github: 
     name: Kim André Vanselow
     initials: KAV
+    orcid: 0000-0003-3299-6220
     email: kim.vanselow@fau.de
     affiliations: 
       - University of Erlangen-Nuremberg, Department of Geography, Wetterkreuz 15, 91058, Erlangen, Germany
