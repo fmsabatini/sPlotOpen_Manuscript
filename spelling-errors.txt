@@ -25,6 +25,7 @@ Ambientales
 Amiens
 Ammophiletea
 Amphitheatre
+Anahita
 Andraž
 André
 Andrey
@@ -85,7 +86,7 @@ Biogeography
 Biología
 Biológicas
 biologie
-Biome
+biome
 Biomes
 Biometrics
 BIONEOCAL
@@ -196,6 +197,7 @@ CSIC
 Csiky
 csv
 Cultura
+curation
 Curran
 Cusco
 Ćušterevska
@@ -208,7 +210,7 @@ Damanhour
 Daniëls
 Darwinweg
 Databank
-Dataset
+dataset
 dataset’s
 datasets
 Dataveg
@@ -393,6 +395,7 @@ Hua
 Hubau
 IC
 iDiv
+iDiv’s
 Idoia
 IEB
 iela
@@ -468,6 +471,7 @@ Karspüle
 Karsten
 Kattge
 Kavgac
+Kazem
 Kearsley
 Keldysh
 Kempff
@@ -786,7 +790,7 @@ Stančić
 Stebler
 Stellenbosch
 Stevanović
-Str
+str
 Strasburg
 Straße
 subplotID
@@ -849,7 +853,7 @@ ukasz
 ULTRABIO
 UMR
 undersampled
-Understory
+understory
 Unité
 Universidad
 Universidade
