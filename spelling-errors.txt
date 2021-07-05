@@ -705,7 +705,7 @@ representativeness
 Republicii
 Resample
 resampled
-resampling
+Resampling
 Revermann
 Rey
 Rickleff
