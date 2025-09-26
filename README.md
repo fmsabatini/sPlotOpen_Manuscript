@@ -18,7 +18,7 @@ Links to the rendered version of this manuscript:
 + **HTML manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/
 + **PDF manuscript** at https://fmsabatini.github.io/sPlotOpen_Manuscript/manuscript.pdf
 
-**This manuscript is under construction**  
+**The Manuscript was eventually [published in Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.13346) in June 2021**
 
 See the sister project [sPlotOpen_code](https://github.com/fmsabatini/sPlotOpen_Code/) to see how the sPlotOpen database is being constructed  
 
